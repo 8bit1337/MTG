@@ -1,0 +1,41 @@
+Count,Name,Type,Cost,Rarity,Section
+2,Angelic Page,Creature  - Angel Spirit,{1}{W},Common,main
+2,Augury Owl,Creature  - Bird,{1}{U},Common,main
+1,Aven Fleetwing,Creature  - Bird Soldier,{3}{U},Common,main
+1,Boros Guildgate,Land  - Gate,,Common,main
+2,Chandra's Spitfire,Creature  - Elemental,{2}{R},Uncommon,main
+2,Dual Shot,Instant,{R},Common,main
+2,Evolving Wilds,Land,,Common,main
+1,Favorable Winds,Enchantment,{1}{U},Uncommon,main
+2,Firecannon Blast,Sorcery,{1}{R}{R},Common,main
+1,Flameblade Angel,Creature  - Angel,{4}{R}{R},Rare,main
+2,Ghostly Sentinel,Creature  - Kor Spirit,{4}{W},Common,main
+1,Gust Walker,Creature  - Human Wizard,{1}{W},Common,main
+4,Island,Basic Land  - Island,,BasicLand,main
+4,Izzet Guildgate,Land  - Gate,,Common,main
+1,Lightning Angel,Creature  - Angel,{1}{R}{W}{U},MythicRare,main
+2,Lightning Bolt,Instant,{R},Uncommon,main
+1,Lightning Helix,Instant,{R}{W},Uncommon,main
+2,Military Intelligence,Enchantment,{1}{U},Uncommon,main
+3,Mountain,Basic Land  - Mountain,,BasicLand,main
+2,Mystic Monastery,Land,,Uncommon,main
+4,Plains,Basic Land  - Plains,,BasicLand,main
+1,Riptide Chimera,Enchantment Creature  - Chimera,{2}{U},Uncommon,main
+2,Serra Angel,Creature  - Angel,{3}{W}{W},Uncommon,main
+1,Settle the Wreckage,Instant,{2}{W}{W},Rare,main
+2,Shivan Dragon,Creature  - Dragon,{4}{R}{R},Rare,main
+2,Spiketail Hatchling,Creature  - Drake,{1}{U},Uncommon,main
+1,Sunbird's Invocation,Enchantment,{5}{R},Rare,main
+2,Swiftwater Cliffs,Land,,Common,main
+2,Terramorphic Expanse,Land,,Common,main
+1,Thousand Winds,Creature - Elemental,{4}{U}{U},Rare,main
+1,Topplegeist,Creature  - Spirit,{W},Uncommon,main
+2,Viral Drake,Creature  - Drake,{3}{U},Uncommon,main
+1,Windrider Patrol,Creature  - Merfolk Wizard,{3}{U}{U},Uncommon,main
+1,Disenchant,Instant,{1}{W},Common,sideboard
+1,Shatter,Instant,{1}{R},Common,sideboard
+1,Shock,Instant,{R},Common,sideboard
+
+
+
+

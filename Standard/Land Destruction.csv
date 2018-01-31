@@ -1,0 +1,28 @@
+Count,Name,Type,Cost,Rarity,Section
+2,Baleful Eidolon,Enchantment Creature  - Spirit,{1}{B},Common,main
+1,Barren Moor,Land,,Common,main
+3,Bloodfell Caves,Land,,Common,main
+2,Demolish,Sorcery,{3}{R},Common,main
+4,Demonic Hordes,Creature  - Demon,{3}{B}{B}{B},Rare,main
+4,Dingus Egg,Artifact,{4},Rare,main
+1,Ember Swallower,Creature  - Elemental,{2}{R}{R},Rare,main
+1,Evolving Wilds,Land,,Common,main
+2,Goblin Gardener,Creature  - Goblin,{3}{R},Common,main
+4,Hypnotic Specter,Creature  - Specter,{1}{B}{B},Rare,main
+2,Lay Waste,Sorcery,{3}{R},Common,main
+3,Lightning Bolt,Instant,{R},Uncommon,main
+3,Mountain,Basic Land  - Mountain,,BasicLand,main
+1,Pillage,Sorcery,{1}{R}{R},Uncommon,main
+1,Plunder,Sorcery,{4}{R},Common,main
+1,Rocky Tar Pit,Land,,Uncommon,main
+2,Sinkhole,Sorcery,{B}{B},Rare,main
+4,Stone Rain,Sorcery,{2}{R},Common,main
+4,Strip Mine,Land,,Uncommon,main
+6,Swamp,Basic Land  - Swamp,,BasicLand,main
+3,Terramorphic Expanse,Land,,Common,main
+3,Typhoid Rats,Creature  - Rat,{B},Common,main
+2,Will-o'-the-Wisp,Creature  - Spirit,{B},Rare,main
+
+
+
+

@@ -1,0 +1,33 @@
+Count,Name,Type,Cost,Rarity,Section
+2,Beetleback Chief,Creature  - Goblin Warrior,{2}{R}{R},Uncommon,main
+1,Blisterstick Shaman,Creature - Goblin Shaman,{2}{R},Common,main
+4,Bloodfell Caves,Land,,Common,main
+1,Bone Splinters,Sorcery,{B},Common,main
+4,Evolving Wilds,Land,,Common,main
+2,Festering Goblin,Creature  - Zombie Goblin,{B},Common,main
+4,Forgotten Cave,Land,,Common,main
+2,Frenzied Goblin,Creature  - Goblin Berserker,{R},Uncommon,main
+1,Goblin Arsonist,Creature  - Goblin Shaman,{R},Common,main
+2,Goblin Balloon Brigade,Creature  - Goblin Warrior,{R},Common,main
+1,Goblin Deathraiders,Creature  - Goblin Warrior,{B}{R},Common,main
+4,Goblin Grenade,Sorcery,{R},Uncommon,main
+1,Goblin Kaboomist,Creature  - Goblin Warrior,{1}{R},Rare,main
+4,Goblin King,Creature  - Goblin,{1}{R}{R},Rare,main
+1,Goblin Rabblemaster,Creature  - Goblin Warrior,{2}{R},Rare,main
+3,Goblin Soothsayer,Creature  - Goblin Shaman,{R},Uncommon,main
+1,Goblin Warchief,Creature  - Goblin,{1}{R}{R},Uncommon,main
+2,"Grenzo, Dungeon Warden",Legendary Creature  - Goblin Rogue,{X}{B}{R},Rare,main
+1,Guttersnipe,Creature  - Goblin Shaman,{2}{R},Uncommon,main
+2,Krenko's Command,Sorcery,{1}{R},Common,main
+1,"Krenko, Mob Boss",Legendary Creature  - Goblin Warrior,{2}{R}{R},Rare,main
+2,Lightning Bolt,Instant,{R},Uncommon,main
+1,Mogg Raider,Creature  - Goblin,{R},Common,main
+6,Mountain,Basic Land  - Mountain,,BasicLand,main
+2,Raging Goblin,Creature  - Goblin Berserker,{R},Common,main
+3,Swamp,Basic Land  - Swamp,,BasicLand,main
+1,Terramorphic Expanse,Land,,Common,main
+1,Warren Pilferers,Creature  - Goblin Rogue,{4}{B},Common,main
+
+
+
+

@@ -1,0 +1,105 @@
+Count,Name,Type,Cost,Rarity,Section
+1,Adaptive Automaton,Artifact Creature  - Construct,{3},Rare,main
+1,Akoum Refuge,Land,,Uncommon,main
+1,Ancient Ziggurat,Land,,Uncommon,main
+1,Arcane Sanctum,Land,,Uncommon,main
+1,Austere Command,Sorcery,{4}{W}{W},Rare,main
+1,Back to Nature,Instant,{1}{G},Uncommon,main
+1,Badlands,Land  - Swamp Mountain,,Rare,main
+1,Bant Charm,Instant,{G}{W}{U},Uncommon,main
+1,Barbed Sliver,Creature  - Sliver,{2}{R},Uncommon,main
+1,Barter in Blood,Sorcery,{2}{B}{B},Uncommon,main
+1,Battering Sliver,Creature  - Sliver,{5}{R},Common,main
+1,Battle Sliver,Creature  - Sliver,{4}{R},Uncommon,main
+1,Bayou,Land  - Swamp Forest,,Rare,main
+1,Belligerent Sliver,Creature  - Sliver,{2}{R},Uncommon,main
+1,Bident of Thassa,Legendary Enchantment Artifact,{2}{U}{U},Rare,main
+1,Blade Sliver,Creature  - Sliver,{2}{R},Uncommon,main
+1,Blur Sliver,Creature  - Sliver,{2}{R},Common,main
+1,Bonesplitter Sliver,Creature  - Sliver,{3}{R},Common,main
+1,Call to the Kindred,Enchantment  - Aura,{3}{U},Rare,main
+1,Cavern of Souls,Land,,MythicRare,main
+1,Command Tower,Land,,Common,main
+1,Constricting Sliver,Creature  - Sliver,{5}{W},Uncommon,main
+1,Consuming Vapors,Sorcery,{3}{B},Rare,main
+1,Crumbling Necropolis,Land,,Uncommon,main
+1,Crystalline Sliver,Creature  - Sliver,{W}{U},Uncommon,main
+1,Darkheart Sliver,Creature  - Sliver,{B}{G},Uncommon,main
+1,Delirium,Instant,{1}{B}{R},Uncommon,main
+1,Demonic Tutor,Sorcery,{1}{B},Uncommon,main
+1,Diabolic Tutor,Sorcery,{2}{B}{B},Uncommon,main
+1,Diffusion Sliver,Creature  - Sliver,{1}{U},Uncommon,main
+1,Door of Destinies,Artifact,{4},Rare,main
+1,Eladamri's Call,Instant,{G}{W},Rare,main
+1,Exotic Orchard,Land,,Rare,main
+1,Fellwar Stone,Artifact,{2},Uncommon,main
+1,Frenzy Sliver,Creature  - Sliver,{1}{B},Common,main
+1,Frontier Bivouac,Land,,Uncommon,main
+1,Gemhide Sliver,Creature  - Sliver,{1}{G},Common,main
+1,Graypelt Refuge,Land,,Uncommon,main
+1,Greed,Enchantment,{3}{B},Rare,main
+1,Harmonic Sliver,Creature  - Sliver,{1}{G}{W},Uncommon,main
+1,Heart Sliver,Creature  - Sliver,{1}{R},Common,main
+1,Holdout Settlement,Land,,Common,main
+1,Horned Sliver,Creature  - Sliver,{2}{G},Uncommon,main
+1,Hunter Sliver,Creature  - Sliver,{1}{R},Common,main
+1,Jungle Shrine,Land,,Uncommon,main
+1,Leeching Sliver,Creature  - Sliver,{1}{B},Uncommon,main
+1,Mana Flare,Enchantment,{2}{R},Rare,main
+1,Megantic Sliver,Creature  - Sliver,{5}{G},Rare,main
+1,Metallic Mimic,Artifact Creature  - Shapeshifter,{2},Rare,main
+1,Mortify,Instant,{1}{W}{B},Uncommon,main
+1,Muscle Sliver,Creature  - Sliver,{1}{G},Common,main
+1,Mystic Monastery,Land,,Uncommon,main
+1,Necrotic Sliver,Creature  - Sliver,{1}{W}{B},Uncommon,main
+1,Nomad Outpost,Land,,Uncommon,main
+1,Obelisk of Urd,Artifact,{6},Rare,main
+1,Oblation,Instant,{2}{W},Rare,main
+1,Opal Palace,Land,,Common,main
+1,Opulent Palace,Land,,Uncommon,main
+1,Path of Ancestry,Land,,Common,main
+1,Plateau,Land  - Mountain Plains,,Rare,main
+1,Predatory Sliver,Creature  - Sliver,{1}{G},Common,main
+1,Quick Sliver,Creature  - Sliver,{1}{G},Common,main
+1,Reflecting Pool,Land,,Rare,main
+1,Rhystic Cave,Land,,Uncommon,main
+1,Rupture Spire,Land,,Common,main
+1,Sandsteppe Citadel,Land,,Uncommon,main
+1,Savage Lands,Land,,Uncommon,main
+1,Savannah,Land  - Forest Plains,,Rare,main
+1,Scoured Barrens,Land,,Common,main
+1,Scrubland,Land  - Plains Swamp,,Rare,main
+1,Seaside Citadel,Land,,Uncommon,main
+1,Sentinel Sliver,Creature  - Sliver,{1}{W},Common,main
+1,Shared Triumph,Enchantment,{1}{W},Rare,main
+1,Sliver Hive,Land,,Rare,main
+1,Sliver Hivelord,Legendary Creature  - Sliver,{W}{U}{B}{R}{G},MythicRare,main
+1,Sliver Legion,Legendary Creature  - Sliver,{W}{U}{B}{R}{G},Rare,main
+1,Sliver Queen,Legendary Creature  - Sliver,{W}{U}{B}{R}{G},Rare,main
+1,Sol Ring,Artifact,{1},Uncommon,main
+1,Spectral Sliver,Creature  - Sliver Spirit,{2}{B},Uncommon,main
+1,Striking Sliver,Creature  - Sliver,{R},Common,main
+1,Syphon Sliver,Creature  - Sliver,{2}{B},Rare,main
+1,Taiga,Land  - Mountain Forest,,Rare,main
+1,Talon Sliver,Creature  - Sliver,{1}{W},Common,main
+1,Thorncaster Sliver,Creature  - Sliver,{4}{R},Rare,main
+1,Transguild Promenade,Land,,Common,main
+1,Tribute to the Wild,Instant,{1}{G},Uncommon,main
+1,Tropical Island,Land  - Forest Island,,Rare,main
+1,Tundra,Land  - Plains Island,,Rare,main
+1,Unclaimed Territory,Land,,Uncommon,main
+1,Underground Sea,Land  - Island Swamp,,Rare,main
+1,Undiscovered Paradise,Land,,Rare,main
+1,Vampiric Tutor,Instant,{B},MythicRare,main
+1,Venom Sliver,Creature  - Sliver,{1}{G},Uncommon,main
+1,Vindicate,Sorcery,{1}{W}{B},Rare,main
+1,Volcanic Island,Land  - Island Mountain,,Rare,main
+1,Watcher Sliver,Creature  - Sliver,{3}{W},Common,main
+1,Wind-Scarred Crag,Land,,Common,main
+1,Winged Sliver,Creature  - Sliver,{1}{U},Common,main
+1,Worldly Tutor,Instant,{G},Uncommon,main
+1,Wrath of God,Sorcery,{2}{W}{W},Rare,main
+
+
+
+

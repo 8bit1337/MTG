@@ -1,0 +1,31 @@
+Count,Name,Type,Cost,Rarity,Section
+2,Contract Killing,Sorcery,{3}{B}{B},Common,main
+4,Deadeye Plunderers,Creature  - Human Pirate,{3}{U}{B},Uncommon,main
+1,Deadeye Tormentor,Creature  - Human Pirate,{2}{B},Common,main
+1,Desperate Castaways,Creature  - Human Pirate,{1}{B},Common,main
+1,Dimir Guildgate,Land  - Gate,,Common,main
+2,Dire Fleet Hoarder,Creature  - Human Pirate,{1}{B},Common,main
+3,Dire Fleet Interloper,Creature  - Human Pirate,{3}{B},Common,main
+4,Dismal Backwater,Land,,Common,main
+2,Dreamcaller Siren,Creature  - Siren Pirate,{2}{U}{U},Rare,main
+2,Fathom Fleet Captain,Creature  - Human Pirate,{1}{B},Rare,main
+2,Fathom Fleet Cutthroat,Creature  - Human Pirate,{3}{B},Common,main
+4,Fell Flagship,Artifact  - Vehicle,{3},Rare,main
+3,Forest,Basic Land  - Forest,,BasicLand,main
+5,Island,Basic Land  - Island,,BasicLand,main
+2,Pillar of Origins,Artifact,{2},Uncommon,main
+2,Pirate Ship,Creature  - Human Pirate,{4}{U},Special,main
+2,Prosperous Pirates,Creature  - Human Pirate,{4}{U},Common,main
+1,Revel in Riches,Enchantment,{4}{B},Rare,main
+2,Sailor of Means,Creature  - Human Pirate,{2}{U},Common,main
+2,Shipwreck Looter,Creature  - Human Pirate,{1}{U},Common,main
+5,Swamp,Basic Land  - Swamp,,BasicLand,main
+4,Terramorphic Expanse,Land,,Common,main
+1,Treasure Map,Artifact,{2},Rare,main
+2,Unknown Shores,Land,,Common,main
+1,"Vraska, Relic Seeker",Legendary Planeswalker  - Vraska,{4}{B}{G},MythicRare,main
+1,Warped Landscape,Land,,Common,sideboard
+
+
+
+

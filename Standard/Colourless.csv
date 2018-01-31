@@ -1,0 +1,41 @@
+Count,Name,Type,Cost,Rarity,Section
+1,Cryptic Cruiser,Creature  - Eldrazi Processor,{3}{U},Uncommon,main
+2,Culling Drone,Creature  - Eldrazi Drone,{1}{B},Common,main
+1,Dimir Guildgate,Land  - Gate,,Common,main
+2,Dismal Backwater,Land,,Common,main
+1,Eldrazi Devastator,Creature  - Eldrazi,{8},Common,main
+1,Eldrazi Skyspawner,Creature  - Eldrazi Drone,{2}{U},Common,main
+4,Evolving Wilds,Land,,Common,main
+1,Ghostfire Blade,Artifact  - Equipment,{1},Rare,main
+1,Gravity Negator,Creature  - Eldrazi Drone,{3}{U},Common,main
+2,Havoc Sower,Creature  - Eldrazi Drone,{3}{B},Uncommon,main
+1,Holdout Settlement,Land,,Common,main
+2,Incubator Drone,Creature  - Eldrazi Drone,{3}{U},Common,main
+3,Island,Basic Land  - Island,,BasicLand,main
+2,Kozilek's Channeler,Creature  - Eldrazi,{5},Common,main
+1,Kozilek's Shrieker,Creature  - Eldrazi Drone,{2}{B},Common,main
+2,Mist Intruder,Creature  - Eldrazi Drone,{1}{U},Common,main
+4,Murk Strider,Creature  - Eldrazi Processor,{3}{U},Common,main
+1,Prophet of Distortion,Creature  - Eldrazi Drone,{U},Uncommon,main
+1,Pyxis of Pandemonium,Artifact,{1},Rare,main
+2,Ruin Processor,Creature  - Eldrazi Processor,{7},Common,main
+2,Scour from Existence,Instant,{7},Common,main
+1,Slaughter Drone,Creature  - Eldrazi Drone,{1}{B},Common,main
+1,Slip Through Space,Sorcery,{U},Common,main
+1,Sol Ring,Artifact,{1},Uncommon,main
+1,Submerged Boneyard,Land,,Common,main
+3,Swamp,Basic Land  - Swamp,,BasicLand,main
+1,Swarm Surge,Sorcery,{2}{B},Common,main
+1,Thought Harvester,Creature  - Eldrazi Drone,{3}{U},Uncommon,main
+1,Tormod's Crypt,Artifact,{0},Uncommon,main
+3,Urza's Mine,Land  - Urza’s Mine,,Uncommon,main
+3,Urza's Power Plant,Land  - Urza’s Power-Plant,,Uncommon,main
+3,Urza's Tower,Land  - Urza’s Tower,,Uncommon,main
+2,Visions of Brutality,Enchantment  - Aura,{1}{B},Uncommon,main
+1,Warped Landscape,Land,,Common,main
+1,Wretched Gryff,Creature  - Eldrazi Hippogriff,{7},Common,main
+1,Seer's Lantern,Artifact,{3},Common,sideboard
+
+
+
+

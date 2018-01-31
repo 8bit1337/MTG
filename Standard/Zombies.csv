@@ -1,0 +1,41 @@
+Count,Name,Type,Cost,Rarity,Section
+1,Battlewise Valor,Instant,{1}{W},Common,main
+2,Binding Mummy,Creature  - Zombie,{1}{W},Common,main
+1,Call to the Grave,Enchantment,{4}{B},Rare,main
+1,Defiant Strike,Instant,{W},Common,main
+1,Demystify,Instant,{W},Common,main
+4,Dismal Backwater,Land,,Common,main
+1,Empty the Pits,Instant,{X}{X}{B}{B}{B}{B},MythicRare,main
+4,Evolving Wilds,Land,,Common,main
+2,Fan Bearer,Creature  - Zombie,{W},Common,main
+1,Fleshbag Marauder,Creature  - Zombie Warrior,{2}{B},Uncommon,main
+4,Forsaken Sanctuary,Land,,Uncommon,main
+2,Gravedigger,Creature  - Zombie,{3}{B},Uncommon,main
+1,Hero's Downfall,Instant,{1}{B}{B},Rare,main
+2,In Oketra's Name,Instant,{1}{W},Common,main
+3,Island,Basic Land  - Island,,BasicLand,main
+2,Lamplighter of Selhoff,Creature  - Zombie Horror,{4}{U},Common,main
+1,Liliana Vess,Planeswalker  - Liliana,{3}{B}{B},MythicRare,main
+4,Lord of the Accursed,Creature  - Zombie,{2}{B},Uncommon,main
+1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,main
+3,Plains,Basic Land  - Plains,,BasicLand,main
+1,Possessed Skaab,Creature  - Zombie,{3}{U}{B},Uncommon,main
+1,Rancid Rats,Creature  - Zombie Rat,{1}{B},Common,main
+1,Rise from the Grave,Sorcery,{4}{B},Uncommon,main
+1,Scrapskin Drake,Creature  - Zombie Drake,{2}{U},Common,main
+2,Seagraf Skaab,Creature  - Zombie,{1}{U},Common,main
+1,Sparring Mummy,Creature  - Zombie,{3}{W},Common,main
+6,Swamp,Basic Land  - Swamp,,BasicLand,main
+2,Terramorphic Expanse,Land,,Common,main
+4,Wayward Servant,Creature  - Zombie,{W}{B},Uncommon,main
+1,Aerial Maneuver,Instant,{1}{W},Common,sideboard
+1,Cradle of the Accursed,Land  - Desert,,Common,sideboard
+1,Dregscape Zombie,Creature  - Zombie,{1}{B},Common,sideboard
+1,Dross Crocodile,Creature  - Zombie Crocodile,{3}{B},Common,sideboard
+2,Maggot Carrier,Creature  - Zombie,{B},Common,sideboard
+1,Righteous Blow,Instant,{W},Common,sideboard
+2,Shambling Ghoul,Creature  - Zombie,{1}{B},Common,sideboard
+
+
+
+
