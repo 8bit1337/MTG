@@ -1,12 +1,12 @@
 Count,Name,Type,Cost,Rarity,Section
-3,Aqueous Form,Enchantment  - Aura,{U},Common,main
+2,Aqueous Form,Enchantment  - Aura,{U},Common,main
 1,Azorius Guildgate,Land  - Gate,,Common,main
-2,Battlewise Valor,Instant,{1}{W},Common,main
 2,Cartouche of Knowledge,Enchantment  - Aura Cartouche,{1}{U},Common,main
-1,Cartouche of Solidarity,Enchantment  - Aura Cartouche,{W},Common,main
+2,Cartouche of Solidarity,Enchantment  - Aura Cartouche,{W},Common,main
 3,Cavalry Pegasus,Creature - Pegasus,{1}{W},Common,main
 2,Chosen by Heliod,Enchantment  - Aura,{1}{W},Common,main
-1,Disenchant,Instant,{1}{W},Common,main
+2,Conviction,Enchantment  - Aura,{1}{W},Common,main
+2,Disenchant,Instant,{1}{W},Common,main
 4,Evolving Wilds,Land,,Common,main
 1,Fabled Hero,Creature  - Human Soldier,{1}{W}{W},Rare,main
 2,Favored Hoplite,Creature  - Human Soldier,{W},Uncommon,main
@@ -16,13 +16,12 @@ Count,Name,Type,Cost,Rarity,Section
 1,"Jace, the Living Guildpact",Planeswalker  - Jace,{2}{U}{U},MythicRare,main
 2,Nimbus Naiad,Enchantment Creature  - Nymph,{2}{U},Common,main
 2,Omenspeaker,Creature  - Human Wizard,{1}{U},Common,main
-1,Ordeal of Heliod,Enchantment  - Aura,{1}{W},Uncommon,main
-1,Ordeal of Thassa,Enchantment  - Aura,{1}{U},Uncommon,main
 2,Paragon of Gathering Mists,Creature  - Human Wizard,{3}{U},Uncommon,main
 1,Phalanx Leader,Creature  - Human Soldier,{W}{W},Uncommon,main
 7,Plains,Basic Land  - Plains,,BasicLand,main
 2,Setessan Battle Priest,Creature  - Human Cleric,{1}{W},Common,main
 1,Spear of Heliod,Legendary Enchantment Artifact,{1}{W}{W},Rare,main
+1,Swords to Plowshares,Instant,{W},Uncommon,main
 3,Tranquil Cove,Land,,Common,main
 2,Vaporkin,Creature  - Elemental,{1}{U},Common,main
 3,Wingsteed Rider,Creature  - Human Knight,{1}{W}{W},Common,main
