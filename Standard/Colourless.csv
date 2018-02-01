@@ -1,8 +1,7 @@
 Count,Name,Type,Cost,Rarity,Section
 1,Cryptic Cruiser,Creature  - Eldrazi Processor,{3}{U},Uncommon,main
 2,Culling Drone,Creature  - Eldrazi Drone,{1}{B},Common,main
-1,Dimir Guildgate,Land  - Gate,,Common,main
-2,Dismal Backwater,Land,,Common,main
+4,Dismal Backwater,Land,,Common,main
 1,Eldrazi Devastator,Creature  - Eldrazi,{8},Common,main
 1,Eldrazi Skyspawner,Creature  - Eldrazi Drone,{2}{U},Common,main
 4,Evolving Wilds,Land,,Common,main
@@ -23,7 +22,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Slaughter Drone,Creature  - Eldrazi Drone,{1}{B},Common,main
 1,Slip Through Space,Sorcery,{U},Common,main
 1,Sol Ring,Artifact,{1},Uncommon,main
-1,Submerged Boneyard,Land,,Common,main
 3,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Swarm Surge,Sorcery,{2}{B},Common,main
 1,Thought Harvester,Creature  - Eldrazi Drone,{3}{U},Uncommon,main
