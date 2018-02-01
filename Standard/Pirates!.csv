@@ -1,8 +1,7 @@
 Count,Name,Type,Cost,Rarity,Section
 2,Contract Killing,Sorcery,{3}{B}{B},Common,main
 4,Deadeye Plunderers,Creature  - Human Pirate,{3}{U}{B},Uncommon,main
-1,Deadeye Tormentor,Creature  - Human Pirate,{2}{B},Common,main
-1,Desperate Castaways,Creature  - Human Pirate,{1}{B},Common,main
+2,Desperate Castaways,Creature  - Human Pirate,{1}{B},Common,main
 1,Dimir Guildgate,Land  - Gate,,Common,main
 2,Dire Fleet Hoarder,Creature  - Human Pirate,{1}{B},Common,main
 3,Dire Fleet Interloper,Creature  - Human Pirate,{3}{B},Common,main
@@ -24,7 +23,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Treasure Map,Artifact,{2},Rare,main
 2,Unknown Shores,Land,,Common,main
 1,"Vraska, Relic Seeker",Legendary Planeswalker  - Vraska,{4}{B}{G},MythicRare,main
-1,Warped Landscape,Land,,Common,sideboard
+1,Prying Blade,Artifact  - Equipment,{1},Common,sideboard
 
 
 
