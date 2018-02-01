@@ -1,34 +1,37 @@
 Count,Name,Type,Cost,Rarity,Section
 1,Aegis Angel,Creature  - Angel,{4}{W}{W},Rare,main
 1,Angel of Mercy,Creature  - Angel,{4}{W},Common,main
+1,Angel of Renewal,Creature  - Angel Ally,{5}{W},Uncommon,main
 1,Blinding Angel,Creature  - Angel,{3}{W}{W},Rare,main
 4,Blossoming Sands,Land,,Common,main
 1,Celestial Archon,Enchantment Creature  - Archon,{3}{W}{W},Rare,main
 1,Creeping Corrosion,Sorcery,{2}{G}{G},Rare,main
+1,Druid of the Cowl,Creature  - Elf Druid,{1}{G},Common,main
 3,Elvish Mystic,Creature  - Elf Druid,{G},Common,main
+1,Everdawn Champion,Creature  - Human Soldier,{1}{W}{W},Uncommon,main
 4,Evolving Wilds,Land,,Common,main
-3,Fertile Ground,Enchantment  - Aura,{1}{G},Common,main
 2,Fertile Thicket,Land,,Common,main
+1,Fireshrieker,Artifact  - Equipment,{3},Uncommon,main
 5,Forest,Basic Land  - Forest,,BasicLand,main
-1,Infiltration Lens,Artifact  - Equipment,{1},Uncommon,main
-2,Leaf Gilder,Creature  - Elf Druid,{1}{G},Common,main
+1,Haunted Cloak,Artifact  - Equipment,{3},Uncommon,main
+1,Leaf Gilder,Creature  - Elf Druid,{1}{G},Common,main
 4,Llanowar Elves,Creature  - Elf Druid,{G},Common,main
 1,Mass Calcify,Sorcery,{5}{W}{W},Rare,main
 1,Moonsilver Spear,Artifact  - Equipment,{4},Rare,main
-3,Nylea's Presence,Enchantment  - Aura,{1}{G},Common,main
 7,Plains,Basic Land  - Plains,,BasicLand,main
 1,Protean Hydra,Creature  - Hydra,{X}{G},Rare,main
 1,Saltblast,Sorcery,{3}{W}{W},Uncommon,main
 2,Serra Angel,Creature  - Angel,{3}{W}{W},Uncommon,main
-2,Setessan Griffin,Creature  - Griffin,{4}{W},Common,main
+1,Setessan Griffin,Creature  - Griffin,{4}{W},Common,main
+1,Shepherd of the Lost,Creature  - Angel,{4}{W},Uncommon,main
 1,Shield of the Avatar,Artifact  - Equipment,{1},Rare,main
 1,Skyblinder Staff,Artifact  - Equipment,{1},Common,main
 2,Solemn Offering,Sorcery,{2}{W},Common,main
 1,Soul of Theros,Creature  - Avatar,{4}{W}{W},MythicRare,main
 1,Spirit of the Hearth,Creature  - Cat Spirit,{4}{W}{W},Rare,main
 1,Sunpetal Grove,Land,,Rare,main
-1,Swiftfoot Boots,Artifact  - Equipment,{2},Uncommon,main
-1,Sylvok Lifestaff,Artifact  - Equipment,{1},Common,main
+1,Vorrac Battlehorns,Artifact  - Equipment,{2},Common,main
+4,Wild Growth,Enchantment  - Aura,{G},Common,main
 
 
 
