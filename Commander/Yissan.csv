@@ -5,6 +5,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Artisan of Kozilek,Creature  - Eldrazi,{9},Uncommon,main
 1,Back to Nature,Instant,{1}{G},Uncommon,main
 1,Blanchwood Armor,Enchantment  - Aura,{2}{G},Uncommon,main
+1,Bow of Nylea,Legendary Enchantment Artifact,{1}{G}{G},Rare,main
 1,Carnage Wurm,Creature  - Wurm,{6}{G},Uncommon,main
 1,Caustic Caterpillar,Creature  - Insect,{G},Common,main
 1,Cockatrice,Creature  - Cockatrice,{3}{G}{G},Special,main
@@ -26,7 +27,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Eternal Witness,Creature  - Human Shaman,{1}{G}{G},Uncommon,main
 1,Evolving Wilds,Land,,Common,main
 31,Forest,Basic Land  - Forest,,BasicLand,main
-1,Fork in the Road,Sorcery,{1}{G},Common,main
 1,Gaea's Liege,Creature  - Avatar,{3}{G}{G}{G},Special,main
 1,Garruk's Horde,Creature  - Beast,{5}{G}{G},Rare,main
 1,Grasslands,Land,,Uncommon,main
@@ -41,7 +41,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Naturalize,Instant,{1}{G},Common,main
 1,"Nykthos, Shrine to Nyx",Legendary Land,,Rare,main
 1,"Nylea, God of the Hunt",Legendary Enchantment Creature  - God,{3}{G},MythicRare,main
-1,Pacification Array,Artifact,{1},Uncommon,main
 1,Pelakka Wurm,Creature  - Wurm,{4}{G}{G}{G},Uncommon,main
 1,Pharika's Disciple,Creature  - Centaur Warrior,{3}{G},Common,main
 1,Pride of Lions,Creature  - Cat,{3}{G}{G},Uncommon,main
@@ -56,6 +55,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Soul of Zendikar,Creature  - Avatar,{4}{G}{G},MythicRare,main
 1,Star Compass,Artifact,{2},Common,main
 1,Stingerfling Spider,Creature  - Spider,{4}{G},Uncommon,main
+1,Strength of the Pack,Sorcery,{4}{G}{G},Uncommon,main
 1,Terramorphic Expanse,Land,,Common,main
 1,Thorn Elemental,Creature  - Elemental,{5}{G}{G},Rare,main
 1,Thrashing Mossdog,Creature  - Plant Hound,{3}{G},Common,main

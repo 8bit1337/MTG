@@ -16,13 +16,16 @@ Count,Name,Type,Cost,Rarity,Section
 1,Liliana Vess,Planeswalker  - Liliana,{3}{B}{B},MythicRare,main
 4,Lord of the Accursed,Creature  - Zombie,{2}{B},Uncommon,main
 1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,main
-2,Otherworldly Journey,Instant  - Arcane,{1}{W},Common,main
-6,Plains,Basic Land  - Plains,,BasicLand,main
+2,Orzhov Basilica,Land,,Uncommon,main
+3,Orzhov Guildgate,Land  - Gate,,Common,main
+3,Plains,Basic Land  - Plains,,BasicLand,main
 1,Radiant Destiny,Enchantment,{2}{W},Rare,main
 1,Rancid Rats,Creature  - Zombie Rat,{1}{B},Common,main
 1,Rise from the Grave,Sorcery,{4}{B},Uncommon,main
+1,Scoured Barrens,Land,,Common,main
 2,Sparring Mummy,Creature  - Zombie,{3}{W},Common,main
-7,Swamp,Basic Land  - Swamp,,BasicLand,main
+5,Swamp,Basic Land  - Swamp,,BasicLand,main
+1,Syphon Flesh,Sorcery,{4}{B},Uncommon,main
 4,Wayward Servant,Creature  - Zombie,{W}{B},Uncommon,main
 4,Zombie Master,Creature  - Zombie,{1}{B}{B},Rare,main
 1,Aerial Maneuver,Instant,{1}{W},Common,sideboard

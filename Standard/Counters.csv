@@ -1,0 +1,43 @@
+Count,Name,Type,Cost,Rarity,Section
+1,Blowfly Infestation,Enchantment,{2}{B},Uncommon,main
+2,Contagion Clasp,Artifact,{2},Uncommon,main
+1,Cruel Edict,Sorcery,{1}{B},Uncommon,main
+1,Decimator Beetle,Creature  - Insect,{3}{B}{G},Uncommon,main
+1,Defiant Greatmaw,Creature  - Hippo,{2}{G},Uncommon,main
+1,Devour Flesh,Instant,{1}{B},Common,main
+1,Diabolic Tutor,Sorcery,{2}{B}{B},Uncommon,main
+1,Dusk Urchins,Creature  - Ouphe,{2}{B},Rare,main
+4,Evolving Wilds,Land,,Common,main
+3,Forest,Basic Land  - Forest,,BasicLand,main
+2,Foul Orchard,Land,,Uncommon,main
+1,Golgari Guildgate,Land  - Gate,,Common,main
+1,Golgari Rot Farm,Land,,Uncommon,main
+1,Innocent Blood,Sorcery,{B},Common,main
+4,Jungle Hollow,Land,,Common,main
+1,Nest of Scarabs,Enchantment,{2}{B},Uncommon,main
+2,Noxious Hatchling,Creature  - Elemental,{3}{BG},Uncommon,main
+1,Pestilence,Enchantment,{2}{B}{B},Uncommon,main
+1,Phyrexian Hydra,Creature - Hydra,{3}{G}{G},Rare,main
+4,Quillspike,Creature  - Beast,{2}{BG},Uncommon,main
+1,Reaper of the Wilds,Creature  - Gorgon,{2}{B}{G},Rare,main
+2,Regrowth,Sorcery,{1}{G},Uncommon,main
+3,Rendclaw Trow,Creature  - Troll,{2}{BG},Common,main
+1,Sickle Ripper,Creature  - Elemental Warrior,{1}{B},Common,main
+3,Skinrender,Creature  - Zombie,{2}{B}{B},Uncommon,main
+2,Soulstinger,Creature  - Scorpion Demon,{3}{B},Common,main
+5,Swamp,Basic Land  - Swamp,,BasicLand,main
+2,Trapjaw Kelpie,Creature  - Beast,{4}{GU}{GU},Common,main
+4,Unknown Shores,Land,,Common,main
+2,Wickerbough Elder,Creature  - Treefolk Shaman,{3}{G},Common,main
+1,Worldly Tutor,Instant,{G},Uncommon,main
+1,Armorcraft Judge,Creature  - Elf Artificer,{3}{G},Uncommon,sideboard
+1,Lifecrafter's Gift,Instant,{3}{G},Uncommon,sideboard
+1,Ornery Kudu,Creature  - Antelope,{2}{G},Common,sideboard
+1,Quarry Hauler,Creature  - Camel,{3}{G},Common,sideboard
+1,Scrounging Bandar,Creature  - Cat Monkey,{1}{G},Common,sideboard
+1,Untethered Express,Artifact  - Vehicle,{4},Uncommon,sideboard
+1,Armorcraft Judge,Creature  - Elf Artificer,{3}{G},Uncommon,scratchpad
+
+
+
+
