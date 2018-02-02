@@ -30,12 +30,12 @@ Count,Name,Type,Cost,Rarity,Section
 4,Unknown Shores,Land,,Common,main
 2,Wickerbough Elder,Creature  - Treefolk Shaman,{3}{G},Common,main
 1,Worldly Tutor,Instant,{G},Uncommon,main
-1,Armorcraft Judge,Creature  - Elf Artificer,{3}{G},Uncommon,sideboard
-1,Lifecrafter's Gift,Instant,{3}{G},Uncommon,sideboard
+1,Baleful Ammit,Creature  - Crocodile Demon,{2}{B},Uncommon,sideboard
+1,Crocodile of the Crossing,Creature  - Crocodile,{3}{G},Uncommon,sideboard
+1,Exemplar of Strength,Creature  - Human Warrior,{1}{G},Uncommon,sideboard
+1,"Hapatra, Vizier of Poisons",Legendary Creature  - Human Cleric,{B}{G},Rare,sideboard
 1,Ornery Kudu,Creature  - Antelope,{2}{G},Common,sideboard
 1,Quarry Hauler,Creature  - Camel,{3}{G},Common,sideboard
-1,Scrounging Bandar,Creature  - Cat Monkey,{1}{G},Common,sideboard
-1,Untethered Express,Artifact  - Vehicle,{4},Uncommon,sideboard
 1,Armorcraft Judge,Creature  - Elf Artificer,{3}{G},Uncommon,scratchpad
 
 
