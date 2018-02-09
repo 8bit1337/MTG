@@ -4,7 +4,8 @@ Count,Name,Type,Cost,Rarity,Section
 1,Call to the Grave,Enchantment,{4}{B},Rare,main
 2,Cradle of the Accursed,Land  - Desert,,Common,main
 1,Crusade,Enchantment,{W}{W},Rare,main
-2,Disenchant,Instant,{1}{W},Common,main
+2,Dark Ritual,Instant,{B},Common,main
+1,Disenchant,Instant,{1}{W},Common,main
 1,Empty the Pits,Instant,{X}{X}{B}{B}{B}{B},MythicRare,main
 1,End Hostilities,Sorcery,{3}{W}{W},Rare,main
 4,Evolving Wilds,Land,,Common,main
@@ -15,7 +16,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Hero's Downfall,Instant,{1}{B}{B},Rare,main
 1,Liliana Vess,Planeswalker  - Liliana,{3}{B}{B},MythicRare,main
 4,Lord of the Accursed,Creature  - Zombie,{2}{B},Uncommon,main
-1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,main
 2,Orzhov Basilica,Land,,Uncommon,main
 3,Orzhov Guildgate,Land  - Gate,,Common,main
 3,Plains,Basic Land  - Plains,,BasicLand,main
@@ -28,12 +28,12 @@ Count,Name,Type,Cost,Rarity,Section
 1,Syphon Flesh,Sorcery,{4}{B},Uncommon,main
 4,Wayward Servant,Creature  - Zombie,{W}{B},Uncommon,main
 4,Zombie Master,Creature  - Zombie,{1}{B}{B},Rare,main
-1,Aerial Maneuver,Instant,{1}{W},Common,sideboard
-1,Dregscape Zombie,Creature  - Zombie,{1}{B},Common,sideboard
-1,Dross Crocodile,Creature  - Zombie Crocodile,{3}{B},Common,sideboard
-2,Maggot Carrier,Creature  - Zombie,{B},Common,sideboard
-1,Righteous Blow,Instant,{W},Common,sideboard
-2,Shambling Ghoul,Creature  - Zombie,{1}{B},Common,sideboard
+1,Binding Mummy,Creature  - Zombie,{1}{W},Common,sideboard
+1,Disenchant,Instant,{1}{W},Common,sideboard
+4,Mummy Paramount,Creature  - Zombie,{1}{W},Common,sideboard
+1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,sideboard
+2,Noxious Ghoul,Creature  - Zombie,{3}{B}{B},Uncommon,sideboard
+4,Time to Reflect,Instant,{W},Uncommon,sideboard
 
 
 

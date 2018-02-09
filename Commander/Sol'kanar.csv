@@ -16,6 +16,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Cyclopean Giant,Creature  - Zombie Giant,{2}{B}{B},Common,main
 1,Dakmor Lancer,Creature  - Human Knight,{4}{B}{B},Uncommon,main
 1,Dark Hatchling,Creature  - Horror,{4}{B}{B},Rare,main
+1,Dark Ritual,Instant,{B},Common,main
 1,Darksteel Ingot,Artifact,{3},Uncommon,main
 1,Darkwater Catacombs,Land,,Rare,main
 1,Deathgaze Cockatrice,Creature  - Cockatrice,{2}{B}{B},Common,main
@@ -49,7 +50,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Mortivore,Creature  - Lhurgoyf,{2}{B}{B},Rare,main
 6,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Navigator's Ruin,Enchantment,{2}{U},Uncommon,main
-1,Necromantic Thirst,Enchantment  - Aura,{2}{B}{B},Common,main
 1,Nicol Bolas,Legendary Creature  - Elder Dragon,{2}{U}{U}{B}{B}{R}{R},Special,main
 1,Nightmare,Creature  - Nightmare Horse,{5}{B},Rare,main
 1,"Ob Nixilis, Unshackled",Legendary Creature  - Demon,{4}{B}{B},Rare,main
@@ -90,6 +90,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Drudge Skeletons,Creature  - Skeleton,{1}{B},Common,sideboard
 1,Flameshadow Conjuring,Enchantment,{3}{R},Rare,sideboard
 1,Lord of Tresserhorn,Legendary Creature  - Zombie,{1}{U}{B}{R},Rare,sideboard
+1,Necromantic Thirst,Enchantment  - Aura,{2}{B}{B},Common,sideboard
 1,Pilfered Plans,Sorcery,{1}{U}{B},Common,sideboard
 1,Trespasser's Curse,Enchantment  - Aura Curse,{1}{B},Common,sideboard
 
