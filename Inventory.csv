@@ -51,7 +51,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Afterlife,Mirage,205,Near Mint,English,,,,,,,,0,Instant,{2}{W},Uncommon
 5,0,Agent of Horizons,Theros,148,Near Mint,English,,,,,,,,,Creature  - Human Rogue,{2}{G},Common
 1,0,Aggression,Ice Age,169,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{R},Uncommon
-1,0,Aggressive Urge,Rivals of Ixalan,122,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
+2,0,Aggressive Urge,Rivals of Ixalan,122,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 2,0,Agility,Mirage,154,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{R},Common
 2,0,Ahn-Crop Crasher,Amonkhet,117,Near Mint,English,,,,,,,,,Creature  - Minotaur Warrior,{2}{R},Uncommon
 1,0,Aim High,Shadows over Innistrad,193,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
@@ -152,6 +152,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Arcane Denial,Alliances,33,Near Mint,English,,,,,,,,0,Instant,{1}{U},Common
 1,0,Arcane Laboratory,Seventh Edition,60,Near Mint,English,,,,,,,,,Enchantment,{2}{U},Uncommon
 1,0,Arcanis the Omnipotent,Duel Decks: Speed vs. Cunning,42,,,foil,,,,,,,,Legendary Creature  - Wizard,{3}{U}{U}{U},MythicRare
+1,0,Arch of Orazca,Rivals of Ixalan,185,Near Mint,English,,,,,,,,,Land,,Rare
 1,0,Archaeomancer,Magic 2013,41,Near Mint,English,,,,,,,,0,Creature  - Human Wizard,{2}{U}{U},Common
 2,0,Archers' Parapet,Khans of Tarkir,128,Near Mint,English,,,,,,,,,Creature  - Wall,{1}{G},Common
 1,0,Archivist,Eighth Edition,60,Near Mint,English,,,,,,,,0,Creature  - Human Wizard,{2}{U}{U},Rare
@@ -220,6 +221,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Aven Windreader,Ninth Edition,62,Near Mint,English,,,,,,,,0,Creature  - Bird Soldier Wizard,{3}{U}{U},Common
 2,0,Avenging Arrow,Return to Ravnica,4,Near Mint,English,,,,,,,,,Instant,{2}{W},Common
 2,0,Aviary Mechanic,Kaladesh,6,Near Mint,English,,,,,,,,,Creature  - Dwarf Artificer,{1}{W},Common
+1,0,Awakened Amalgam,Rivals of Ixalan,175,Near Mint,English,,,,,,,,,Artifact Creature  - Golem,{4},Rare
 1,0,Awe Strike,Mirrodin,6,Near Mint,English,,,,,,,,,Instant,{W},Common
 2,0,Axebane Guardian,Return to Ravnica,115,Near Mint,English,,,,,,,,,Creature  - Human Druid,{2}{G},Common
 3,0,Axebane Stag,Return to Ravnica,116,Near Mint,English,,,,,,,,,Creature  - Elk,{6}{G},Common
@@ -296,7 +298,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Betrayal,Visions,26,Near Mint,English,,,,,,,,,Enchantment  - Aura,{U},Common
 1,0,Bident of Thassa,Commander 2015,86,Near Mint,English,,,,,,,,,Legendary Enchantment Artifact,{2}{U}{U},Rare
 1,0,Binding Agony,Mirage,4,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{B},Common
-3,0,Binding Mummy,Amonkhet,6,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{W},Common
+4,0,Binding Mummy,Amonkhet,6,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{W},Common
 3,0,Bird Maiden,Fourth Edition,195,Near Mint,English,,,,,,,,0,Creature  - Human Bird,{2}{R},Common
 4,0,Bishop's Soldier,Ixalan,6,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{W},Common
 2,0,Bitter Revelation,Khans of Tarkir,65,Near Mint,English,,,,,,,,,Sorcery,{3}{B},Common
@@ -418,7 +420,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Brood Keeper,Magic 2015 Core Set,132,Near Mint,English,,,,,,,,,Creature  - Human Shaman,{3}{R},Uncommon
 2,0,Brothers of Fire,Fourth Edition,197,Near Mint,English,,,,,,,,0,Creature  - Human Shaman,{1}{R}{R},Common
 3,0,Brown Ouphe,Ice Age,116,Near Mint,English,,,,,,,,0,Creature  - Ouphe,{G},Common
-1,0,Buccaneer's Bravado,Rivals of Ixalan,96,Near Mint,English,,,,,,,,,Instant,{1}{R},Common
+2,0,Buccaneer's Bravado,Rivals of Ixalan,96,Near Mint,English,,,,,,,,,Instant,{1}{R},Common
 2,0,Builder's Bane,Mirage,160,Near Mint,English,,,,,,,,,Sorcery,{X}{X}{R},Common
 2,0,Built to Last,Kaladesh,7,Near Mint,English,,,,,,,,,Instant,{W},Common
 2,0,Built to Smash,Kaladesh,108,Near Mint,English,,,,,,,,,Instant,{R},Common
@@ -513,6 +515,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Charging Griffin,Magic 2014 Core Set,13,Near Mint,English,,,,,,,,0,Creature  - Griffin,{3}{W},Common
 1,0,Charging Griffin,Magic Origins,9,Near Mint,English,,,,,,,,,Creature  - Griffin,{3}{W},Common
 4,0,Charging Rhino,Magic 2015 Core Set,171,Near Mint,English,,,,,,,,,Creature  - Rhino,{3}{G}{G},Common
+1,0,Charging Tuskodon,Rivals of Ixalan,97,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{3}{R}{R},Uncommon
 1,0,Charm Peddler,Mercadian Masques,6,Near Mint,English,,,,,,,,,Creature  - Human Spellshaper,{W},Common
 2,0,Chasm Drake,Magic 2012,48,Near Mint,English,,,,,,,,,Creature  - Drake,{4}{U},Common
 1,0,Chasm Skulker,Magic 2015 Core Set,46,Near Mint,English,,,,,,,,,Creature  - Squid Horror,{2}{U},Rare
@@ -767,15 +770,15 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Death Ward,Fourth Edition,271,Near Mint,English,,,,,,,,0,Instant,{W},Common
 4,0,Death's Approach,Gatecrash,62,Near Mint,English,,,,,,,,,Enchantment  - Aura,{B},Common
 1,0,Death-Hood Cobra,New Phyrexia,108,Near Mint,English,,,,,,,,0,Creature  - Snake,{1}{G},Common
-1,1,Deathbellow Raider,Theros,117,Near Mint,English,foil,,,,,,,0,Creature  - Minotaur Berserker,{1}{R},Common
 3,0,Deathbellow Raider,Theros,117,Near Mint,English,,,,,,,,,Creature  - Minotaur Berserker,{1}{R},Common
+1,1,Deathbellow Raider,Theros,117,Near Mint,English,foil,,,,,,,0,Creature  - Minotaur Berserker,{1}{R},Common
 2,0,Deathcult Rogue,Gatecrash,218,Near Mint,English,,,,,,,,,Creature  - Human Rogue,{1}{UB}{UB},Common
 2,0,Deathgaze Cockatrice,Magic 2014 Core Set,94,Near Mint,English,,,,,,,,,Creature  - Cockatrice,{2}{B}{B},Common
 1,0,Deathmark,Tenth Edition,134,Near Mint,English,,,,,,,,0,Sorcery,{B},Uncommon
 1,0,Deathmark,Magic 2011,91,Near Mint,English,,,,,,,,0,Sorcery,{B},Uncommon
 1,0,Deathspore Thallid,Time Spiral,102,Near Mint,English,,,,,,,,,Creature  - Zombie Fungus,{1}{B},Common
 5,0,Debilitating Injury,Khans of Tarkir,68,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{B},Common
-1,0,Decimator Beetle,Amonkhet,197,Near Mint,English,,,,,,,,,Creature  - Insect,{3}{B}{G},Uncommon
+2,0,Decimator Beetle,Amonkhet,197,Near Mint,English,,,,,,,,,Creature  - Insect,{3}{B}{G},Uncommon
 3,0,Decision Paralysis,Amonkhet,50,Near Mint,English,,,,,,,,,Instant,{3}{U},Common
 2,0,Decommission,Aether Revolt,16,Near Mint,English,,,,,,,,,Instant,{2}{W},Common
 1,0,Decomposition,Mirage,110,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{G},Uncommon
@@ -844,7 +847,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Dimir Signet,Commander,246,Near Mint,English,,,,,,,,0,Artifact,{2},Common
 4,0,Dingus Egg,Revised Edition,244,Near Mint,English,,,,,,,,0,Artifact,{4},Rare
 1,0,Dingus Egg,Eighth Edition,297,Near Mint,English,,,,,,,,,Artifact,{4},Rare
-1,0,Dinosaur Hunter,Rivals of Ixalan,67,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{1}{B},Common
+1,0,Dinosaur Hunter,Rivals of Ixalan,67,Near Mint,English,foil,,,,,,,0,Creature  - Human Pirate,{1}{B},Common
+2,0,Dinosaur Hunter,Rivals of Ixalan,67,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{1}{B},Common
 2,0,Dinosaur Stampede,Ixalan,140,Near Mint,English,,,,,,,,,Instant,{2}{R},Uncommon
 4,0,Dire Fleet Hoarder,Ixalan,102,Near Mint,English,,,,,,,,0,Creature  - Human Pirate,{1}{B},Common
 6,0,Dire Fleet Interloper,Ixalan,103,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{3}{B},Common
@@ -984,7 +988,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Dusk Charger,Rivals of Ixalan,69,Near Mint,English,,,,,,,,,Creature  - Horse,{3}{B},Common
 2,0,Dusk Imp,Eighth Edition,130,Near Mint,English,,,,,,,,0,Creature  - Imp,{2}{B},Common
 3,0,Dusk Legion Dreadnought,Ixalan,236,Near Mint,English,,,,,,,,,Artifact  - Vehicle,{5},Uncommon
-1,0,Dusk Legion Zealot,Rivals of Ixalan,70,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{B},Common
+2,0,Dusk Legion Zealot,Rivals of Ixalan,70,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{B},Common
 1,0,Dusk Urchins,Shadowmoor,65,Near Mint,English,,,,,,,,,Creature  - Ouphe,{2}{B},Rare
 1,0,Duskborne Skymarcher,Ixalan,9,Near Mint,English,,,,,,,,,Creature  - Vampire Cleric,{W},Uncommon
 2,0,Duskdale Wurm,Magic 2011,170,Near Mint,English,,,,,,,,0,Creature  - Wurm,{5}{G}{G},Uncommon
@@ -1103,7 +1107,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Evil Presence,New Phyrexia,60,Near Mint,English,,,,,,,,,Enchantment  - Aura,{B},Common
 2,0,Evolving Wilds,Duel Decks: Speed vs. Cunning,32,,,,,,,,,,,Land,,Common
 16,0,Evolving Wilds,Magic 2015 Core Set,243,Near Mint,English,,,,,,,,,Land,,Common
-2,0,Evolving Wilds,Rivals of Ixalan,186,Near Mint,English,,,,,,,,,Land,,Common
+3,0,Evolving Wilds,Rivals of Ixalan,186,Near Mint,English,,,,,,,,,Land,,Common
 1,0,Exclusion Ritual,New Phyrexia,10,Near Mint,English,,,,,,,,,Enchantment,{4}{W}{W},Uncommon
 1,0,Explore,Worldwake,99,Near Mint,English,,,,,,,,0,Sorcery,{1}{G},Common
 1,0,Explosive Apparatus,Shadows over Innistrad,255,Near Mint,English,,,,,,,,,Artifact,{1},Common
@@ -1111,7 +1115,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Expose Evil,Shadows over Innistrad,19,Near Mint,English,,,,,,,,,Instant,{1}{W},Common
 1,0,Extractor Demon,Commander,81,Near Mint,English,,,,,,,,0,Creature  - Demon,{4}{B}{B},Rare
 2,0,Exultant Cultist,Eldritch Moon,59,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{2}{U},Common
-1,0,Exultant Skymarcher,Rivals of Ixalan,7,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{W}{W},Common
+2,0,Exultant Skymarcher,Rivals of Ixalan,7,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{W}{W},Common
 1,0,Eye Gouge,Born of the Gods,67,Near Mint,English,,,,,,,,,Instant,{B},Common
 1,0,Eyeblight's Ending,Lorwyn,110,Near Mint,English,,,,,,,,0,Tribal Instant  - Elf,{2}{B},Common
 1,0,Eyeless Watcher,Battle for Zendikar,166,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{3}{G},Common
@@ -1275,15 +1279,16 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 7,0,Force Away,Khans of Tarkir,40,Near Mint,English,,,,,,,,,Instant,{1}{U},Common
 3,0,Force Spike,Fifth Edition,88,Near Mint,English,,,,,,,,0,Instant,{U},Common
 3,0,Force Spike,Seventh Edition,76,Near Mint,English,,,,,,,,,Instant,{U},Common
-1,0,Forerunner of the Empire,Rivals of Ixalan,102,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{3}{R},Uncommon
+2,0,Forerunner of the Empire,Rivals of Ixalan,102,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{3}{R},Uncommon
+1,0,Forerunner of the Legion,Rivals of Ixalan,9,Near Mint,English,,,,,,,,,Creature  - Vampire Knight,{2}{W},Uncommon
 3,0,Foresee,Magic 2011,54,Near Mint,English,,,,,,,,,Sorcery,{3}{U},Common
 1,0,Foreshadow,Visions,33,Near Mint,English,,,,,,,,,Instant,{1}{U},Uncommon
 1,1,Forest,Seventh Edition,330,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
 1,0,Forest,Seventh Edition,331,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
 18,0,Forest,Ixalan,277,Near Mint,English,,,,,,,,,Basic Land  - Forest,,BasicLand
 1,0,Forest,Rivals of Ixalan,196,Near Mint,English,,,,,,,,,Basic Land  - Forest,,BasicLand
-1,0,Forest,Rivals of Ixalan,196,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
 95,0,Forest,"",,Near Mint,English,,,,,,,,0,Basic Land  - Forest,,BasicLand
+1,0,Forest,Rivals of Ixalan,196,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
 4,0,Forge Devil,Magic 2015 Core Set,140,Near Mint,English,,,,,,,,,Creature  - Devil,{R},Common
 4,0,Forgotten Cave,Commander 2015,284,Near Mint,English,,,,,,,,,Land,,Common
 2,0,Fork in the Road,Shadows over Innistrad,205,Near Mint,English,,,,,,,,,Sorcery,{1}{G},Common
@@ -1295,8 +1300,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Fortified Rampart,Battle for Zendikar,27,Near Mint,English,,,,,,,,,Creature  - Wall,{1}{W},Common
 2,0,Fortuitous Find,Kaladesh,81,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Common
 2,0,Foul Imp,Seventh Edition,136,Near Mint,English,,,,,,,,0,Creature  - Imp,{B}{B},Uncommon
-1,0,Foul Orchard,Rivals of Ixalan,188,Near Mint,English,foil,,,,,,,0,Land,,Uncommon
 1,0,Foul Orchard,Rivals of Ixalan,188,Near Mint,English,,,,,,,,,Land,,Uncommon
+1,0,Foul Orchard,Rivals of Ixalan,188,Near Mint,English,foil,,,,,,,0,Land,,Uncommon
 4,0,Foundry Assembler,Aether Revolt,151,Near Mint,English,,,,,,,,,Artifact Creature  - Assembly-Worker,{5},Common
 2,0,Foundry Hornet,Aether Revolt,59,Near Mint,English,,,,,,,,,Creature  - Insect,{3}{B},Uncommon
 1,0,Foundry Inspector,Kaladesh,215,Near Mint,English,,,,,,,,,Artifact Creature  - Construct,{3},Uncommon
@@ -1544,9 +1549,10 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Groundskeeper,Shadows over Innistrad,208,Near Mint,English,,,,,,,,,Creature  - Human Druid,{G},Uncommon
 2,0,Growth Spurt,Unglued,61,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 1,0,Gruesome Encore,Mirrodin Besieged,44,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Uncommon
+1,0,Gruesome Fate,Rivals of Ixalan,75,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Common
 1,0,Guard Duty,Rise of the Eldrazi,23,Near Mint,English,,,,,,,,,Enchantment  - Aura,{W},Common
-2,0,Guardian Automaton,Magic Origins,227,Near Mint,English,,,,,,,,,Artifact Creature  - Construct,{4},Common
 1,1,Guardian Automaton,Magic Origins,227,Near Mint,English,foil,,,,,,,0,Artifact Creature  - Construct,{4},Common
+2,0,Guardian Automaton,Magic Origins,227,Near Mint,English,,,,,,,,,Artifact Creature  - Construct,{4},Common
 2,0,Guardian of Pilgrims,Eldritch Moon,30,Near Mint,English,,,,,,,,,Creature  - Spirit Cleric,{1}{W},Common
 1,0,Guardian's Magemark,Guildpact,8,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{W},Common
 8,0,Guardians of Meletis,Theros,217,Near Mint,English,,,,,,,,0,Artifact Creature  - Golem,{3},Common
@@ -1565,8 +1571,10 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Halt Order,Scars of Mirrodin,34,Near Mint,English,,,,,,,,,Instant,{2}{U},Uncommon
 2,0,Hammerhand,Magic 2015 Core Set,147,Near Mint,English,,,,,,,,,Enchantment  - Aura,{R},Common
 1,0,Hand of Death,Portal Second Age,14,Near Mint,English,,,,,,,,0,Sorcery,{2}{B},Common
+2,0,"Hapatra, Vizier of Poisons",Amonkhet,199,Near Mint,English,,,,,,,,,Legendary Creature  - Human Cleric,{B}{G},Rare
 1,0,Harbinger of the Tides,Magic Origins,58,Near Mint,English,,,,,,,,,Creature  - Merfolk Wizard,{U}{U},Rare
 2,0,Harbor Serpent,Magic 2011,56,Near Mint,English,,,,,,,,0,Creature  - Serpent,{4}{U}{U},Common
+1,0,Hardy Veteran,Rivals of Ixalan,132,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{1}{G},Common
 1,0,Harmless Offering,Eldritch Moon,131,Near Mint,English,,,,,,,,,Sorcery,{2}{R},Rare
 1,0,Harmonic Sliver,Time Spiral,240,Near Mint,English,,,,,,,,,Creature  - Sliver,{1}{G}{W},Uncommon
 1,0,Harrier Naga,Hour of Devastation,118,Near Mint,English,,,,,,,,,Creature  - Naga Warrior,{2}{G},Common
@@ -1615,6 +1623,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Hideous Visage,Magic 2012,100,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Common
 3,0,Hieroglyphic Illumination,Amonkhet,57,Near Mint,English,,,,,,,,,Instant,{3}{U},Common
 4,0,Hierophant's Chalice,Ixalan,240,Near Mint,English,,,,,,,,,Artifact,{3},Common
+1,0,Highland Lake,Rivals of Ixalan,189,Near Mint,English,,,,,,,,0,Land,,Uncommon
 2,0,Highspire Artisan,Kaladesh,157,Near Mint,English,,,,,,,,,Creature  - Elf Artificer,{2}{G},Common
 3,0,Highspire Infusion,Aether Revolt,111,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 2,0,Hightide Hermit,Kaladesh,51,Near Mint,English,,,,,,,,,Creature  - Crab,{4}{U},Common
@@ -1711,10 +1720,12 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Illusory Wrappings,Amonkhet,58,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{U},Common
 2,0,Immobilizer Eldrazi,Oath of the Gatewatch,97,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{1}{R},Uncommon
 1,0,Immolating Souleater,New Phyrexia,139,Near Mint,English,,,,,,,,,Artifact Creature  - Hound,{2},Common
+2,0,Impale,Rivals of Ixalan,76,Near Mint,English,,,,,,,,,Sorcery,{2}{B}{B},Common
 2,0,Impeccable Timing,Kaladesh,19,Near Mint,English,,,,,,,,0,Instant,{1}{W},Common
 6,0,Impeccable Timing,Amonkhet,18,Near Mint,English,,,,,,,,,Instant,{1}{W},Common
 1,1,Impelled Giant,Eventide,58,Near Mint,English,foil,,,,,,,0,Creature  - Giant Warrior,{4}{R}{R},Uncommon
 1,0,Imperial Aerosaur,Ixalan,14,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{3}{W},Uncommon
+1,0,Imperial Ceratops,Rivals of Ixalan,10,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{4}{W},Uncommon
 4,0,Implement of Combustion,Aether Revolt,155,Near Mint,English,,,,,,,,,Artifact,{1},Common
 2,0,Implement of Examination,Aether Revolt,156,Near Mint,English,,,,,,,,,Artifact,{3},Common
 3,0,Implement of Ferocity,Aether Revolt,157,Near Mint,English,,,,,,,,,Artifact,{1},Common
@@ -1893,8 +1904,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Koth's Courier,Mirrodin Besieged,68,Near Mint,English,,,,,,,,,Creature - Human Rogue,{1}{R}{R},Common
 4,0,Kozilek's Channeler,Battle for Zendikar,10,Near Mint,English,,,,,,,,,Creature  - Eldrazi,{5},Common
 1,0,Kozilek's Shrieker,Oath of the Gatewatch,73,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{2}{B},Common
-1,1,Kragma Warcaller,Theros,195,Near Mint,English,foil,,,,,,,0,Creature  - Minotaur Warrior,{3}{B}{R},Uncommon
 1,0,Kragma Warcaller,Theros,195,Near Mint,English,,,,,,,,,Creature  - Minotaur Warrior,{3}{B}{R},Uncommon
+1,1,Kragma Warcaller,Theros,195,Near Mint,English,foil,,,,,,,0,Creature  - Minotaur Warrior,{3}{B}{R},Uncommon
 1,0,Kraken's Eye,Magic 2011,210,Near Mint,English,,,,,,,,0,Artifact,{2},Uncommon
 2,0,Kraken's Eye,Magic 2012,211,Near Mint,English,,,,,,,,,Artifact,{2},Uncommon
 2,0,Krakilin,Tempest,129,Near Mint,English,,,,,,,,,Creature  - Beast,{X}{G}{G},Uncommon
@@ -2122,7 +2133,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Merfolk Looter,Seventh Edition,89,Near Mint,English,,,,,,,,0,Creature  - Merfolk Rogue,{1}{U},Uncommon
 1,0,Merfolk Looter,Magic 2012,65,Near Mint,English,,,,,,,,0,Creature  - Merfolk Rogue,{1}{U},Common
 1,0,Merfolk Mesmerist,Magic 2012,66,Near Mint,English,,,,,,,,,Creature  - Merfolk Wizard,{1}{U},Common
-1,0,Merfolk Mistbinder,Rivals of Ixalan,164,Near Mint,English,,,,,,,,,Creature  - Merfolk Shaman,{G}{U},Uncommon
+2,0,Merfolk Mistbinder,Rivals of Ixalan,164,Near Mint,English,,,,,,,,,Creature  - Merfolk Shaman,{G}{U},Uncommon
 4,0,Merfolk of the Pearl Trident,Fourth Edition,86,Near Mint,English,,,,,,,,0,Creature  - Merfolk,{U},Common
 1,0,Merfolk of the Pearl Trident,Classic Sixth Edition,82,Near Mint,English,,,,,,,,0,Creature  - Merfolk,{U},Common
 1,0,Merfolk of the Pearl Trident,Seventh Edition,90,Near Mint,English,,,,,,,,0,Creature  - Merfolk,{U},Common
@@ -2203,7 +2214,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Moldgraf Scavenger,Shadows over Innistrad,218,Near Mint,English,,,,,,,,,Creature  - Fungus,{1}{G},Common
 1,0,Mole Worms,Fifth Edition,41,Near Mint,English,,,,,,,,,Creature  - Worm,{2}{B},Uncommon
 1,0,Molten Birth,Magic 2014 Core Set,147,Near Mint,English,,,,,,,,,Sorcery,{1}{R}{R},Uncommon
-1,0,Moment of Triumph,Rivals of Ixalan,15,Near Mint,English,,,,,,,,,Instant,{W},Common
+1,0,Moment of Craving,Rivals of Ixalan,79,Near Mint,English,,,,,,,,,Instant,{1}{B},Common
+2,0,Moment of Triumph,Rivals of Ixalan,15,Near Mint,English,,,,,,,,,Instant,{W},Common
 3,0,Monastery Flock,Khans of Tarkir,47,Near Mint,English,,,,,,,,,Creature  - Bird,{2}{U},Common
 1,0,Monomania,Magic 2012,102,Near Mint,English,,,,,,,,,Sorcery,{3}{B}{B},Rare
 2,0,Mons's Goblin Raiders,Revised Edition,166,Near Mint,English,,,,,,,,0,Creature  - Goblin,{R},Common
@@ -2243,6 +2255,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Mudbutton Clanger,Morningtide,95,Near Mint,English,,,,,,,,,Creature  - Goblin Warrior,{R},Common
 1,0,Mulldrifter,Commander,52,Near Mint,English,,,,,,,,0,Creature  - Elemental,{4}{U},Common
 1,0,Multani's Decree,Urza's Destiny,114,Near Mint,English,,,,,,,,,Sorcery,{3}{G},Common
+4,0,Mummy Paramount,Hour of Devastation,16,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{W},Common
 1,0,Murder Investigation,Magic Origins,27,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{W},Uncommon
 2,0,Murderer's Axe,Shadows over Innistrad,259,Near Mint,English,,,,,,,,,Artifact  - Equipment,{4},Uncommon
 1,0,Murderous Betrayal,Eighth Edition,147,Near Mint,English,,,,,,,,,Enchantment,{B}{B}{B},Rare
@@ -2269,6 +2282,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 5,0,Naturalize,Magic 2011,186,Near Mint,English,,,,,,,,0,Instant,{1}{G},Common
 1,0,Naturalize,Magic 2012,185,Near Mint,English,,,,,,,,0,Instant,{1}{G},Common
 4,0,Naturalize,Magic 2015 Core Set,185,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
+1,0,Naturalize,Rivals of Ixalan,139,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 2,0,Nausea,Eighth Edition,148,Near Mint,English,,,,,,,,0,Sorcery,{1}{B},Common
 4,0,Navigator's Ruin,Ixalan,63,Near Mint,English,,,,,,,,,Enchantment,{2}{U},Uncommon
 1,0,Nearheath Chaplain,Shadows over Innistrad,29,Near Mint,English,,,,,,,,,Creature  - Human Cleric,{3}{W},Uncommon
@@ -2287,6 +2301,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Negate,Magic 2015 Core Set,71,Near Mint,English,,,,,,,,,Instant,{1}{U},Common
 1,0,Negate,Magic Origins,65,Near Mint,English,,,,,,,,0,Instant,{1}{U},Common
 2,0,Negate,Oath of the Gatewatch,59,Near Mint,English,,,,,,,,0,Instant,{1}{U},Common
+1,0,Negate,Rivals of Ixalan,44,Near Mint,English,,,,,,,,,Instant,{1}{U},Common
 1,0,Neglected Heirloom,Shadows over Innistrad,260,Near Mint,English,,,,,,,,,Artifact  - Equipment,{1},Uncommon
 3,0,Nemesis of Mortals,Theros,163,Near Mint,English,,,,,,,,,Creature  - Snake,{4}{G}{G},Uncommon
 1,0,Nephalia Seakite,Magic 2014 Core Set,65,Near Mint,English,,,,,,,,,Creature  - Bird,{3}{U},Common
@@ -2341,6 +2356,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Norwood Ranger,Eighth Edition,271,Near Mint,English,,,,,,,,0,Creature  - Elf Scout,{G},Common
 1,0,Norwood Ranger,Ninth Edition,260,Near Mint,English,,,,,,,,,Creature  - Elf Scout,{G},Common
 1,0,Not Forgotten,Shadows over Innistrad,30,Near Mint,English,,,,,,,,,Sorcery,{1}{W},Uncommon
+2,0,Noxious Ghoul,Legions,77,Near Mint,English,,,,,,,,,Creature  - Zombie,{3}{B}{B},Uncommon
 2,0,Noxious Hatchling,Eventide,124,Near Mint,English,,,,,,,,,Creature  - Elemental,{3}{BG},Uncommon
 1,0,Null Caller,Oath of the Gatewatch,88,Near Mint,English,,,,,,,,,Creature  - Vampire Shaman,{3}{B},Uncommon
 2,0,Numbing Dose,New Phyrexia,40,Near Mint,English,,,,,,,,,Enchantment  - Aura,{3}{U}{U},Common
@@ -2353,6 +2369,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Oashra Cultivator,Amonkhet,177,Near Mint,English,,,,,,,,,Creature  - Human Druid,{G},Common
 2,0,Oasis Ritualist,Hour of Devastation,124,Near Mint,English,,,,,,,,,Creature  - Naga Druid,{3}{G},Common
 1,0,Oathsworn Giant,Ravnica: City of Guilds,27,Near Mint,English,,,,,,,,,Creature  - Giant Soldier,{4}{W}{W},Uncommon
+1,0,Oathsworn Vampire,Rivals of Ixalan,80,Near Mint,English,,,,,,,,,Creature  - Vampire Knight,{1}{B},Uncommon
 1,0,"Ob Nixilis, Unshackled",Magic 2015 Core Set,110,Near Mint,English,,,,,,,,,Legendary Creature  - Demon,{4}{B}{B},Rare
 1,0,Obelisk of Urd,Magic 2015 Core Set,222,Near Mint,English,,,,,,,,,Artifact,{6},Rare
 1,0,Oblation,Commander 2016,71,Near Mint,English,,,,,,,,,Instant,{2}{W},Rare
@@ -2387,6 +2404,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 5,0,Opaline Unicorn,Theros,218,Near Mint,English,,,,,,,,,Artifact Creature  - Unicorn,{3},Common
 3,0,Oppressive Rays,Journey into Nyx,19,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{W},Common
 4,0,Oppressive Rays,Magic 2015 Core Set,21,Near Mint,English,,,,,,,,,Enchantment  - Aura,{W},Common
+4,0,Opulent Palace,Khans of Tarkir,238,Near Mint,English,,,,,,,,0,Land,,Uncommon
 1,0,Oracle of Bones,Born of the Gods,103,Near Mint,English,,,,,,,,,Creature  - Minotaur Shaman,{2}{R}{R},Rare
 2,0,Oracle of Dust,Battle for Zendikar,63,Near Mint,English,,,,,,,,,Creature  - Eldrazi Processor,{4}{U},Common
 1,0,Orazca Relic,Rivals of Ixalan,181,Near Mint,English,,,,,,,,,Artifact,{3},Common
@@ -2431,6 +2449,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Oust,Rise of the Eldrazi,40,Near Mint,English,,,,,,,,0,Sorcery,{W},Uncommon
 2,0,Outwit,Avacyn Restored,70,Near Mint,English,,,,,,,,,Instant,{U},Common
 1,0,Overcome,Hour of Devastation,125,Near Mint,English,,,,,,,,,Sorcery,{3}{G}{G},Uncommon
+1,0,Overgrown Armasaur,Rivals of Ixalan,141,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{3}{G}{G},Common
 3,0,Overgrown Battlement,Rise of the Eldrazi,203,Near Mint,English,,,,,,,,,Creature  - Wall,{1}{G},Common
 1,0,Overload,Invasion,157,Near Mint,English,,,,,,,,,Instant,{R},Common
 1,0,Overrun,Magic 2012,186,Near Mint,English,,,,,,,,0,Sorcery,{2}{G}{G}{G},Uncommon
@@ -2534,6 +2553,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Pious Interdiction,Ixalan,26,Near Mint,English,,,,,,,,,Enchantment  - Aura,{3}{W},Common
 2,0,Pirate Ship,Fourth Edition,91,Near Mint,English,,,,,,,,0,Creature  - Human Pirate,{4}{U},Rare
 4,0,Pirate's Cutlass,Ixalan,242,Near Mint,English,,,,,,,,,Artifact  - Equipment,{3},Common
+1,0,Pirate's Pillage,Rivals of Ixalan,109,Near Mint,English,,,,,,,,,Sorcery,{3}{R},Uncommon
 3,0,Pirate's Prize,Ixalan,68,Near Mint,English,,,,,,,,,Sorcery,{3}{U},Common
 1,0,Piston Sledge,Mirrodin Besieged,124,Near Mint,English,,,,,,,,,Artifact - Equipment,{3},Uncommon
 2,0,Pistus Strike,Mirrodin Besieged,86,Near Mint,English,,,,,,,,,Instant,{2}{G},Common
@@ -2559,6 +2579,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Plummet,Magic 2012,187,Near Mint,English,,,,,,,,0,Instant,{1}{G},Common
 4,0,Plummet,Magic 2015 Core Set,192,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 1,0,Plummet,Battle for Zendikar,184,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
+1,0,Plummet,Rivals of Ixalan,143,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 1,0,Plunder,Time Spiral,174,Near Mint,English,,,,,,,,0,Sorcery,{4}{R},Common
 1,0,Polis Crusher,Theros,198,Near Mint,English,,,,,,,,,Creature  - Cyclops,{2}{R}{G},Rare
 1,0,Political Trickery,Mirage,81,Near Mint,English,,,,,,,,,Sorcery,{2}{U},Rare
@@ -2721,7 +2742,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Reclaim,Magic 2012,191,Near Mint,English,,,,,,,,0,Instant,{G},Common
 2,0,Reclaim,Magic Origins,195,Near Mint,English,,,,,,,,,Instant,{G},Common
 1,0,Reclamation Sage,Magic 2015 Core Set,194,Near Mint,English,,,,,,,,,Creature  - Elf Shaman,{2}{G},Uncommon
-1,0,Recover,Rivals of Ixalan,84,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Common
+2,0,Recover,Rivals of Ixalan,84,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Common
 1,0,Recumbent Bliss,Eventide,13,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{W},Common
 1,0,Red Elemental Blast,Fourth Edition,236,Near Mint,English,,,,,,,,,Instant,{R},Common
 1,0,Red Mana Battery,Fourth Edition,361,Near Mint,English,,,,,,,,,Artifact,{4},Rare
@@ -2877,7 +2898,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Sage Owl,Seventh Edition,96,Near Mint,English,,,,,,,,0,Creature  - Bird,{1}{U},Common
 2,0,Sage Owl,Eighth Edition,98,Near Mint,English,,,,,,,,0,Creature  - Bird,{1}{U},Common
 6,0,Sailor of Means,Ixalan,73,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{2}{U},Common
-2,0,Sailor of Means,Rivals of Ixalan,49,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{2}{U},Common
+3,0,Sailor of Means,Rivals of Ixalan,49,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{2}{U},Common
 1,0,Salivating Gremlins,Kaladesh,129,Near Mint,English,,,,,,,,,Creature  - Gremlin,{2}{R},Common
 1,0,Salt Marsh,Eighth Edition,325,Near Mint,English,,,,,,,,,Land,,Uncommon
 1,0,Saltblast,Planar Chaos,15,Near Mint,English,,,,,,,,,Sorcery,{3}{W}{W},Uncommon
@@ -2899,6 +2920,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Sandstorm,Fourth Edition,153,Near Mint,English,,,,,,,,0,Instant,{G},Common
 2,0,Sangrophage,Time Spiral,127,Near Mint,English,,,,,,,,,Creature  - Zombie,{B}{B},Common
 1,0,Sanguinary Mage,Shadows over Innistrad,178,Near Mint,English,,,,,,,,,Creature  - Vampire Wizard,{1}{R},Common
+1,0,Sanguine Glorifier,Rivals of Ixalan,20,Near Mint,English,,,,,,,,,Creature  - Vampire Cleric,{3}{W},Common
 1,0,Sanguine Praetor,Guildpact,60,Near Mint,English,,,,,,,,,Creature  - Avatar,{6}{B}{B},Rare
 1,0,Saprazzan Raider,Mercadian Masques,102,Near Mint,English,,,,,,,,,Creature  - Merfolk,{2}{U},Common
 1,0,Sapseep Forest,Shadowmoor,279,Near Mint,English,,,,,,,,,Land  - Forest,,Uncommon
@@ -2956,17 +2978,18 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Scythe Specter,Commander,97,Near Mint,English,,,,,,,,,Creature  - Specter,{4}{B}{B},Rare
 1,0,Sea Eagle,Eighth Edition,4,Near Mint,English,,,,,,,,,Creature  - Bird,{1}{U},Common
 2,0,Sea God's Revenge,Theros,61,Near Mint,English,,,,,,,,,Sorcery,{5}{U},Uncommon
-1,0,Sea Legs,Rivals of Ixalan,50,Near Mint,English,,,,,,,,,Enchantment  - Aura,{U},Common
+2,0,Sea Legs,Rivals of Ixalan,50,Near Mint,English,,,,,,,,,Enchantment  - Aura,{U},Common
 2,0,Sea Monster,Eighth Edition,99,Near Mint,English,,,,,,,,0,Creature  - Serpent,{4}{U}{U},Common
 1,0,Sea Monster,Tenth Edition,106,Near Mint,English,,,,,,,,,Creature  - Serpent,{4}{U}{U},Common
 1,0,Sea Scryer,Mirage,90,Near Mint,English,,,,,,,,,Creature  - Merfolk Wizard,{1}{U},Common
 2,0,Sea Spirit,Ice Age,95,Near Mint,English,,,,,,,,0,Creature  - Elemental Spirit,{4}{U},Uncommon
 1,0,Sea's Claim,Ninth Edition,97,Near Mint,English,,,,,,,,,Enchantment  - Aura,{U},Common
+1,0,Seafloor Oracle,Rivals of Ixalan,51,Near Mint,English,,,,,,,,,Creature  - Merfolk Wizard,{2}{U}{U},Rare
 18,0,Seagraf Skaab,Shadows over Innistrad,84,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{U},Common
 4,0,Sealock Monster,Theros,62,Near Mint,English,,,,,,,,,Creature  - Octopus,{3}{U}{U},Uncommon
 1,0,Seasinger,Fallen Empires,52,Near Mint,English,,,,,,,,0,Creature  - Merfolk,{1}{U}{U},Uncommon
 1,0,Seasoned Marshal,Ninth Edition,42,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{2}{W}{W},Uncommon
-1,0,Secrets of the Golden City,Rivals of Ixalan,52,Near Mint,English,,,,,,,,,Sorcery,{1}{U}{U},Common
+2,0,Secrets of the Golden City,Rivals of Ixalan,52,Near Mint,English,,,,,,,,,Sorcery,{1}{U}{U},Common
 4,0,Sedge Scorpion,Theros,177,Near Mint,English,,,,,,,,,Creature  - Scorpion,{G},Common
 2,0,Seedling Charm,Mirage,138,Near Mint,English,,,,,,,,,Instant,{G},Common
 4,0,Seeker of Insight,Amonkhet,69,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{1}{U},Common
@@ -3031,6 +3054,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Shatter,Mirrodin,105,Near Mint,English,,,,,,,,0,Instant,{1}{R},Common
 2,0,Shatter,Ninth Edition,218,Near Mint,English,,,,,,,,0,Instant,{1}{R},Common
 3,0,Shatter,Scars of Mirrodin,103,Near Mint,English,,,,,,,,0,Instant,{1}{R},Common
+1,0,Shatter,Rivals of Ixalan,114,Near Mint,English,,,,,,,,,Instant,{1}{R},Common
 2,0,Shattered Crypt,Weatherlight,22,Near Mint,English,,,,,,,,,Sorcery,{X}{B}{B},Common
 1,0,Shauku's Minion,Mirage,343,Near Mint,English,,,,,,,,,Creature  - Human Minion,{1}{B}{R},Uncommon
 4,0,Shed Weakness,Amonkhet,185,Near Mint,English,,,,,,,,,Instant,{G},Common
@@ -3087,6 +3111,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Silver Myr,Scars of Mirrodin,202,Near Mint,English,,,,,,,,,Artifact Creature  - Myr,{2},Common
 1,0,Silverback Ape,Eighth Edition,7,Near Mint,English,,,,,,,,,Creature  - Ape,{3}{G}{G},Uncommon
 2,0,Silvercoat Lion,Magic 2011,31,Near Mint,English,,,,,,,,0,Creature  - Cat,{1}{W},Common
+1,0,Silvergill Adept,Rivals of Ixalan,53,Near Mint,English,,,,,,,,,Creature  - Merfolk Wizard,{1}{U},Uncommon
 1,0,Silverglade Elemental,Mercadian Masques,269,Near Mint,English,,,,,,,,,Creature  - Elemental,{4}{G},Common
 2,0,Silverstrike,Shadows over Innistrad,37,Near Mint,English,,,,,,,,,Instant,{3}{W},Uncommon
 1,0,Simic Growth Chamber,Commander,288,Near Mint,English,,,,,,,,0,Land,,Common
@@ -3165,6 +3190,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Snow-Covered Swamp,Ice Age,351,Near Mint,English,,,,,,,,0,Basic Snow Land  - Swamp,,BasicLand
 3,0,Snowfall,Ice Age,101,Near Mint,English,,,,,,,,,Enchantment,{2}{U},Common
 1,0,Snowhorn Rider,Khans of Tarkir,201,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{3}{G}{U}{R},Common
+1,0,Snubhorn Sentry,Rivals of Ixalan,23,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{W},Common
 1,0,Soar,Mirage,93,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{U},Common
 1,0,Sol Grail,Alliances,173,Near Mint,English,,,,,,,,,Artifact,{3},Uncommon
 1,0,Sol Ring,Unlimited Edition,270,Near Mint,English,,,,,,,,0,Artifact,{1},Uncommon
@@ -3190,7 +3216,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Soul Net,Fourth Edition,364,Near Mint,English,,,,,,,,0,Artifact,{1},Uncommon
 1,0,Soul Net,Seventh Edition,317,Near Mint,English,,,,,,,,,Artifact,{1},Uncommon
 1,0,Soul of Innistrad,Magic 2015 Core Set,115,Near Mint,English,,,,,,,,,Creature  - Avatar,{4}{B}{B},MythicRare
-1,0,Soul of the Rapids,Rivals of Ixalan,56,Near Mint,English,,,,,,,,,Creature  - Elemental,{3}{U}{U},Common
+2,0,Soul of the Rapids,Rivals of Ixalan,56,Near Mint,English,,,,,,,,,Creature  - Elemental,{3}{U}{U},Common
 1,0,Soul of Theros,Magic 2015 Core Set,34,Near Mint,English,,,,,,,,,Creature  - Avatar,{4}{W}{W},MythicRare
 1,0,Soul of Zendikar,Magic 2015 Core Set,201,Near Mint,English,,,,,,,,,Creature  - Avatar,{4}{G}{G},MythicRare
 3,0,Soul Reap,Eventide,44,Near Mint,English,,,,,,,,,Sorcery,{1}{B},Common
@@ -3330,6 +3356,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Stratus Walk,Magic Origins,77,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{U},Common
 1,0,Stream of Life,Eighth Edition,282,Near Mint,English,,,,,,,,0,Sorcery,{X}{G},Uncommon
 1,0,Stream of Life,Ninth Edition,272,Near Mint,English,,,,,,,,,Sorcery,{X}{G},Uncommon
+1,0,Strength of the Pack,Rivals of Ixalan,145,Near Mint,English,,,,,,,,,Sorcery,{4}{G}{G},Uncommon
 2,0,Strider Harness,Scars of Mirrodin,207,Near Mint,English,,,,,,,,0,Artifact  - Equipment,{3},Common
 1,0,Strider Harness,Oath of the Gatewatch,167,Near Mint,English,,,,,,,,0,Artifact  - Equipment,{3},Uncommon
 1,0,Striking Sliver,Magic 2014 Core Set,157,Near Mint,English,,,,,,,,,Creature  - Sliver,{R},Common
@@ -3349,8 +3376,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Sultai Skullkeeper,Fate Reforged,53,Near Mint,English,,,,,,,,,Creature  - Naga Shaman,{1}{U},Common
 1,0,Summit Prowler,Dragons of Tarkir,160,Near Mint,English,,,,,,,,,Creature  - Yeti,{2}{R}{R},Common
 1,0,Sun Sentinel,Rivals of Ixalan,26,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{1}{W},Common
-1,0,Sun-Collared Raptor,Rivals of Ixalan,118,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{1}{R},Common
-1,0,Sun-Crested Pterodon,Rivals of Ixalan,27,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{4}{W},Common
+3,0,Sun-Collared Raptor,Rivals of Ixalan,118,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{1}{R},Common
+2,0,Sun-Crested Pterodon,Rivals of Ixalan,27,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{4}{W},Common
 3,0,Sun-Crowned Hunters,Ixalan,164,Near Mint,English,,,,,,,,,Creature  - Dinosaur,{4}{R}{R},Common
 1,0,Sunbeam Spellbomb,Mirrodin,250,Near Mint,English,,,,,,,,,Artifact,{1},Common
 1,0,Sunbird's Invocation,Ixalan,165,Near Mint,English,,,,,,,,,Enchantment,{5}{R},Rare
@@ -3377,6 +3404,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Survive the Night,Shadows over Innistrad,41,Near Mint,English,,,,,,,,,Instant,{2}{W},Common
 1,0,"Svogthos, the Restless Tomb",Commander,289,Near Mint,English,,,,,,,,0,Land,,Uncommon
 4,0,Svyelunite Temple,Fallen Empires,187,Near Mint,English,,,,,,,,0,Land,,Uncommon
+1,0,Swaggering Corsair,Rivals of Ixalan,119,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{2}{R},Common
 1,1,Swamp,Unglued,86,Near Mint,English,,,,,,,,0,Basic Land  - Swamp,,BasicLand
 6,0,Swamp,Duel Decks: Speed vs. Cunning,39,,,,,,,,,,,Basic Land  - Swamp,,BasicLand
 16,0,Swamp,Ixalan,269,Near Mint,English,,,,,,,,,Basic Land  - Swamp,,BasicLand
@@ -3397,6 +3425,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Sword-Point Diplomacy,Ixalan,126,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Rare
 1,0,Swords to Plowshares,Revised Edition,225,Near Mint,English,,,,,,,,0,Instant,{W},Uncommon
 1,0,Sworn Defender,Alliances,152,Near Mint,English,,,,,,,,,Creature  - Human Knight,{2}{W}{W},Rare
+1,0,Sworn Guardian,Rivals of Ixalan,58,Near Mint,English,,,,,,,,,Creature  - Merfolk Warrior,{1}{U},Common
 1,0,Sylvan Messenger,Magic Origins,199,Near Mint,English,,,,,,,,,Creature  - Elf,{3}{G},Uncommon
 1,0,Sylvan Ranger,Magic 2011,198,Near Mint,English,,,,,,,,0,Creature  - Elf Scout,{1}{G},Common
 1,0,Sylvok Lifestaff,Scars of Mirrodin,209,Near Mint,English,,,,,,,,,Artifact  - Equipment,{1},Common
@@ -3471,6 +3500,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,1,Thorn Elemental,Seventh Edition,273,Near Mint,English,foil,,,,,,,0,Creature  - Elemental,{5}{G}{G},Rare
 1,0,Thornscape Apprentice,Invasion,215,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{G},Common
 1,0,Thornscape Familiar,Planeshift,95,Near Mint,English,,,,,,,,,Creature  - Insect,{1}{G},Common
+10,0,Thornwood Falls,Khans of Tarkir,244,Near Mint,English,,,,,,,,0,Land,,Common
 5,0,Those Who Serve,Amonkhet,32,Near Mint,English,,,,,,,,,Creature  - Zombie,{2}{W},Common
 1,0,Thought Harvester,Oath of the Gatewatch,48,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{3}{U},Uncommon
 1,0,Thought Nibbler,Odyssey,107,Near Mint,English,,,,,,,,,Creature  - Beast,{U},Common
@@ -3512,6 +3542,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Time Ebb,Tempest,96,Near Mint,English,,,,,,,,0,Sorcery,{2}{U},Common
 1,0,Time Ebb,Magic 2014 Core Set,74,Near Mint,English,,,,,,,,,Sorcery,{2}{U},Common
 4,0,Time to Feed,Theros,181,Near Mint,English,,,,,,,,,Sorcery,{2}{G},Common
+4,0,Time to Reflect,Amonkhet,33,Near Mint,English,,,,,,,,,Instant,{W},Uncommon
 1,0,"Timmy, Power Gamer",Unglued,68,Near Mint,English,,,,,,,,,Summon - Legend,{2}{G}{G},Rare
 1,0,Tinder Wall,Ice Age,158,Near Mint,English,,,,,,,,,Creature  - Plant Wall,{G},Common
 1,0,Tine Shrike,Mirrodin Besieged,17,Near Mint,English,,,,,,,,,Creature - Bird,{3}{W},Common
@@ -3588,8 +3619,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Trigon of Thought,Scars of Mirrodin,217,Near Mint,English,,,,,,,,,Artifact,{5},Uncommon
 2,0,Triplicate Spirits,Magic 2015 Core Set,40,Near Mint,English,,,,,,,,,Sorcery,{4}{W}{W},Common
 1,0,Triskelavus,Commander,263,Near Mint,English,,,,,,,,0,Artifact Creature  - Construct,{7},Rare
-1,1,Triton Fortune Hunter,Theros,69,Near Mint,English,foil,,,,,,,0,Creature  - Merfolk Soldier,{2}{U},Uncommon
 2,0,Triton Fortune Hunter,Theros,69,Near Mint,English,,,,,,,,,Creature  - Merfolk Soldier,{2}{U},Uncommon
+1,1,Triton Fortune Hunter,Theros,69,Near Mint,English,foil,,,,,,,0,Creature  - Merfolk Soldier,{2}{U},Uncommon
 4,0,Triton Shorethief,Theros,70,Near Mint,English,,,,,,,,,Creature  - Merfolk Rogue,{U},Common
 4,0,Triton Tactics,Theros,71,Near Mint,English,,,,,,,,,Instant,{U},Uncommon
 1,0,Triumph of Ferocity,Avacyn Restored,198,Near Mint,English,,,,,,,,,Enchantment,{2}{G},Uncommon
@@ -3772,8 +3803,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Vow of Flight,Commander,68,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{U},Uncommon
 1,0,Vow of Malice,Commander,107,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{2}{B},Uncommon
 1,0,Vow of Wildness,Commander,178,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{G},Uncommon
-1,1,Voyage's End,Theros,73,Near Mint,English,foil,,,,,,,0,Instant,{1}{U},Common
 2,0,Voyage's End,Theros,73,Near Mint,English,,,,,,,,,Instant,{1}{U},Common
+1,1,Voyage's End,Theros,73,Near Mint,English,foil,,,,,,,0,Instant,{1}{U},Common
 3,0,Voyaging Satyr,Theros,182,Near Mint,English,,,,,,,,,Creature  - Satyr Druid,{1}{G},Common
 1,0,"Vraska, Relic Seeker",Ixalan,232,Near Mint,English,,,,,,,,,Legendary Planeswalker  - Vraska,{4}{B}{G},MythicRare
 4,0,Vulpine Goliath,Theros,183,Near Mint,English,,,,,,,,,Creature  - Fox,{4}{G}{G},Common
