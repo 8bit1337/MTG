@@ -1,0 +1,40 @@
+Count,Name,Type,Cost,Rarity,Section
+1,Akroan Horse,Artifact Creature  - Horse,{4},Rare,main
+1,"Alhammarret, High Arbiter",Legendary Creature  - Sphinx,{5}{U}{U},Rare,main
+3,Basilica Screecher,Creature  - Bat,{1}{B},Common,main
+1,Blistergrub,Creature  - Horror,{2}{B},Common,main
+1,Butcher of Malakir,Creature  - Vampire Warrior,{5}{B}{B},Rare,main
+2,Chemister's Trick,Instant,{U}{R},Common,main
+1,Consuming Aberration,Creature  - Horror,{3}{U}{B},Rare,main
+1,Crackling Perimeter,Enchantment,{1}{R},Uncommon,main
+1,Cyclonic Rift,Instant,{1}{U},Rare,main
+1,Deathrite Shaman,Creature  - Elf Shaman,{BG},Rare,main
+3,Dimir Guildgate,Land  - Gate,,Common,main
+2,Downsize,Instant,{U},Common,main
+2,Electrickery,Instant,{R},Common,main
+4,Evolving Wilds,Land,,Common,main
+2,Fanatic of Mogis,Creature  - Minotaur Shaman,{3}{R},Uncommon,main
+2,Gray Merchant of Asphodel,Creature  - Zombie,{3}{B}{B},Common,main
+1,Gruesome Fate,Sorcery,{2}{B},Common,main
+2,Guttersnipe,Creature  - Goblin Shaman,{2}{R},Uncommon,main
+3,Island,Basic Land  - Island,,BasicLand,main
+3,Izzet Guildgate,Land  - Gate,,Common,main
+2,Liliana's Specter,Creature  - Specter,{1}{B}{B},Common,main
+4,Lobber Crew,Creature  - Goblin Warrior,{2}{R},Common,main
+1,Mind Grind,Sorcery,{X}{U}{B},Rare,main
+3,Mountain,Basic Land  - Mountain,,BasicLand,main
+1,"Nicol Bolas, God-Pharaoh",Planeswalker  - Bolas,{4}{U}{B}{R},MythicRare,main
+1,Night Market Lookout,Creature  - Human Rogue,{B},Common,main
+3,Rakdos Guildgate,Land  - Gate,,Common,main
+1,Street Spasm,Instant,{X}{R},Uncommon,main
+3,Swamp,Basic Land  - Swamp,,BasicLand,main
+1,Teleportal,Sorcery,{U}{R},Uncommon,main
+1,Thespian's Stage,Land,,Rare,main
+1,Vandalblast,Sorcery,{R},Uncommon,main
+1,Weapon Surge,Instant,{R},Common,main
+2,Embraal Gear-Smasher,Creature  - Human Warrior,{2}{R},Common,sideboard
+2,Firebrand Archer,Creature  - Human Archer,{1}{R},Common,sideboard
+
+
+
+
