@@ -1,0 +1,30 @@
+Count,Name,Type,Cost,Rarity,Section
+3,Abzan Battle Priest,Creature  - Human Cleric,{3}{W},Uncommon,main
+2,Abzan Charm,Instant,{W}{B}{G},Uncommon,main
+4,Abzan Falconer,Creature  - Human Soldier,{2}{W},Uncommon,main
+4,Ainok Bond-Kin,Creature  - Hound Soldier,{1}{W},Common,main
+4,Blossoming Sands,Land,,Common,main
+4,Burst of Strength,Instant,{G},Common,main
+1,Corpsejack Menace,Creature  - Fungus,{2}{B}{G},Uncommon,main
+1,Driven // Despair,Sorcery,{1}{G},Rare,main
+3,Forest,Basic Land  - Forest,,BasicLand,main
+1,Glaring Spotlight,Artifact,{1},Rare,main
+1,Herald of Anafenza,Creature  - Human Soldier,{W},Rare,main
+1,High Sentinels of Arashin,Creature  - Bird Soldier,{3}{W},Rare,main
+1,Ivorytusk Fortress,Creature  - Elephant,{2}{W}{B}{G},Rare,main
+4,Jungle Hollow,Land,,Common,main
+1,Knight of the Reliquary,Creature  - Human Knight,{1}{G}{W},Rare,main
+4,Longshot Squad,Creature  - Hound Archer,{3}{G},Common,main
+3,Mer-Ek Nightblade,Creature  - Orc Assassin,{3}{B},Uncommon,main
+1,Merciless Eviction,Sorcery,{4}{W}{B},Rare,main
+4,Plains,Basic Land  - Plains,,BasicLand,main
+1,Sandsteppe Citadel,Land,,Uncommon,main
+4,Scoured Barrens,Land,,Common,main
+2,Stab Wound,Enchantment  - Aura,{2}{B},Uncommon,main
+3,Swamp,Basic Land  - Swamp,,BasicLand,main
+2,Swords to Plowshares,Instant,{W},Uncommon,main
+1,Tuskguard Captain,Creature  - Human Warrior,{2}{G},Uncommon,main
+
+
+
+
