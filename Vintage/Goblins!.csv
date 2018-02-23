@@ -23,6 +23,7 @@ Count,Name,Type,Cost,Rarity,Section
 2,Quicksand,Land,,Common,main
 2,Rummaging Goblin,Creature  - Goblin Rogue,{2}{R},Common,main
 2,Terramorphic Expanse,Land,,Common,main
+1,Goblinslide,Enchantment,{2}{R},Uncommon,sideboard
 
 
 

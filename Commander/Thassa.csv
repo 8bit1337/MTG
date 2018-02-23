@@ -1,6 +1,5 @@
 Count,Name,Type,Cost,Rarity,Section
 1,Aether Adept,Creature  - Human Wizard,{1}{U}{U},Common,main
-1,"Alhammarret, High Arbiter",Legendary Creature  - Sphinx,{5}{U}{U},Rare,main
 1,Aquitect's Will,Tribal Sorcery  - Merfolk,{U},Common,main
 1,Arcanis the Omnipotent,Legendary Creature  - Wizard,{3}{U}{U}{U},Rare,main
 1,Archivist,Creature  - Human Wizard,{2}{U}{U},Rare,main
@@ -28,6 +27,9 @@ Count,Name,Type,Cost,Rarity,Section
 31,Island,Basic Land  - Island,,BasicLand,main
 1,Jace's Mindseeker,Creature  - Fish Illusion,{4}{U}{U},Rare,main
 1,Jace's Sanctum,Enchantment,{3}{U},Rare,main
+1,"Jace, Architect of Thought",Planeswalker  - Jace,{2}{U}{U},MythicRare,main
+1,"Jace, Cunning Castaway",Legendary Planeswalker  - Jace,{1}{U}{U},MythicRare,main
+1,"Jace, the Living Guildpact",Planeswalker  - Jace,{2}{U}{U},MythicRare,main
 1,Kukemssa Serpent,Creature  - Serpent,{3}{U},Common,main
 1,Lonely Sandbar,Land,,Common,main
 1,Magical Hack,Instant,{U},Rare,main
@@ -37,7 +39,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Mental Discipline,Enchantment,{1}{U}{U},Common,main
 1,Mercurial Pretender,Creature  - Shapeshifter,{4}{U},Rare,main
 1,Merfolk Looter,Creature  - Merfolk Rogue,{1}{U},Uncommon,main
-1,Nimbus Naiad,Enchantment Creature  - Nymph,{2}{U},Common,main
 1,Polymorphist's Jest,Instant,{1}{U}{U},Rare,main
 1,Primal Amulet,Artifact,{4},Rare,main
 1,Prognostic Sphinx,Creature  - Sphinx,{3}{U}{U},Rare,main
@@ -62,7 +63,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Temple of the False God,Land,,Uncommon,main
 1,Terramorphic Expanse,Land,,Common,main
 1,Thassa's Bounty,Sorcery,{5}{U},Common,main
-1,Thassa's Emissary,Enchantment Creature  - Crab,{3}{U},Uncommon,main
 1,"Thassa, God of the Sea",Legendary Enchantment Creature  - God,{2}{U},MythicRare,main
 1,Turn to Frog,Instant,{1}{U},Uncommon,main
 1,Unsummon,Instant,{U},Common,main
@@ -72,6 +72,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Dispersal Technician,Creature  - Vedalken Artificer,{4}{U},Common,sideboard
 1,Drag Under,Sorcery,{2}{U},Common,sideboard
 1,Exultant Cultist,Creature  - Human Wizard,{2}{U},Common,sideboard
+1,Oath of Jace,Legendary Enchantment,{2}{U},Rare,sideboard
 1,Reckless Scholar,Creature  - Human Wizard,{2}{U},Uncommon,sideboard
 1,Rewind,Instant,{2}{U}{U},Common,sideboard
 1,Whisk Away,Instant,{2}{U},Common,sideboard

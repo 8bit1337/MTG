@@ -26,11 +26,13 @@ Count,Name,Type,Cost,Rarity,Section
 1,End Hostilities,Sorcery,{3}{W}{W},Rare,sideboard
 2,Fan Bearer,Creature  - Zombie,{W},Common,sideboard
 1,Fleshbag Marauder,Creature  - Zombie Warrior,{2}{B},Uncommon,sideboard
+1,Merciless Eviction,Sorcery,{4}{W}{B},Rare,sideboard
 2,Mummy Paramount,Creature  - Zombie,{1}{W},Common,sideboard
 1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,sideboard
 1,Rancid Rats,Creature  - Zombie Rat,{1}{B},Common,sideboard
 1,Rise from the Grave,Sorcery,{4}{B},Uncommon,sideboard
 1,Skinrender,Creature  - Zombie,{2}{B}{B},Uncommon,sideboard
+1,Utter End,Instant,{2}{W}{B},Rare,sideboard
 
 
 

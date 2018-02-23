@@ -1,0 +1,28 @@
+Count,Name,Type,Cost,Rarity,Section
+2,Aqueous Form,Enchantment  - Aura,{U},Common,main
+1,Artisan of Forms,Creature  - Human Wizard,{1}{U},Rare,main
+2,Avenging Arrow,Instant,{2}{W},Common,main
+2,Azorius Guildgate,Land  - Gate,,Common,main
+2,Battlewise Hoplite,Creature  - Human Soldier,{W}{U},Uncommon,main
+2,Cartouche of Knowledge,Enchantment  - Aura Cartouche,{1}{U},Common,main
+2,Cartouche of Solidarity,Enchantment  - Aura Cartouche,{W},Common,main
+2,Chosen by Heliod,Enchantment  - Aura,{1}{W},Common,main
+2,Ethereal Armor,Enchantment  - Aura,{W},Common,main
+4,Evolving Wilds,Land,,Common,main
+1,Fabled Hero,Creature  - Human Soldier,{1}{W}{W},Rare,main
+2,Favored Hoplite,Creature  - Human Soldier,{W},Uncommon,main
+3,Heliod's Emissary,Enchantment Creature  - Elk,{3}{W},Uncommon,main
+4,Hopeful Eidolon,Enchantment Creature  - Spirit,{W},Common,main
+6,Island,Basic Land  - Island,,BasicLand,main
+3,Nimbus Naiad,Enchantment Creature  - Nymph,{2}{U},Common,main
+2,Phalanx Leader,Creature  - Human Soldier,{W}{W},Uncommon,main
+8,Plains,Basic Land  - Plains,,BasicLand,main
+2,Setessan Battle Priest,Creature  - Human Cleric,{1}{W},Common,main
+2,Smite,Instant,{W},Common,main
+1,Spear of Heliod,Legendary Enchantment Artifact,{1}{W}{W},Rare,main
+2,Thassa's Emissary,Enchantment Creature  - Crab,{3}{U},Uncommon,main
+3,Tranquil Cove,Land,,Common,main
+
+
+
+

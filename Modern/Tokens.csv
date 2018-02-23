@@ -1,0 +1,28 @@
+Count,Name,Type,Cost,Rarity,Section
+2,Anointed Procession,Enchantment,{3}{W},Rare,main
+4,Anointer Priest,Creature  - Human Cleric,{1}{W},Common,main
+4,Bloodflow Connoisseur,Creature  - Vampire,{2}{B},Common,main
+4,Bone Splinters,Sorcery,{B},Common,main
+2,Bontu the Glorified,Legendary Creature  - God,{2}{B},MythicRare,main
+2,Cartouche of Solidarity,Enchantment  - Aura Cartouche,{W},Common,main
+2,Celestial Flare,Instant,{W}{W},Common,main
+4,Countless Gears Renegade,Creature  - Dwarf Artificer,{1}{W},Common,main
+3,Cradle of the Accursed,Land  - Desert,,Common,main
+1,Doomed Dissenter,Creature  - Human,{1}{B},Common,main
+4,Forsaken Sanctuary,Land,,Uncommon,main
+2,Gurmag Swiftwing,Creature  - Bat,{1}{B},Uncommon,main
+1,"Heliod, God of the Sun",Legendary Enchantment Creature  - God,{3}{W},MythicRare,main
+3,Indulgent Aristocrat,Creature  - Vampire,{B},Uncommon,main
+2,Isolated Chapel,Land,,Rare,main
+2,Oketra the True,Legendary Creature  - God,{3}{W},MythicRare,main
+2,Oketra's Monument,Legendary Artifact,{3},Uncommon,main
+2,Pious Evangel,Creature  - Human Cleric,{2}{W},Uncommon,main
+6,Plains,Basic Land  - Plains,,BasicLand,main
+2,Sunscorched Desert,Land  - Desert,,Common,main
+6,Swamp,Basic Land  - Swamp,,BasicLand,main
+1,Caribou Range,Enchantment  - Aura,{2}{W}{W},Rare,sideboard
+1,Corpseweft,Enchantment,{2}{B},Rare,sideboard
+
+
+
+

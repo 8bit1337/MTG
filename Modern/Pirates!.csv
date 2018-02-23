@@ -23,6 +23,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Treasure Map,Artifact,{2},Rare,main
 2,Unknown Shores,Land,,Common,main
 1,"Vraska, Relic Seeker",Legendary Planeswalker  - Vraska,{4}{B}{G},MythicRare,main
+1,Dire Fleet Poisoner,Creature  - Human Pirate,{1}{B},Rare,sideboard
 1,Prying Blade,Artifact  - Equipment,{1},Common,sideboard
 
 

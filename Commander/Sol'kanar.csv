@@ -8,7 +8,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Blast of Genius,Sorcery,{4}{U}{R},Uncommon,main
 1,Bloodfell Caves,Land,,Common,main
 1,Breathstealer's Crypt,Enchantment,{2}{U}{B},Rare,main
-1,Butcher of Malakir,Creature  - Vampire Warrior,{5}{B}{B},Rare,main
 1,Cavern Lampad,Enchantment Creature  - Nymph,{3}{B},Common,main
 1,Command Tower,Land,,Common,main
 1,Contaminated Ground,Enchantment  - Aura,{1}{B},Common,main
@@ -28,11 +27,11 @@ Count,Name,Type,Cost,Rarity,Section
 1,Dukhara Scavenger,Creature  - Crocodile,{5}{B},Common,main
 1,Eater of the Dead,Creature  - Horror,{4}{B},Uncommon,main
 1,Erebos's Emissary,Enchantment Creature  - Snake,{3}{B},Uncommon,main
-1,Eternal Thirst,Enchantment  - Aura,{1}{B},Common,main
 1,Evil Presence,Enchantment  - Aura,{B},Common,main
 1,Evolving Wilds,Land,,Common,main
 1,Extractor Demon,Creature  - Demon,{4}{B}{B},Rare,main
 1,Fetid Imp,Creature  - Imp,{1}{B},Common,main
+1,Fountain of Youth,Artifact,{0},Uncommon,main
 1,Fumarole,Sorcery,{3}{B}{R},Uncommon,main
 1,Fury of the Horde,Sorcery,{5}{R}{R},Rare,main
 1,Greed,Enchantment,{3}{B},Rare,main
@@ -46,7 +45,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Lady Orca,Legendary Creature  - Demon,{5}{B}{R},Uncommon,main
 1,Lonely Sandbar,Land,,Common,main
 1,Manalith,Artifact,{3},Common,main
-1,Mark of the Vampire,Enchantment  - Aura,{3}{B},Common,main
 1,Mortivore,Creature  - Lhurgoyf,{2}{B}{B},Rare,main
 6,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Navigator's Ruin,Enchantment,{2}{U},Uncommon,main
@@ -75,24 +73,18 @@ Count,Name,Type,Cost,Rarity,Section
 1,Sol'kanar the Swamp King,Legendary Creature  - Demon,{2}{U}{B}{R},Special,main
 1,Soul of Innistrad,Creature  - Avatar,{4}{B}{B},MythicRare,main
 1,Sphinx's Tutelage,Enchantment,{2}{U},Uncommon,main
+1,Star Compass,Artifact,{2},Common,main
+1,Stone Calendar,Artifact,{5},Rare,main
 8,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Swiftwater Cliffs,Land,,Common,main
 1,Terramorphic Expanse,Land,,Common,main
-1,Traveler's Amulet,Artifact,{1},Common,main
 1,Typhoid Rats,Creature  - Rat,{B},Common,main
 1,Uncle Istvan,Creature  - Human,{1}{B}{B}{B},Special,main
 1,Unknown Shores,Land,,Common,main
 1,Urborg Volcano,Land,,Uncommon,main
 1,"Urborg, Tomb of Yawgmoth",Legendary Land,,Rare,main
 1,Wall of Limbs,Creature  - Zombie Wall,{2}{B},Uncommon,main
-1,Contaminated Bond,Enchantment  - Aura,{1}{B},Common,sideboard
-1,Disentomb,Sorcery,{B},Common,sideboard
-1,Drudge Skeletons,Creature  - Skeleton,{1}{B},Common,sideboard
-1,Flameshadow Conjuring,Enchantment,{3}{R},Rare,sideboard
-1,Lord of Tresserhorn,Legendary Creature  - Zombie,{1}{U}{B}{R},Rare,sideboard
-1,Necromantic Thirst,Enchantment  - Aura,{2}{B}{B},Common,sideboard
-1,Pilfered Plans,Sorcery,{1}{U}{B},Common,sideboard
-1,Trespasser's Curse,Enchantment  - Aura Curse,{1}{B},Common,sideboard
+1,Zuran Orb,Artifact,{0},Uncommon,main
 
 
 

@@ -9,8 +9,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Carnage Wurm,Creature  - Wurm,{6}{G},Uncommon,main
 1,Caustic Caterpillar,Creature  - Insect,{G},Common,main
 1,Cockatrice,Creature  - Cockatrice,{3}{G}{G},Special,main
-1,Colossal Dreadmaw,Creature  - Dinosaur,{4}{G}{G},Common,main
-1,Crash of Rhinos,Creature  - Rhino,{6}{G}{G},Common,main
 1,Creeping Mold,Sorcery,{2}{G}{G},Uncommon,main
 1,Crocanura,Creature  - Crocodile Frog,{2}{G},Common,main
 1,Crystal Ball,Artifact,{3},Uncommon,main
@@ -30,6 +28,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Gaea's Liege,Creature  - Avatar,{3}{G}{G}{G},Special,main
 1,Garruk's Horde,Creature  - Beast,{5}{G}{G},Rare,main
 1,Grasslands,Land,,Uncommon,main
+1,Gyre Sage,Creature  - Elf Druid,{1}{G},Rare,main
 1,Hurricane,Sorcery,{X}{G},Rare,main
 1,Kalonian Twingrove,Creature  - Treefolk Warrior,{5}{G},Rare,main
 1,Karametra's Acolyte,Creature  - Human Druid,{3}{G},Uncommon,main
@@ -44,16 +43,17 @@ Count,Name,Type,Cost,Rarity,Section
 1,Pelakka Wurm,Creature  - Wurm,{4}{G}{G}{G},Uncommon,main
 1,Pharika's Disciple,Creature  - Centaur Warrior,{3}{G},Common,main
 1,Pride of Lions,Creature  - Cat,{3}{G}{G},Uncommon,main
+1,Primeval Titan,Creature  - Giant,{4}{G}{G},MythicRare,main
 1,Reclamation Sage,Creature  - Elf Shaman,{2}{G},Uncommon,main
 1,Regrowth,Sorcery,{1}{G},Uncommon,main
 1,Revive,Sorcery,{1}{G},Common,main
 1,Rhox,Creature  - Rhino Beast,{4}{G}{G},Rare,main
 1,Sapseep Forest,Land  - Forest,,Uncommon,main
 1,Seeker of Skybreak,Creature  - Elf,{1}{G},Common,main
+1,Skarrg Goliath,Creature  - Beast,{6}{G}{G},Rare,main
 1,Skysnare Spider,Creature  - Spider,{4}{G}{G},Uncommon,main
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Soul of Zendikar,Creature  - Avatar,{4}{G}{G},MythicRare,main
-1,Star Compass,Artifact,{2},Common,main
 1,Stingerfling Spider,Creature  - Spider,{4}{G},Uncommon,main
 1,Strength of the Pack,Sorcery,{4}{G}{G},Uncommon,main
 1,Terramorphic Expanse,Land,,Common,main
@@ -69,12 +69,17 @@ Count,Name,Type,Cost,Rarity,Section
 1,Wild Growth,Enchantment  - Aura,{G},Common,main
 1,"Yisan, the Wanderer Bard",Legendary Creature  - Human Rogue,{2}{G},Rare,main
 1,Zuran Orb,Artifact,{0},Uncommon,main
+1,Aether Vial,Artifact,{1},Rare,sideboard
 1,Crushing Canopy,Instant,{2}{G},Common,sideboard
 1,Dissenter's Deliverance,Instant,{1}{G},Common,sideboard
 1,Druid of the Cowl,Creature  - Elf Druid,{1}{G},Common,sideboard
 1,Epitaph Golem,Artifact Creature  - Golem,{5},Uncommon,sideboard
 1,Hermit of the Natterknolls,Creature  - Human Werewolf,{2}{G},Uncommon,sideboard
+1,Hidden Path,Enchantment,{2}{G}{G}{G}{G},Rare,sideboard
+1,People of the Woods,Creature  - Human,{G}{G},Uncommon,sideboard
+1,Prowling Serpopard,Creature  - Cat Snake,{1}{G}{G},Rare,sideboard
 1,Root Out,Sorcery,{2}{G},Common,sideboard
+1,Tireless Tracker,Creature  - Human Scout,{2}{G},Rare,sideboard
 
 
 
