@@ -8,7 +8,8 @@ Count,Name,Type,Cost,Rarity,Section
 1,Bloodfell Caves,Land,,Common,main
 1,Blue Elemental Blast,Instant,{U},Common,main
 1,Breathstealer's Crypt,Enchantment,{2}{U}{B},Rare,main
-1,Cavern Lampad,Enchantment Creature  - Nymph,{3}{B},Common,main
+1,"Chandra, Flamecaller",Planeswalker  - Chandra,{4}{R}{R},MythicRare,main
+1,Clever Impersonator,Creature  - Shapeshifter,{2}{U}{U},MythicRare,main
 1,Command Tower,Land,,Common,main
 1,Contaminated Ground,Enchantment  - Aura,{1}{B},Common,main
 1,Crypt of the Eternals,Land,,Uncommon,main
@@ -37,9 +38,10 @@ Count,Name,Type,Cost,Rarity,Section
 1,Highland Lake,Land,,Uncommon,main
 1,Holdout Settlement,Land,,Common,main
 1,Hythonia the Cruel,Legendary Creature  - Gorgon,{4}{B}{B},MythicRare,main
-1,Insatiable Harpy,Creature  - Harpy,{2}{B}{B},Uncommon,main
+1,Indomitable Creativity,Sorcery,{X}{R}{R}{R},MythicRare,main
 3,Island,Basic Land  - Island,,BasicLand,main
 1,Kaervek's Purge,Sorcery,{X}{B}{R},Uncommon,main
+1,"Kalitas, Traitor of Ghet",Legendary Creature  - Vampire Warrior,{2}{B}{B},MythicRare,main
 1,Keepsake Gorgon,Creature  - Gorgon,{3}{B}{B},Uncommon,main
 1,Lady Orca,Legendary Creature  - Demon,{5}{B}{R},Uncommon,main
 1,Lonely Sandbar,Land,,Common,main
@@ -48,6 +50,7 @@ Count,Name,Type,Cost,Rarity,Section
 6,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Navigator's Ruin,Enchantment,{2}{U},Uncommon,main
 1,Nicol Bolas,Legendary Creature  - Elder Dragon,{2}{U}{U}{B}{B}{R}{R},Special,main
+1,Nighthowler,Enchantment Creature  - Horror,{1}{B}{B},Rare,main
 1,Nightmare,Creature  - Nightmare Horse,{5}{B},Rare,main
 1,"Ob Nixilis, Unshackled",Legendary Creature  - Demon,{4}{B}{B},Rare,main
 1,Painted Bluffs,Land  - Desert,,Common,main
@@ -56,34 +59,31 @@ Count,Name,Type,Cost,Rarity,Section
 1,Possessed Skaab,Creature  - Zombie,{3}{U}{B},Uncommon,main
 1,Prophetic Prism,Artifact,{2},Common,main
 1,Psychic Intrusion,Sorcery,{3}{U}{B},Rare,main
+1,"Rakdos, Lord of Riots",Legendary Creature  - Demon,{B}{B}{R}{R},MythicRare,main
 1,Red Elemental Blast,Instant,{R},Common,main
 1,Reiver Demon,Creature  - Demon,{4}{B}{B}{B}{B},Rare,main
 1,Relentless Assault,Sorcery,{2}{R}{R},Rare,main
 1,Returned Centaur,Creature  - Zombie Centaur,{3}{B},Common,main
+1,Royal Assassin,Creature  - Human Assassin,{1}{B}{B},Rare,main
 1,Rupture Spire,Land,,Common,main
 1,Screeching Buzzard,Creature  - Bird,{3}{B},Common,main
 1,Sengir Vampire,Creature  - Vampire,{3}{B}{B},Uncommon,main
-1,Shambling Remains,Creature  - Zombie Horror,{1}{B}{R},Uncommon,main
 1,Shimmering Grotto,Land,,Common,main
 1,Shipwreck Singer,Creature  - Siren,{U}{B},Uncommon,main
 1,Shivan Reef,Land,,Rare,main
-1,Skittering Heartstopper,Creature  - Insect,{B},Common,main
 1,Sol Grail,Artifact,{3},Uncommon,main
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Sol'kanar the Swamp King,Legendary Creature  - Demon,{2}{U}{B}{R},Special,main
 1,Soul of Innistrad,Creature  - Avatar,{4}{B}{B},MythicRare,main
 1,Sphinx's Tutelage,Enchantment,{2}{U},Uncommon,main
-1,Star Compass,Artifact,{2},Common,main
 1,Stone Calendar,Artifact,{5},Rare,main
 8,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Swiftwater Cliffs,Land,,Common,main
 1,Terramorphic Expanse,Land,,Common,main
-1,Typhoid Rats,Creature  - Rat,{B},Common,main
 1,Uncle Istvan,Creature  - Human,{1}{B}{B}{B},Special,main
 1,Unknown Shores,Land,,Common,main
 1,Urborg Volcano,Land,,Uncommon,main
 1,"Urborg, Tomb of Yawgmoth",Legendary Land,,Rare,main
-1,Wall of Limbs,Creature  - Zombie Wall,{2}{B},Uncommon,main
 1,Zuran Orb,Artifact,{0},Uncommon,main
 
 
