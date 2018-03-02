@@ -1,17 +1,16 @@
 Count,Name,Type,Cost,Rarity,Section
 1,Anger of the Gods,Sorcery,{1}{R}{R},Rare,main
-1,Bad Moon,Enchantment,{1}{B},Special,main
 1,Baleful Eidolon,Enchantment Creature  - Spirit,{1}{B},Common,main
 1,Balustrade Spy,Creature  - Vampire Rogue,{3}{B},Common,main
 1,Barktooth Warbeard,Legendary Creature  - Human Warrior,{4}{B}{R}{R},Uncommon,main
-1,Blast of Genius,Sorcery,{4}{U}{R},Uncommon,main
+1,Bident of Thassa,Legendary Enchantment Artifact,{2}{U}{U},Rare,main
 1,Bloodfell Caves,Land,,Common,main
 1,Blue Elemental Blast,Instant,{U},Common,main
 1,Breathstealer's Crypt,Enchantment,{2}{U}{B},Rare,main
 1,"Chandra, Flamecaller",Planeswalker  - Chandra,{4}{R}{R},MythicRare,main
+1,Chaoslace,Instant,{R},Rare,main
 1,Clever Impersonator,Creature  - Shapeshifter,{2}{U}{U},MythicRare,main
 1,Command Tower,Land,,Common,main
-1,Contaminated Ground,Enchantment  - Aura,{1}{B},Common,main
 1,Crypt of the Eternals,Land,,Uncommon,main
 1,Cyclopean Giant,Creature  - Zombie Giant,{2}{B}{B},Common,main
 1,Dakmor Lancer,Creature  - Human Knight,{4}{B}{B},Uncommon,main
@@ -25,18 +24,17 @@ Count,Name,Type,Cost,Rarity,Section
 1,Diabolic Tutor,Sorcery,{2}{B}{B},Uncommon,main
 1,Dimir Guildgate,Land  - Gate,,Common,main
 1,Dismal Backwater,Land,,Common,main
-1,Dukhara Scavenger,Creature  - Crocodile,{5}{B},Common,main
 1,Eater of the Dead,Creature  - Horror,{4}{B},Uncommon,main
 1,Erebos's Emissary,Enchantment Creature  - Snake,{3}{B},Uncommon,main
-1,Evil Presence,Enchantment  - Aura,{B},Common,main
 1,Evolving Wilds,Land,,Common,main
 1,Extractor Demon,Creature  - Demon,{4}{B}{B},Rare,main
 1,Fetid Imp,Creature  - Imp,{1}{B},Common,main
 1,Fumarole,Sorcery,{3}{B}{R},Uncommon,main
-1,Fury of the Horde,Sorcery,{5}{R}{R},Rare,main
 1,Greed,Enchantment,{3}{B},Rare,main
 1,Highland Lake,Land,,Uncommon,main
 1,Holdout Settlement,Land,,Common,main
+1,Hydroblast,Instant,{U},Uncommon,main
+1,Hypnotic Specter,Creature  - Specter,{1}{B}{B},Rare,main
 1,Hythonia the Cruel,Legendary Creature  - Gorgon,{4}{B}{B},MythicRare,main
 1,Indomitable Creativity,Sorcery,{X}{R}{R}{R},MythicRare,main
 3,Island,Basic Land  - Island,,BasicLand,main
@@ -46,6 +44,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Lady Orca,Legendary Creature  - Demon,{5}{B}{R},Uncommon,main
 1,Lonely Sandbar,Land,,Common,main
 1,Manalith,Artifact,{3},Common,main
+1,Mind Grind,Sorcery,{X}{U}{B},Rare,main
 1,Mortivore,Creature  - Lhurgoyf,{2}{B}{B},Rare,main
 6,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Navigator's Ruin,Enchantment,{2}{U},Uncommon,main
@@ -58,11 +57,10 @@ Count,Name,Type,Cost,Rarity,Section
 1,Patron of the Nezumi,Legendary Creature  - Spirit,{5}{B}{B},Rare,main
 1,Possessed Skaab,Creature  - Zombie,{3}{U}{B},Uncommon,main
 1,Prophetic Prism,Artifact,{2},Common,main
-1,Psychic Intrusion,Sorcery,{3}{U}{B},Rare,main
+1,Pyroblast,Instant,{R},Uncommon,main
 1,"Rakdos, Lord of Riots",Legendary Creature  - Demon,{B}{B}{R}{R},MythicRare,main
 1,Red Elemental Blast,Instant,{R},Common,main
 1,Reiver Demon,Creature  - Demon,{4}{B}{B}{B}{B},Rare,main
-1,Relentless Assault,Sorcery,{2}{R}{R},Rare,main
 1,Returned Centaur,Creature  - Zombie Centaur,{3}{B},Common,main
 1,Royal Assassin,Creature  - Human Assassin,{1}{B}{B},Rare,main
 1,Rupture Spire,Land,,Common,main
@@ -71,6 +69,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Shimmering Grotto,Land,,Common,main
 1,Shipwreck Singer,Creature  - Siren,{U}{B},Uncommon,main
 1,Shivan Reef,Land,,Rare,main
+1,Sleight of Mind,Instant,{U},Rare,main
 1,Sol Grail,Artifact,{3},Uncommon,main
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Sol'kanar the Swamp King,Legendary Creature  - Demon,{2}{U}{B}{R},Special,main
@@ -80,11 +79,17 @@ Count,Name,Type,Cost,Rarity,Section
 8,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Swiftwater Cliffs,Land,,Common,main
 1,Terramorphic Expanse,Land,,Common,main
+1,Terror,Instant,{1}{B},Common,main
 1,Uncle Istvan,Creature  - Human,{1}{B}{B}{B},Special,main
 1,Unknown Shores,Land,,Common,main
 1,Urborg Volcano,Land,,Uncommon,main
 1,"Urborg, Tomb of Yawgmoth",Legendary Land,,Rare,main
 1,Zuran Orb,Artifact,{0},Uncommon,main
+1,Bad Moon,Enchantment,{1}{B},Special,sideboard
+1,Blast of Genius,Sorcery,{4}{U}{R},Uncommon,sideboard
+1,Contaminated Ground,Enchantment  - Aura,{1}{B},Common,sideboard
+1,Evil Presence,Enchantment  - Aura,{B},Common,sideboard
+1,Stone Calendar,Artifact,{5},Rare,sideboard
 
 
 
