@@ -10,24 +10,23 @@ Count,Name,Type,Cost,Rarity,Section
 1,Deathrite Shaman,Creature  - Elf Shaman,{BG},Rare,main
 4,Dismal Backwater,Land,,Common,main
 2,Electrickery,Instant,{R},Common,main
-1,Evolving Wilds,Land,,Common,main
 2,Fanatic of Mogis,Creature  - Minotaur Shaman,{3}{R},Uncommon,main
 1,Fury of the Horde,Sorcery,{5}{R}{R},Rare,main
 1,Gray Merchant of Asphodel,Creature  - Zombie,{3}{B}{B},Common,main
 1,Gruesome Fate,Sorcery,{2}{B},Common,main
 2,Guttersnipe,Creature  - Goblin Shaman,{2}{R},Uncommon,main
 1,Hour of Devastation,Sorcery,{3}{R}{R},Rare,main
-3,Island,Basic Land  - Island,,BasicLand,main
+1,Island,Basic Land  - Island,,BasicLand,main
 1,"Kokusho, the Evening Star",Legendary Creature  - Dragon Spirit,{4}{B}{B},Rare,main
 2,Liliana's Specter,Creature  - Specter,{1}{B}{B},Common,main
 4,Lobber Crew,Creature  - Goblin Warrior,{2}{R},Common,main
-3,Mountain,Basic Land  - Mountain,,BasicLand,main
+5,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Nicol Bolas,Legendary Creature  - Elder Dragon,{2}{U}{U}{B}{B}{R}{R},Special,main
 1,"Nicol Bolas, God-Pharaoh",Planeswalker  - Bolas,{4}{U}{B}{R},MythicRare,main
 1,Night Market Lookout,Creature  - Human Rogue,{B},Common,main
 1,Relentless Assault,Sorcery,{2}{R}{R},Rare,main
 1,Street Spasm,Instant,{X}{R},Uncommon,main
-3,Swamp,Basic Land  - Swamp,,BasicLand,main
+4,Swamp,Basic Land  - Swamp,,BasicLand,main
 4,Swiftwater Cliffs,Land,,Common,main
 1,Teleportal,Sorcery,{U}{R},Uncommon,main
 1,Thespian's Stage,Land,,Rare,main
