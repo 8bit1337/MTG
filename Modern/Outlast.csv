@@ -3,6 +3,7 @@ Count,Name,Type,Cost,Rarity,Section
 2,Abzan Charm,Instant,{W}{B}{G},Uncommon,main
 4,Abzan Falconer,Creature  - Human Soldier,{2}{W},Uncommon,main
 4,Ainok Bond-Kin,Creature  - Hound Soldier,{1}{W},Common,main
+1,"Ajani, Mentor of Heroes",Planeswalker  - Ajani,{3}{G}{W},MythicRare,main
 4,Blossoming Sands,Land,,Common,main
 4,Burst of Strength,Instant,{G},Common,main
 1,Corpsejack Menace,Creature  - Fungus,{2}{B}{G},Uncommon,main
@@ -14,7 +15,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Ivorytusk Fortress,Creature  - Elephant,{2}{W}{B}{G},Rare,main
 4,Jungle Hollow,Land,,Common,main
 1,Knight of the Reliquary,Creature  - Human Knight,{1}{G}{W},Rare,main
-4,Longshot Squad,Creature  - Hound Archer,{3}{G},Common,main
+3,Longshot Squad,Creature  - Hound Archer,{3}{G},Common,main
 3,Mer-Ek Nightblade,Creature  - Orc Assassin,{3}{B},Uncommon,main
 1,Merciless Eviction,Sorcery,{4}{W}{B},Rare,main
 4,Plains,Basic Land  - Plains,,BasicLand,main
