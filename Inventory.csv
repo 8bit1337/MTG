@@ -15,8 +15,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Abzan Battle Priest,Khans of Tarkir,1,Near Mint,English,,,,,,,,,Creature  - Human Cleric,{3}{W},Uncommon
 2,0,Abzan Charm,Khans of Tarkir,161,Near Mint,English,,,,,,,,,Instant,{W}{B}{G},Uncommon
 2,0,Abzan Falconer,Iconic Masters,3,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{2}{W},Uncommon
-1,0,Abzan Falconer,Khans of Tarkir,2,Near Mint,English,foil,,,,,,,0,Creature  - Human Soldier,{2}{W},Uncommon
 2,0,Abzan Falconer,Khans of Tarkir,2,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{2}{W},Uncommon
+1,0,Abzan Falconer,Khans of Tarkir,2,Near Mint,English,foil,,,,,,,0,Creature  - Human Soldier,{2}{W},Uncommon
 4,0,Abzan Guide,Khans of Tarkir,162,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{3}{W}{B}{G},Common
 2,0,Accomplished Automaton,Kaladesh,191,Near Mint,English,,,,,,,,,Artifact Creature  - Construct,{7},Common
 1,0,Accorder Paladin,Mirrodin Besieged,1,Near Mint,English,,,,,,,,,Creature - Human Knight,{1}{W},Uncommon
@@ -90,8 +90,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Akroan Hoplite,Theros,185,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{R}{W},Uncommon
 1,0,Akroan Horse,Commander 2016,241,Near Mint,English,,,,,,,,,Artifact Creature  - Horse,{4},Rare
 1,0,Akroan Jailer,Magic Origins,1,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{W},Common
-1,0,Akroan Sergeant,Magic Origins,130,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{2}{R},Common
 1,1,Akroan Sergeant,Magic Origins,130,Near Mint,English,foil,,,,,,,0,Creature  - Human Soldier,{2}{R},Common
+1,0,Akroan Sergeant,Magic Origins,130,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{2}{R},Common
 3,0,Alabaster Kirin,Khans of Tarkir,4,Near Mint,English,,,,,,,,,Creature  - Kirin,{3}{W},Common
 1,0,Alabaster Mage,Magic 2012,2,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{1}{W},Uncommon
 1,0,Alabaster Potion,Fourth Edition,251,Near Mint,English,,,,,,,,0,Instant,{X}{W}{W},Common
@@ -363,8 +363,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Berserkers of Blood Ridge,Magic 2011,124,Near Mint,English,,,,,,,,,Creature  - Human Berserker,{4}{R},Common
 1,0,Bestial Fury,Alliances,100,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{R},Common
 2,0,Betrayal,Visions,26,Near Mint,English,,,,,,,,,Enchantment  - Aura,{U},Common
-4,0,Bewilder,Iconic Masters,43,Near Mint,English,,,,,,,,,Instant,{2}{U},Common
 1,0,Bewilder,Iconic Masters,43,Near Mint,English,foil,,,,,,,0,Instant,{2}{U},Common
+4,0,Bewilder,Iconic Masters,43,Near Mint,English,,,,,,,,,Instant,{2}{U},Common
 1,0,Bident of Thassa,Commander 2015,86,Near Mint,English,,,,,,,,,Legendary Enchantment Artifact,{2}{U}{U},Rare
 1,0,Binding Agony,Mirage,4,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{B},Common
 4,0,Binding Mummy,Amonkhet,6,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{W},Common
@@ -557,6 +557,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Call the Skybreaker,Eventide,98,Near Mint,English,,,,,,,,0,Sorcery,{5}{UR}{UR},Rare
 1,0,Call to the Grave,Magic 2012,85,Near Mint,English,,,,,,,,,Enchantment,{4}{B},Rare
 2,0,Call to the Netherworld,Time Spiral,97,Near Mint,English,,,,,,,,,Sorcery,{B},Common
+1,0,Cancel,Time Spiral,51,Near Mint,English,,,,,,,,0,Instant,{1}{U}{U},Common
 5,0,Cancel,Magic 2011,48,Near Mint,English,,,,,,,,0,Instant,{1}{U}{U},Common
 1,0,Cancel,Magic 2012,47,Near Mint,English,,,,,,,,0,Instant,{1}{U}{U},Common
 4,0,Cancel,Return to Ravnica,31,Near Mint,English,,,,,,,,,Instant,{1}{U}{U},Common
@@ -721,8 +722,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Cloudfin Raptor,Gatecrash,32,Near Mint,English,,,,,,,,,Creature  - Bird Mutant,{U},Common
 3,0,Clutch of Currents,Battle for Zendikar,72,Near Mint,English,,,,,,,,,Sorcery,{U},Common
 2,0,Coal Stoker,Time Spiral,150,Near Mint,English,,,,,,,,,Creature  - Elemental,{3}{R},Common
-1,0,Coastal Hornclaw,Eighth Edition,66,Near Mint,English,,,,,,,,,Creature  - Bird,{4}{U},Common
 1,1,Coastal Hornclaw,Eighth Edition,66,Near Mint,English,foil,,,,,,,0,Creature  - Bird,{4}{U},Common
+1,0,Coastal Hornclaw,Eighth Edition,66,Near Mint,English,,,,,,,,,Creature  - Bird,{4}{U},Common
 4,0,Coastline Chimera,Theros,44,Near Mint,English,,,,,,,,,Creature  - Chimera,{3}{U},Common
 6,0,Cobblebrute,Return to Ravnica,91,Near Mint,English,,,,,,,,0,Creature  - Elemental,{3}{R},Common
 2,0,Cobblebrute,Magic Origins,138,Near Mint,English,,,,,,,,,Creature  - Elemental,{3}{R},Common
@@ -769,7 +770,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Contaminated Ground,Gatecrash,59,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{B},Common
 5,0,Contract Killing,Ixalan,95,Near Mint,English,,,,,,,,0,Sorcery,{3}{B}{B},Common
 2,0,Conversion,Fourth Edition,269,Near Mint,English,,,,,,,,,Enchantment,{2}{W}{W},Uncommon
-5,0,Conviction,Aether Revolt,12,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{W},Common
+6,0,Conviction,Aether Revolt,12,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{W},Common
 2,0,Coordinated Assault,Theros,116,Near Mint,English,,,,,,,,,Instant,{R},Uncommon
 2,0,Copper Carapace,Mirrodin Besieged,102,Near Mint,English,,,,,,,,0,Artifact - Equipment,{1},Common
 1,0,Copper Myr,Scars of Mirrodin,146,Near Mint,English,,,,,,,,,Artifact Creature  - Myr,{2},Common
@@ -826,8 +827,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Crimson Mage,Magic 2012,129,Near Mint,English,,,,,,,,,Creature  - Human Shaman,{1}{R},Uncommon
 1,0,Crimson Roc,Mirage,168,Near Mint,English,,,,,,,,,Creature  - Bird,{4}{R},Uncommon
 4,0,Crippling Blight,Magic 2015 Core Set,92,Near Mint,English,,,,,,,,,Enchantment  - Aura,{B},Common
-1,0,Crippling Chill,Khans of Tarkir,35,Near Mint,English,foil,,,,,,,0,Instant,{2}{U},Common
 10,0,Crippling Chill,Khans of Tarkir,35,Near Mint,English,,,,,,,,0,Instant,{2}{U},Common
+1,0,Crippling Chill,Khans of Tarkir,35,Near Mint,English,foil,,,,,,,0,Instant,{2}{U},Common
 5,0,Crocanura,Gatecrash,116,Near Mint,English,,,,,,,,,Creature  - Crocodile Frog,{2}{G},Common
 3,0,Crossbow Infantry,Seventh Edition,12,Near Mint,English,,,,,,,,0,Creature  - Human Soldier Archer,{1}{W},Common
 4,0,Crossbow Infantry,Eighth Edition,15,Near Mint,English,,,,,,,,0,Creature  - Human Soldier Archer,{1}{W},Common
@@ -838,10 +839,10 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Crowned Ceratok,Iconic Masters,158,Near Mint,English,,,,,,,,,Creature  - Rhino,{3}{G},Common
 2,0,Crowned Ceratok,Gatecrash,117,Near Mint,English,,,,,,,,,Creature  - Rhino,{3}{G},Uncommon
 1,0,Cruel Edict,Ninth Edition,121,Near Mint,English,,,,,,,,0,Sorcery,{1}{B},Uncommon
-3,0,Cruel Finality,Aether Revolt,54,Near Mint,English,,,,,,,,,Instant,{2}{B},Common
+4,0,Cruel Finality,Aether Revolt,54,Near Mint,English,,,,,,,,,Instant,{2}{B},Common
 1,0,Crumbling Ashes,Eventide,35,Near Mint,English,,,,,,,,,Enchantment,{1}{B},Uncommon
 3,0,Crumbling Colossus,Magic 2012,204,Near Mint,English,,,,,,,,,Artifact Creature  - Golem,{5},Uncommon
-3,0,Crumbling Vestige,Oath of the Gatewatch,170,Near Mint,English,,,,,,,,,Land,,Common
+4,0,Crumbling Vestige,Oath of the Gatewatch,170,Near Mint,English,,,,,,,,,Land,,Common
 1,0,Crusade,Revised Edition,199,Near Mint,English,,,,,,,,0,Enchantment,{W}{W},Rare
 1,0,Crush,Mirrodin Besieged,61,Near Mint,English,,,,,,,,,Instant,{R},Common
 4,0,Crushing Canopy,Ixalan,183,Near Mint,English,,,,,,,,,Instant,{2}{G},Common
@@ -934,8 +935,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Death Ward,Fourth Edition,271,Near Mint,English,,,,,,,,0,Instant,{W},Common
 9,0,Death's Approach,Gatecrash,62,Near Mint,English,,,,,,,,,Enchantment  - Aura,{B},Common
 1,0,Death-Hood Cobra,New Phyrexia,108,Near Mint,English,,,,,,,,0,Creature  - Snake,{1}{G},Common
-1,1,Deathbellow Raider,Theros,117,Near Mint,English,foil,,,,,,,0,Creature  - Minotaur Berserker,{1}{R},Common
 3,0,Deathbellow Raider,Theros,117,Near Mint,English,,,,,,,,,Creature  - Minotaur Berserker,{1}{R},Common
+1,1,Deathbellow Raider,Theros,117,Near Mint,English,foil,,,,,,,0,Creature  - Minotaur Berserker,{1}{R},Common
 4,0,Deathcult Rogue,Gatecrash,218,Near Mint,English,,,,,,,,,Creature  - Human Rogue,{1}{UB}{UB},Common
 2,0,Deathgaze Cockatrice,Magic 2014 Core Set,94,Near Mint,English,,,,,,,,,Creature  - Cockatrice,{2}{B}{B},Common
 1,0,Deathmark,Tenth Edition,134,Near Mint,English,,,,,,,,0,Sorcery,{B},Uncommon
@@ -1041,8 +1042,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Disciple of Phenax,Theros,84,Near Mint,English,,,,,,,,,Creature  - Human Cleric,{2}{B}{B},Common
 8,0,Disciple of the Old Ways,Gatecrash,118,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{1}{G},Common
 9,0,Disdainful Stroke,Khans of Tarkir,37,Near Mint,English,,,,,,,,0,Instant,{1}{U},Common
-1,0,Disenchant,Iconic Masters,15,Near Mint,English,foil,,,,,,,0,Instant,{1}{W},Common
 4,0,Disenchant,Iconic Masters,15,Near Mint,English,,,,,,,,,Instant,{1}{W},Common
+1,0,Disenchant,Iconic Masters,15,Near Mint,English,foil,,,,,,,0,Instant,{1}{W},Common
 3,0,Disenchant,Revised Edition,201,Near Mint,English,,,,,,,,0,Instant,{1}{W},Common
 3,0,Disenchant,Fourth Edition,272,Near Mint,English,,,,,,,,0,Instant,{1}{W},Common
 2,0,Disenchant,Ice Age,244,Near Mint,English,,,,,,,,0,Instant,{1}{W},Common
@@ -1089,7 +1090,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Diving Griffin,Eighth Edition,17,Near Mint,English,,,,,,,,,Creature  - Griffin,{1}{W}{W},Common
 1,0,Djeru's Renunciation,Hour of Devastation,11,Near Mint,English,,,,,,,,,Instant,{1}{W},Common
 2,0,Djeru's Resolve,Amonkhet,11,Near Mint,English,,,,,,,,,Instant,{W},Common
-1,0,Dominator Drone,Battle for Zendikar,92,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{2}{B},Common
+2,0,Dominator Drone,Battle for Zendikar,92,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{2}{B},Common
 1,0,Domineer,Mirrodin,33,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{U}{U},Uncommon
 1,0,Doom Blade,Iconic Masters,87,Near Mint,English,,,,,,,,,Instant,{1}{B},Uncommon
 5,0,Doom Blade,Magic 2011,95,Near Mint,English,,,,,,,,0,Instant,{1}{B},Common
@@ -1109,8 +1110,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Douse in Gloom,Fate Reforged,68,Near Mint,English,,,,,,,,,Instant,{2}{B},Common
 3,0,Down // Dirty,Dragon's Maze,126,Near Mint,English,,,,,,,,,Sorcery,{2}{G},Uncommon
 4,0,Downsize,Return to Ravnica,38,Near Mint,English,,,,,,,,,Instant,{U},Common
-1,0,Draconic Roar,Iconic Masters,123,Near Mint,English,foil,,,,,,,0,Instant,{1}{R},Common
 1,0,Draconic Roar,Iconic Masters,123,Near Mint,English,,,,,,,,,Instant,{1}{R},Common
+1,0,Draconic Roar,Iconic Masters,123,Near Mint,English,foil,,,,,,,0,Instant,{1}{R},Common
 3,0,Drag Under,Eldritch Moon,57,Near Mint,English,,,,,,,,,Sorcery,{2}{U},Common
 2,0,Dragon Bell Monk,Fate Reforged,10,Near Mint,English,,,,,,,,,Creature  - Human Monk,{2}{W},Common
 1,0,Dragon Egg,Iconic Masters,124,Near Mint,English,foil,,,,,,,0,Creature  - Dragon,{2}{R},Common
@@ -1286,7 +1287,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Embersmith,Scars of Mirrodin,87,Near Mint,English,,,,,,,,,Creature  - Human Artificer,{1}{R},Uncommon
 2,0,Embodiment of Fury,Oath of the Gatewatch,107,Near Mint,English,,,,,,,,,Creature  - Elemental,{3}{R},Uncommon
 3,0,Embodiment of Insight,Oath of the Gatewatch,131,Near Mint,English,,,,,,,,,Creature  - Elemental,{4}{G},Uncommon
-5,0,Embodiment of Spring,Khans of Tarkir,39,Near Mint,English,,,,,,,,,Creature  - Elemental,{U},Common
+6,0,Embodiment of Spring,Khans of Tarkir,39,Near Mint,English,,,,,,,,,Creature  - Elemental,{U},Common
 2,0,Embraal Gear-Smasher,Aether Revolt,79,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{2}{R},Common
 1,0,Emerald Dragonfly,Chronicles,35,Near Mint,English,,,,,,,,0,Creature  - Insect,{1}{G},Common
 2,0,Emerge Unscathed,Iconic Masters,19,Near Mint,English,,,,,,,,,Instant,{W},Common
@@ -1502,7 +1503,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Flamecast Wheel,Theros,215,Near Mint,English,,,,,,,,,Artifact,{1},Uncommon
 1,0,Flamecore Elemental,Time Spiral,154,Near Mint,English,,,,,,,,,Creature  - Elemental,{2}{R}{R},Common
 1,0,Flamekin Bladewhirl,Lorwyn,165,Near Mint,English,,,,,,,,,Creature  - Elemental Warrior,{R},Uncommon
-2,0,Flames of the Firebrand,Magic 2014 Core Set,139,Near Mint,English,,,,,,,,,Sorcery,{2}{R},Uncommon
+3,0,Flames of the Firebrand,Magic 2014 Core Set,139,Near Mint,English,,,,,,,,,Sorcery,{2}{R},Uncommon
 1,0,Flameshadow Conjuring,Magic Origins,147,Near Mint,English,,,,,,,,,Enchantment,{3}{R},Rare
 2,0,Flamespeaker Adept,Theros,123,Near Mint,English,,,,,,,,,Creature  - Human Shaman,{2}{R},Uncommon
 1,0,Flaming Sword,Mercadian Masques,190,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{R},Common
@@ -1512,6 +1513,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Flash of Defiance,Torment,99,Near Mint,English,,,,,,,,,Sorcery,{1}{R},Common
 2,0,Flashfires,Eighth Edition,186,Near Mint,English,,,,,,,,0,Sorcery,{3}{R},Uncommon
 2,0,Flayer Drone,Oath of the Gatewatch,148,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{1}{B}{R},Uncommon
+1,0,Flayer Husk,Modern Masters 2015 Edition,214,Near Mint,English,,,,,,,,,Artifact - Equipment,{1},Common
 2,0,Flayer Husk,Mirrodin Besieged,107,Near Mint,English,,,,,,,,0,Artifact - Equipment,{1},Common
 2,0,Flaying Tendrils,Oath of the Gatewatch,70,Near Mint,English,,,,,,,,,Sorcery,{1}{B}{B},Uncommon
 1,0,Fledgling Mawcor,Time Spiral,63,Near Mint,English,,,,,,,,,Creature  - Beast,{3}{U},Uncommon
@@ -1555,9 +1557,9 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,1,Forest,Seventh Edition,330,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
 1,0,Forest,Seventh Edition,331,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
 18,0,Forest,Ixalan,277,Near Mint,English,,,,,,,,,Basic Land  - Forest,,BasicLand
-1,0,Forest,Rivals of Ixalan,196,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
-1,0,Forest,Rivals of Ixalan,196,Near Mint,English,,,,,,,,,Basic Land  - Forest,,BasicLand
 95,0,Forest,"",,Near Mint,English,,,,,,,,0,Basic Land  - Forest,,BasicLand
+1,0,Forest,Rivals of Ixalan,196,Near Mint,English,,,,,,,,,Basic Land  - Forest,,BasicLand
+1,0,Forest,Rivals of Ixalan,196,Near Mint,English,foil,,,,,,,0,Basic Land  - Forest,,BasicLand
 4,0,Forge Devil,Magic 2015 Core Set,140,Near Mint,English,,,,,,,,,Creature  - Devil,{R},Common
 4,0,Forgotten Cave,Commander 2015,284,Near Mint,English,,,,,,,,,Land,,Common
 2,0,Fork in the Road,Shadows over Innistrad,205,Near Mint,English,,,,,,,,,Sorcery,{1}{G},Common
@@ -1606,16 +1608,16 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Frostburn Weird,Return to Ravnica,215,Near Mint,English,,,,,,,,,Creature  - Weird,{UR}{UR},Common
 2,0,Frozen Shade,Revised Edition,20,Near Mint,English,,,,,,,,0,Creature  - Shade,{2}{B},Common
 2,0,Fuel for the Cause,Mirrodin Besieged,25,Near Mint,English,,,,,,,,,Instant,{2}{U}{U},Common
-1,1,Fugitive Wizard,Magic 2015 Core Set,56,Near Mint,English,foil,,,,,,,0,Creature  - Human Wizard,{U},Common
 8,0,Fugitive Wizard,Magic 2015 Core Set,56,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{U},Common
+1,1,Fugitive Wizard,Magic 2015 Core Set,56,Near Mint,English,foil,,,,,,,0,Creature  - Human Wizard,{U},Common
 1,0,Fulgent Distraction,Scars of Mirrodin,7,Near Mint,English,,,,,,,,,Instant,{2}{W},Common
 3,0,Fumarole,Ice Age,369,Near Mint,English,,,,,,,,,Sorcery,{3}{B}{R},Uncommon
 2,0,Fume Spitter,Scars of Mirrodin,63,Near Mint,English,,,,,,,,,Creature  - Horror,{B},Common
 2,0,Funeral March,Homelands,11,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{1}{B}{B},Common
 1,0,Fungal Reaches,Time Spiral,273,Near Mint,English,,,,,,,,,Land,,Uncommon
 4,0,Furious Resistance,Gatecrash,93,Near Mint,English,,,,,,,,,Instant,{R},Common
-1,0,Furnace Whelp,Iconic Masters,129,Near Mint,English,foil,,,,,,,0,Creature  - Dragon,{2}{R}{R},Common
 3,0,Furnace Whelp,Iconic Masters,129,Near Mint,English,,,,,,,,,Creature  - Dragon,{2}{R}{R},Common
+1,0,Furnace Whelp,Iconic Masters,129,Near Mint,English,foil,,,,,,,0,Creature  - Dragon,{2}{R}{R},Common
 1,0,Furnace Whelp,Magic 2015 Core Set,279,Near Mint,English,,,,,,,,,Creature  - Dragon,{2}{R}{R},Uncommon
 1,0,Fury Charm,Modern Masters,114,Near Mint,English,,,,,,,,0,Instant,{1}{R},Common
 3,0,Fury Charm,Iconic Masters,130,Near Mint,English,,,,,,,,,Instant,{1}{R},Common
@@ -1656,7 +1658,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Gerrard's Wisdom,Weatherlight,131,Near Mint,English,,,,,,,,0,Sorcery,{2}{W}{W},Uncommon
 1,0,Ghirapur Aether Grid,Magic Origins,148,Near Mint,English,,,,,,,,,Enchantment,{2}{R},Uncommon
 2,0,Ghirapur Gearcrafter,Magic Origins,149,Near Mint,English,,,,,,,,,Creature  - Human Artificer,{2}{R},Common
-4,0,Ghirapur Osprey,Aether Revolt,20,Near Mint,English,,,,,,,,,Creature  - Bird,{2}{W},Common
+5,0,Ghirapur Osprey,Aether Revolt,20,Near Mint,English,,,,,,,,,Creature  - Bird,{2}{W},Common
 1,0,Ghitu Encampment,Duel Decks: Speed vs. Cunning,33,,,,,,,,,,,Land,,Uncommon
 1,0,Ghor-Clan Rampager,Gatecrash,167,Near Mint,English,,,,,,,,,Creature  - Beast,{2}{R}{G},Uncommon
 2,0,Ghost Ship,The Dark,27,Near Mint,English,,,,,,,,0,Creature  - Spirit,{2}{U}{U},Common
@@ -1820,7 +1822,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Grasp of the Hieromancer,Magic Origins,15,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{W},Common
 1,0,Grasping Scoundrel,Rivals of Ixalan,74,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{B},Common
 3,0,Grasslands,Mirage,296,Near Mint,English,,,,,,,,,Land,,Uncommon
-1,0,Grave Birthing,Battle for Zendikar,93,Near Mint,English,,,,,,,,,Instant,{2}{B},Common
+2,0,Grave Birthing,Battle for Zendikar,93,Near Mint,English,,,,,,,,,Instant,{2}{B},Common
 1,0,Grave Servitude,Mirage,24,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{B},Common
 1,0,Gravedigger,Commander,86,Near Mint,English,,,,,,,,0,Creature  - Zombie,{3}{B},Common
 3,0,Gravedigger,Eighth Edition,138,Near Mint,English,,,,,,,,0,Creature  - Zombie,{3}{B},Common
@@ -1936,6 +1938,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Heartlash Cinder,Eventide,56,Near Mint,English,,,,,,,,,Creature  - Elemental Warrior,{1}{R},Common
 1,0,Heartless Pillage,Ixalan,109,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Uncommon
 3,0,Heat Ray,Iconic Masters,133,Near Mint,English,,,,,,,,,Instant,{X}{R},Common
+1,0,Heat Ray,Rise of the Eldrazi,150,Near Mint,English,,,,,,,,0,Instant,{X}{R},Common
 1,0,Heat Ray,Magic 2015 Core Set,148,Near Mint,English,,,,,,,,,Instant,{X}{R},Uncommon
 1,0,Heavy Arbalest,Scars of Mirrodin,164,Near Mint,English,,,,,,,,,Artifact  - Equipment,{3},Uncommon
 1,0,Heavy Ballista,Seventh Edition,19,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{3}{W},Uncommon
@@ -2135,7 +2138,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Infernal Scarring,Magic Origins,102,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{B},Common
 4,0,Inferno Fist,Magic 2015 Core Set,150,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{R},Common
 1,0,Inferno Trap,Duel Decks: Speed vs. Cunning,67,,,,,,,,,,,Instant  - Trap,{3}{R},Uncommon
-1,0,Infest,Shards of Alara,80,Near Mint,English,,,,,,,,,Sorcery,{1}{B}{B},Uncommon
+2,0,Infest,Shards of Alara,80,Near Mint,English,,,,,,,,,Sorcery,{1}{B}{B},Uncommon
 1,0,Infiltration Lens,Scars of Mirrodin,167,Near Mint,English,,,,,,,,,Artifact  - Equipment,{1},Uncommon
 2,0,Infuse,Ice Age,80,Near Mint,English,,,,,,,,,Instant,{2}{U},Common
 1,0,Ingenious Skaab,Eldritch Moon,66,Near Mint,English,,,,,,,,,Creature  - Zombie Horror,{2}{U},Common
@@ -2261,8 +2264,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Kaervek's Hex,Mirage,28,Near Mint,English,,,,,,,,,Sorcery,{3}{B},Uncommon
 1,0,Kaervek's Purge,Mirage,330,Near Mint,English,,,,,,,,,Sorcery,{X}{B}{R},Uncommon
 1,0,Kalastria Healer,Battle for Zendikar,114,Near Mint,English,,,,,,,,,Creature  - Vampire Cleric Ally,{1}{B},Common
-1,0,"Kalitas, Traitor of Ghet",Oath of the Gatewatch,86,Near Mint,English,foil,,,,,,,0,Legendary Creature  - Vampire Warrior,{2}{B}{B},MythicRare
 1,0,"Kalitas, Traitor of Ghet",Oath of the Gatewatch,86,Near Mint,English,,,,,,,,,Legendary Creature  - Vampire Warrior,{2}{B}{B},MythicRare
+1,0,"Kalitas, Traitor of Ghet",Oath of the Gatewatch,86,Near Mint,English,foil,,,,,,,0,Legendary Creature  - Vampire Warrior,{2}{B}{B},MythicRare
 2,0,Kalonian Tusker,Magic 2014 Core Set,182,Near Mint,English,,,,,,,,,Creature  - Beast,{G}{G},Uncommon
 1,0,Kalonian Twingrove,Magic 2015 Core Set,182,Near Mint,English,,,,,,,,,Creature  - Treefolk Warrior,{5}{G},Rare
 1,0,Kapsho Kitefins,Magic 2015 Core Set,66,Near Mint,English,,,,,,,,,Creature  - Fish,{4}{U}{U},Uncommon
@@ -2338,8 +2341,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 7,0,Kozilek's Shrieker,Oath of the Gatewatch,73,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{2}{B},Common
 6,0,Kozilek's Translator,Oath of the Gatewatch,74,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{4}{B},Common
 1,0,"Kozilek, the Great Distortion",Oath of the Gatewatch,4,Near Mint,English,,,,,,,,,Legendary Creature  - Eldrazi,{8}{C}{C},MythicRare
-1,0,Kragma Warcaller,Theros,195,Near Mint,English,,,,,,,,,Creature  - Minotaur Warrior,{3}{B}{R},Uncommon
 1,1,Kragma Warcaller,Theros,195,Near Mint,English,foil,,,,,,,0,Creature  - Minotaur Warrior,{3}{B}{R},Uncommon
+1,0,Kragma Warcaller,Theros,195,Near Mint,English,,,,,,,,,Creature  - Minotaur Warrior,{3}{B}{R},Uncommon
 1,0,Kraken's Eye,Magic 2011,210,Near Mint,English,,,,,,,,0,Artifact,{2},Uncommon
 2,0,Kraken's Eye,Magic 2012,211,Near Mint,English,,,,,,,,,Artifact,{2},Uncommon
 2,0,Krakilin,Tempest,129,Near Mint,English,,,,,,,,,Creature  - Beast,{X}{G}{G},Uncommon
@@ -2527,8 +2530,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Malfunction,Kaladesh,55,Near Mint,English,,,,,,,,,Enchantment  - Aura,{3}{U},Common
 1,0,Malignant Growth,Mirage,332,Near Mint,English,,,,,,,,,Enchantment,{3}{G}{U},Rare
 1,0,Mammoth Umbra,Rise of the Eldrazi,37,Near Mint,English,,,,,,,,,Enchantment  - Aura,{4}{W},Uncommon
-1,0,Mana Bloom,Return to Ravnica,130,Near Mint,English,,,,,,,,,Enchantment,{X}{G},Rare
 1,0,Mana Bloom,Return to Ravnica,130,Near Mint,English,foil,,,,,,,0,Enchantment,{X}{G},Rare
+1,0,Mana Bloom,Return to Ravnica,130,Near Mint,English,,,,,,,,,Enchantment,{X}{G},Rare
 1,0,Mana Breach,Seventh Edition,85,Near Mint,English,,,,,,,,,Enchantment,{2}{U},Uncommon
 3,0,Mana Chains,Weatherlight,41,Near Mint,English,,,,,,,,,Enchantment  - Aura,{U},Common
 1,0,Mana Clash,Fourth Edition,228,Near Mint,English,,,,,,,,0,Sorcery,{R},Rare
@@ -2560,8 +2563,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Mardu Skullhunter,Khans of Tarkir,78,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{1}{B},Common
 4,0,Mardu Warshrieker,Khans of Tarkir,117,Near Mint,English,,,,,,,,,Creature  - Orc Shaman,{3}{R},Common
 1,0,Maritime Guard,Magic 2011,63,Near Mint,English,,,,,,,,0,Creature  - Merfolk Soldier,{1}{U},Common
-4,0,Maritime Guard,Magic Origins,63,Near Mint,English,,,,,,,,,Creature  - Merfolk Soldier,{1}{U},Common
 1,1,Maritime Guard,Magic Origins,63,Near Mint,English,foil,,,,,,,0,Creature  - Merfolk Soldier,{1}{U},Common
+4,0,Maritime Guard,Magic Origins,63,Near Mint,English,,,,,,,,,Creature  - Merfolk Soldier,{1}{U},Common
 2,0,Mark for Death,Gatecrash,99,Near Mint,English,,,,,,,,,Sorcery,{3}{R},Uncommon
 3,0,Mark of Mutiny,Iconic Masters,139,Near Mint,English,,,,,,,,,Sorcery,{2}{R},Common
 6,0,Mark of the Vampire,Ixalan,113,Near Mint,English,,,,,,,,,Enchantment  - Aura,{3}{B},Common
@@ -2584,8 +2587,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Master of Diversion,Magic 2014 Core Set,24,Near Mint,English,,,,,,,,,Creature  - Human Scout,{2}{W},Common
 1,0,Master of Pearls,Khans of Tarkir,18,Near Mint,English,foil,,,,,,,0,Creature  - Human Monk,{1}{W},Rare
 1,0,Master of Predicaments,Magic 2015 Core Set,67,Near Mint,English,,,,,,,,,Creature  - Sphinx,{3}{U}{U},Rare
-1,0,Master the Way,Khans of Tarkir,188,Near Mint,English,foil,,,,,,,0,Sorcery,{3}{U}{R},Uncommon
 1,0,Master the Way,Khans of Tarkir,188,Near Mint,English,,,,,,,,,Sorcery,{3}{U}{R},Uncommon
+1,0,Master the Way,Khans of Tarkir,188,Near Mint,English,foil,,,,,,,0,Sorcery,{3}{U}{R},Uncommon
 2,0,Master Thief,Magic 2012,64,Near Mint,English,,,,,,,,,Creature  - Human Rogue,{2}{U}{U},Uncommon
 1,0,Maulfist Revolutionary,Aether Revolt,115,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{1}{G}{G},Uncommon
 2,0,Maulfist Squad,Kaladesh,91,Near Mint,English,,,,,,,,,Creature  - Human Artificer,{3}{B},Common
@@ -2654,6 +2657,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Mighty Leap,Magic 2012,26,Near Mint,English,,,,,,,,0,Instant,{1}{W},Common
 9,0,Mighty Leap,Oath of the Gatewatch,28,Near Mint,English,,,,,,,,0,Instant,{1}{W},Common
 3,0,Mighty Leap,Amonkhet,20,Near Mint,English,,,,,,,,,Instant,{1}{W},Common
+1,0,Militant Inquisitor,Shadows over Innistrad,26,Near Mint,English,,,,,,,,,Creature  - Human Cleric,{2}{W},Common
 2,0,Military Intelligence,Magic 2015 Core Set,69,Near Mint,English,,,,,,,,,Enchantment,{1}{U},Uncommon
 5,0,Millennial Gargoyle,Gatecrash,232,Near Mint,English,,,,,,,,,Artifact Creature  - Gargoyle,{4},Common
 2,0,Millstone,Fourth Edition,354,Near Mint,English,,,,,,,,0,Artifact,{2},Rare
@@ -2761,7 +2765,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 5,0,Mugging,Gatecrash,102,Near Mint,English,,,,,,,,,Sorcery,{R},Common
 1,0,Mulldrifter,Commander,52,Near Mint,English,,,,,,,,0,Creature  - Elemental,{4}{U},Common
 1,0,Multani's Decree,Urza's Destiny,114,Near Mint,English,,,,,,,,,Sorcery,{3}{G},Common
-4,0,Mummy Paramount,Hour of Devastation,16,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{W},Common
+5,0,Mummy Paramount,Hour of Devastation,16,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{W},Common
 2,0,Munda's Vanguard,Oath of the Gatewatch,29,Near Mint,English,,,,,,,,,Creature  - Kor Knight Ally,{4}{W},Rare
 2,0,Murder Investigation,Gatecrash,21,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{W},Uncommon
 1,0,Murder Investigation,Magic Origins,27,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{W},Uncommon
@@ -2974,6 +2978,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Ornery Kudu,Amonkhet,178,Near Mint,English,,,,,,,,,Creature  - Antelope,{2}{G},Common
 1,0,Ornithopter,Fourth Edition,359,Near Mint,English,,,,,,,,0,Artifact Creature  - Thopter,{0},Uncommon
 4,0,Ornithopter,Magic 2015 Core Set,223,Near Mint,English,,,,,,,,0,Artifact Creature  - Thopter,{0},Common
+1,0,Orochi Leafcaller,Champions of Kamigawa,234,Near Mint,English,,,,,,,,,Creature  - Snake Shaman,{G},Common
 1,0,Orzhov Basilica,Iconic Masters,243,Near Mint,English,,,,,,,,,Land,,Uncommon
 2,0,Orzhov Basilica,Guildpact,161,Near Mint,English,,,,,,,,0,Land,,Common
 1,0,Orzhov Charm,Gatecrash,185,Near Mint,English,,,,,,,,,Instant,{W}{B},Uncommon
@@ -3007,7 +3012,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Pacifism,Magic 2012,28,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{1}{W},Common
 1,0,Pacifism,Magic 2013,24,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{1}{W},Common
 1,0,Pacifism,Magic 2014 Core Set,25,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{1}{W},Common
-3,0,Pack Guardian,Shadows over Innistrad,221,Near Mint,English,,,,,,,,,Creature  - Wolf Spirit,{2}{G}{G},Uncommon
+4,0,Pack Guardian,Shadows over Innistrad,221,Near Mint,English,,,,,,,,,Creature  - Wolf Spirit,{2}{G}{G},Uncommon
 1,0,Painful Lesson,Amonkhet,102,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Common
 2,0,Painsmith,Scars of Mirrodin,74,Near Mint,English,,,,,,,,,Creature  - Human Artificer,{1}{B},Uncommon
 2,0,Painted Bluffs,Amonkhet,246,Near Mint,English,,,,,,,,,Land  - Desert,,Common
@@ -3022,14 +3027,14 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Paper Tiger,Unglued,78,Near Mint,English,,,,,,,,,Artifact Creature,{4},Common
 1,0,Paragon of Eternal Wilds,Magic 2015 Core Set,190,Near Mint,English,,,,,,,,,Creature  - Human Druid,{3}{G},Uncommon
 2,0,Paragon of Fierce Defiance,Magic 2015 Core Set,158,Near Mint,English,,,,,,,,,Creature  - Human Warrior,{3}{R},Uncommon
-1,1,Paragon of Gathering Mists,Magic 2015 Core Set,73,Near Mint,English,foil,,,,,,,0,Creature  - Human Wizard,{3}{U},Uncommon
 1,0,Paragon of Gathering Mists,Magic 2015 Core Set,73,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{3}{U},Uncommon
+1,1,Paragon of Gathering Mists,Magic 2015 Core Set,73,Near Mint,English,foil,,,,,,,0,Creature  - Human Wizard,{3}{U},Uncommon
 2,0,Paragon of New Dawns,Magic 2015 Core Set,23,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{3}{W},Uncommon
 2,0,Paragon of Open Graves,Magic 2015 Core Set,111,Near Mint,English,,,,,,,,,Creature  - Skeleton Warrior,{3}{B},Uncommon
 2,0,Paralyze,Revised Edition,29,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{B},Common
 1,0,Paralyzing Grasp,Zendikar,58,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{2}{U},Common
-5,0,Paralyzing Grasp,Return to Ravnica,46,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{U},Common
 1,0,Paralyzing Grasp,Return to Ravnica,46,Near Mint,English,foil,,,,,,,0,Enchantment  - Aura,{2}{U},Common
+5,0,Paralyzing Grasp,Return to Ravnica,46,Near Mint,English,,,,,,,,,Enchantment  - Aura,{2}{U},Common
 4,0,Paranoid Delusions,Gatecrash,186,Near Mint,English,,,,,,,,,Sorcery,{U}{B},Common
 1,0,Paranoid Parish-Blade,Shadows over Innistrad,33,Near Mint,English,,,,,,,,,Creature  - Human Soldier,{2}{W},Uncommon
 4,0,Parasitic Implant,New Phyrexia,67,Near Mint,English,,,,,,,,,Enchantment  - Aura,{3}{B},Common
@@ -3153,7 +3158,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 3,0,Portent of Betrayal,Theros,133,Near Mint,English,,,,,,,,,Sorcery,{3}{R},Common
 2,0,Possessed Skaab,Magic Origins,215,Near Mint,English,,,,,,,,,Creature  - Zombie,{3}{U}{B},Uncommon
 3,0,Pounce,Ixalan,200,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
-2,0,Pouncing Cheetah,Amonkhet,179,Near Mint,English,,,,,,,,,Creature  - Cat,{2}{G},Common
+3,0,Pouncing Cheetah,Amonkhet,179,Near Mint,English,,,,,,,,,Creature  - Cat,{2}{G},Common
 3,0,Pouncing Jaguar,Urza's Saga,269,Near Mint,English,,,,,,,,,Creature  - Cat,{G},Common
 1,0,Power Leak,Fourth Edition,92,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{U},Common
 1,0,Power Sink,Fourth Edition,93,Near Mint,English,,,,,,,,0,Instant,{X}{U},Common
@@ -3243,7 +3248,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Pyxis of Pandemonium,Theros,220,Near Mint,English,,,,,,,,,Artifact,{1},Rare
 4,0,Quag Sickness,Magic 2011,111,Near Mint,English,,,,,,,,0,Enchantment  - Aura,{2}{B},Common
 1,0,Quarry Beetle,Hour of Devastation,127,Near Mint,English,,,,,,,,,Creature  - Insect,{4}{G},Uncommon
-1,0,Quarry Hauler,Amonkhet,181,Near Mint,English,,,,,,,,,Creature  - Camel,{3}{G},Common
+2,0,Quarry Hauler,Amonkhet,181,Near Mint,English,,,,,,,,,Creature  - Camel,{3}{G},Common
 2,0,Queen's Agent,Ixalan,114,Near Mint,English,,,,,,,,,Creature  - Vampire Scout,{5}{B},Common
 2,0,Queen's Bay Soldier,Ixalan,115,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{B},Common
 2,0,Queen's Commission,Ixalan,29,Near Mint,English,,,,,,,,,Sorcery,{2}{W},Common
@@ -3279,8 +3284,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Raise the Alarm,Magic 2015 Core Set,26,Near Mint,English,,,,,,,,0,Instant,{1}{W},Common
 1,0,Raka Disciple,Apocalypse,66,Near Mint,English,,,,,,,,,Creature  - Minotaur Wizard,{R},Common
 1,0,Rakdos Cackler,Return to Ravnica,220,Near Mint,English,,,,,,,,,Creature  - Devil,{BR},Uncommon
-1,0,Rakdos Carnarium,Iconic Masters,245,Near Mint,English,,,,,,,,0,Land,,Uncommon
 1,0,Rakdos Carnarium,Iconic Masters,245,Near Mint,English,foil,,,,,,,0,Land,,Uncommon
+1,0,Rakdos Carnarium,Iconic Masters,245,Near Mint,English,,,,,,,,0,Land,,Uncommon
 2,0,Rakdos Charm,Return to Ravnica,184,Near Mint,English,,,,,,,,,Instant,{B}{R},Uncommon
 2,0,Rakdos Drake,Iconic Masters,103,Near Mint,English,,,,,,,,,Creature  - Drake,{2}{B},Common
 4,0,Rakdos Guildgate,Return to Ravnica,244,Near Mint,English,,,,,,,,,Land  - Gate,,Common
@@ -3333,8 +3338,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Reaper of the Wilds,Theros,201,Near Mint,English,,,,,,,,,Creature  - Gorgon,{2}{B}{G},Rare
 1,0,Reason // Believe,Hour of Devastation,154,Near Mint,English,,,,,,,,,Sorcery,{U},Rare
 1,0,Reassembling Skeleton,Modern Masters 2015 Edition,92,Near Mint,English,,,,,,,,,Creature  - Skeleton Warrior,{1}{B},Uncommon
-1,0,Reave Soul,Iconic Masters,104,Near Mint,English,foil,,,,,,,0,Sorcery,{1}{B},Common
 3,0,Reave Soul,Iconic Masters,104,Near Mint,English,,,,,,,,,Sorcery,{1}{B},Common
+1,0,Reave Soul,Iconic Masters,104,Near Mint,English,foil,,,,,,,0,Sorcery,{1}{B},Common
 5,0,Reaver Drone,Oath of the Gatewatch,76,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{B},Uncommon
 1,0,Reckless Abandon,Duel Decks: Speed vs. Cunning,20,,,,,,,,,,,Sorcery,{R},Common
 2,0,Reckless Bushwhacker,Oath of the Gatewatch,116,Near Mint,English,,,,,,,,,Creature  - Goblin Warrior Ally,{2}{R},Uncommon
@@ -3402,8 +3407,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Retribution of the Ancients,Khans of Tarkir,85,Near Mint,English,,,,,,,,,Enchantment,{B},Rare
 1,0,Return to the Ranks,Magic 2015 Core Set,29,Near Mint,English,,,,,,,,,Sorcery,{X}{W}{W},Rare
 4,0,Returned Centaur,Theros,103,Near Mint,English,,,,,,,,0,Creature  - Zombie Centaur,{3}{B},Common
-5,0,Returned Centaur,Magic Origins,116,Near Mint,English,,,,,,,,,Creature  - Zombie Centaur,{3}{B},Common
 1,1,Returned Centaur,Magic Origins,116,Near Mint,English,foil,,,,,,,0,Creature  - Zombie Centaur,{3}{B},Common
+5,0,Returned Centaur,Magic Origins,116,Near Mint,English,,,,,,,,,Creature  - Zombie Centaur,{3}{B},Common
 3,0,Returned Phalanx,Theros,104,Near Mint,English,,,,,,,,,Creature  - Zombie Soldier,{1}{B},Common
 1,0,"Reveka, Wizard Savant",Homelands,47,Near Mint,English,,,,,,,,,Legendary Creature  - Dwarf Wizard,{2}{U}{U},Rare
 1,0,Revel in Riches,Ixalan,117,Near Mint,English,,,,,,,,,Enchantment,{4}{B},Rare
@@ -3470,7 +3475,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Rogue's Passage,Return to Ravnica,245,Near Mint,English,,,,,,,,,Land,,Uncommon
 1,0,Roil's Retribution,Battle for Zendikar,45,Near Mint,English,,,,,,,,,Instant,{3}{W}{W},Uncommon
 2,0,Roiling Waters,Oath of the Gatewatch,62,Near Mint,English,,,,,,,,,Sorcery,{5}{U}{U},Uncommon
-5,0,Roilmage's Trick,Battle for Zendikar,83,Near Mint,English,,,,,,,,,Instant,{3}{U},Common
+6,0,Roilmage's Trick,Battle for Zendikar,83,Near Mint,English,,,,,,,,,Instant,{3}{U},Common
 1,0,Rolling Stones,Seventh Edition,35,Near Mint,English,,,,,,,,0,Enchantment,{1}{W},Rare
 1,0,Root Out,Shadows over Innistrad,224,Near Mint,English,,,,,,,,,Sorcery,{2}{G},Common
 1,0,Root Spider,Homelands,67,Near Mint,English,,,,,,,,,Creature  - Spider,{3}{G},Uncommon
@@ -3790,7 +3795,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Shriekhorn,Mirrodin Besieged,130,Near Mint,English,,,,,,,,,Artifact,{1},Common
 3,0,Shrink,Homelands,71,Near Mint,English,,,,,,,,0,Instant,{G},Common
 1,0,Sickle Ripper,Shadowmoor,77,Near Mint,English,,,,,,,,0,Creature  - Elemental Warrior,{1}{B},Common
-2,0,Sidewinder Naga,Hour of Devastation,134,Near Mint,English,,,,,,,,,Creature  - Naga Warrior,{2}{G},Common
+3,0,Sidewinder Naga,Hour of Devastation,134,Near Mint,English,,,,,,,,,Creature  - Naga Warrior,{2}{G},Common
 3,0,Sidisi's Pet,Khans of Tarkir,90,Near Mint,English,,,,,,,,,Creature  - Zombie Ape,{3}{B},Common
 1,0,Siege Mastodon,Magic 2014 Core Set,34,Near Mint,English,,,,,,,,,Creature  - Elephant,{4}{W},Common
 1,0,Siege Rhino,Khans of Tarkir,200,Near Mint,English,,,,,,,,,Creature  - Rhino,{1}{W}{B}{G},Rare
@@ -3856,9 +3861,9 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 5,0,Sky Scourer,Oath of the Gatewatch,78,Near Mint,English,,,,,,,,,Creature  - Eldrazi Drone,{1}{B},Common
 2,0,Sky Skiff,Kaladesh,233,Near Mint,English,,,,,,,,,Artifact  - Vehicle,{2},Common
 2,0,Sky-Eel School,Scars of Mirrodin,44,Near Mint,English,,,,,,,,,Creature  - Fish,{3}{U}{U},Common
-4,0,Skyblade of the Legion,Ixalan,37,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{W},Common
-1,0,Skyblinder Staff,Gatecrash,238,Near Mint,English,foil,,,,,,,0,Artifact  - Equipment,{1},Common
+5,0,Skyblade of the Legion,Ixalan,37,Near Mint,English,,,,,,,,,Creature  - Vampire Soldier,{1}{W},Common
 5,0,Skyblinder Staff,Gatecrash,238,Near Mint,English,,,,,,,,,Artifact  - Equipment,{1},Common
+1,0,Skyblinder Staff,Gatecrash,238,Near Mint,English,foil,,,,,,,0,Artifact  - Equipment,{1},Common
 4,0,Skygames,Gatecrash,51,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{U},Common
 1,0,Skyhunter Cub,Mirrodin,21,Near Mint,English,,,,,,,,,Creature  - Cat Knight,{2}{W},Common
 1,0,Skyhunter Patrol,Tenth Edition,41,Near Mint,English,,,,,,,,,Creature  - Cat Knight,{2}{W}{W},Common
@@ -3971,8 +3976,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Spatial Binding,Mirage,344,Near Mint,English,,,,,,,,,Enchantment,{U}{B},Uncommon
 3,0,Spatial Contortion,Oath of the Gatewatch,8,Near Mint,English,,,,,,,,,Instant,{1}{C},Uncommon
 3,0,Spawn of Rix Maadi,Return to Ravnica,199,Near Mint,English,,,,,,,,,Creature  - Horror,{3}{B}{R},Common
-1,0,Spawnbinder Mage,Oath of the Gatewatch,35,Near Mint,English,foil,,,,,,,0,Creature  - Human Wizard Ally,{3}{W},Common
 4,0,Spawnbinder Mage,Oath of the Gatewatch,35,Near Mint,English,,,,,,,,,Creature  - Human Wizard Ally,{3}{W},Common
+1,0,Spawnbinder Mage,Oath of the Gatewatch,35,Near Mint,English,foil,,,,,,,0,Creature  - Human Wizard Ally,{3}{W},Common
 1,0,Spear of Heliod,Theros,33,Near Mint,English,,,,,,,,,Legendary Enchantment Artifact,{1}{W}{W},Rare
 1,0,Spearpoint Oread,Theros,141,Near Mint,English,,,,,,,,,Enchantment Creature  - Nymph,{2}{R},Common
 1,0,Spectra Ward,Magic 2015 Core Set,36,Near Mint,English,,,,,,,,,Enchantment  - Aura,{3}{W}{W},Rare
@@ -4093,6 +4098,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Stonefare Crocodile,Return to Ravnica,136,Near Mint,English,,,,,,,,,Creature  - Crocodile,{2}{G},Common
 2,0,Stoneforge Acolyte,Oath of the Gatewatch,38,Near Mint,English,,,,,,,,,Creature  - Kor Artificer Ally,{W},Uncommon
 1,0,Stoneforge Masterwork,Oath of the Gatewatch,166,Near Mint,English,,,,,,,,,Artifact  - Equipment,{1},Rare
+1,0,Stonefury,Battle for Zendikar,156,Near Mint,English,,,,,,,,,Instant,{3}{R}{R},Common
 1,0,Stonehorn Chanter,Magic 2014 Core Set,39,Near Mint,English,,,,,,,,,Creature  - Rhino Cleric,{5}{W},Uncommon
 5,0,Stoneshock Giant,Theros,142,Near Mint,English,,,,,,,,0,Creature  - Giant,{3}{R}{R},Uncommon
 1,0,Stonybrook Banneret,Morningtide,51,Near Mint,English,,,,,,,,,Creature  - Merfolk Wizard,{1}{U},Common
@@ -4172,7 +4178,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Suntail Hawk,Magic 2014 Core Set,40,Near Mint,English,,,,,,,,,Creature  - Bird,{W},Common
 1,0,Sunweb,Seventh Edition,51,Near Mint,English,,,,,,,,0,Creature  - Wall,{3}{W},Rare
 1,0,Supernatural Stamina,Amonkhet,111,Near Mint,English,,,,,,,,,Instant,{B},Common
-2,0,Supply Caravan,Amonkhet,30,Near Mint,English,,,,,,,,,Creature  - Camel,{4}{W},Common
+3,0,Supply Caravan,Amonkhet,30,Near Mint,English,,,,,,,,,Creature  - Camel,{4}{W},Common
 1,0,Supreme Verdict,Return to Ravnica,201,Near Mint,English,,,,,,,,,Sorcery,{1}{W}{W}{U},Rare
 1,0,Supreme Will,Hour of Devastation,49,Near Mint,English,,,,,,,,,Instant,{2}{U},Uncommon
 1,0,Suq'Ata Firewalker,Mirage,94,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{1}{U}{U},Uncommon
@@ -4185,8 +4191,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Surrakar Banisher,Worldwake,39,Near Mint,English,,,,,,,,,Creature  - Surrakar,{4}{U},Common
 1,0,Surreal Memoir,Iconic Masters,148,Near Mint,English,,,,,,,,,Sorcery,{3}{R},Uncommon
 2,0,Survey the Wreckage,Return to Ravnica,107,Near Mint,English,,,,,,,,,Sorcery,{4}{R},Common
-3,0,Survival Cache,Iconic Masters,34,Near Mint,English,,,,,,,,,Sorcery,{2}{W},Common
 1,0,Survival Cache,Iconic Masters,34,Near Mint,English,foil,,,,,,,0,Sorcery,{2}{W},Common
+3,0,Survival Cache,Iconic Masters,34,Near Mint,English,,,,,,,,,Sorcery,{2}{W},Common
 1,0,Survive the Night,Shadows over Innistrad,41,Near Mint,English,,,,,,,,,Instant,{2}{W},Common
 1,0,Survivors' Encampment,Hour of Devastation,184,Near Mint,English,,,,,,,,,Land  - Desert,,Common
 1,0,Suspension Field,Khans of Tarkir,25,Near Mint,English,,,,,,,,,Enchantment,{1}{W},Uncommon
@@ -4206,7 +4212,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Swarm of Rats,Eighth Edition,167,Near Mint,English,,,,,,,,0,Creature  - Rat,{1}{B},Uncommon
 1,0,Swarm Surge,Battle for Zendikar,100,Near Mint,English,,,,,,,,,Sorcery,{2}{B},Common
 2,0,Swashbuckling,Ixalan,167,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{R},Common
-3,0,Sweatworks Brawler,Aether Revolt,100,Near Mint,English,,,,,,,,,Creature  - Human Artificer,{3}{R},Common
+4,0,Sweatworks Brawler,Aether Revolt,100,Near Mint,English,,,,,,,,,Creature  - Human Artificer,{3}{R},Common
 4,0,Sweep Away,Oath of the Gatewatch,64,Near Mint,English,,,,,,,,,Instant,{2}{U},Common
 1,0,Swell of Growth,Battle for Zendikar,191,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 1,0,Swift Justice,Duel Decks: Speed vs. Cunning,62,,,,,,,,,,,Instant,{W},Common
@@ -4239,8 +4245,9 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Tablet of the Guilds,Return to Ravnica,235,Near Mint,English,,,,,,,,,Artifact,{2},Uncommon
 3,0,Tah-Crop Skirmisher,Amonkhet,72,Near Mint,English,,,,,,,,,Creature  - Naga Warrior,{1}{U},Common
 5,0,Taigam's Scheming,Khans of Tarkir,57,Near Mint,English,,,,,,,,,Sorcery,{1}{U},Common
-1,0,Tajuru Pathwarden,Oath of the Gatewatch,145,Near Mint,English,foil,,,,,,,0,Creature  - Elf Warrior Ally,{4}{G},Common
+1,0,Tajuru Beastmaster,Battle for Zendikar,193,Near Mint,English,,,,,,,,,Creature  - Elf Warrior Ally,{5}{G},Common
 5,0,Tajuru Pathwarden,Oath of the Gatewatch,145,Near Mint,English,,,,,,,,,Creature  - Elf Warrior Ally,{4}{G},Common
+1,0,Tajuru Pathwarden,Oath of the Gatewatch,145,Near Mint,English,foil,,,,,,,0,Creature  - Elf Warrior Ally,{4}{G},Common
 1,0,Take Down,Kaladesh,170,Near Mint,English,,,,,,,,,Sorcery,{G},Common
 4,0,Take into Custody,Aether Revolt,47,Near Mint,English,,,,,,,,,Instant,{U},Common
 1,0,Take Up Arms,Khans of Tarkir,26,Near Mint,English,,,,,,,,,Instant,{4}{W},Uncommon
@@ -4268,6 +4275,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Telepathy,Ninth Edition,101,Near Mint,English,,,,,,,,0,Enchantment,{U},Uncommon
 1,0,Teleportal,Return to Ravnica,202,Near Mint,English,,,,,,,,,Sorcery,{U}{R},Uncommon
 1,0,Telim'Tor's Darts,Mirage,286,Near Mint,English,,,,,,,,,Artifact,{2},Uncommon
+1,0,Telim'Tor's Edict,Mirage,198,Near Mint,English,,,,,,,,,Instant,{R},Rare
 1,0,Temp of the Damned,Unglued,38,Near Mint,English,,,,,,,,,Summon - Zombie,{2}{B},Common
 2,0,Tempest Caller,Ixalan,86,Near Mint,English,,,,,,,,,Creature  - Merfolk Wizard,{2}{U}{U},Uncommon
 2,0,Tempest Drake,Visions,139,Near Mint,English,,,,,,,,,Creature  - Drake,{1}{W}{U},Uncommon
@@ -4337,8 +4345,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Threaten,Ninth Edition,223,Near Mint,English,,,,,,,,0,Sorcery,{2}{R},Uncommon
 1,0,Thresher Lizard,Amonkhet,150,Near Mint,English,,,,,,,,,Creature  - Lizard,{2}{R},Common
 1,0,Thrill-Kill Assassin,Iconic Masters,111,Near Mint,English,,,,,,,,,Creature  - Human Assassin,{1}{B},Common
-1,0,Thrill-Kill Assassin,Return to Ravnica,81,Near Mint,English,,,,,,,,,Creature  - Human Assassin,{1}{B},Uncommon
 1,0,Thrill-Kill Assassin,Return to Ravnica,81,Near Mint,English,foil,,,,,,,0,Creature  - Human Assassin,{1}{B},Uncommon
+1,0,Thrill-Kill Assassin,Return to Ravnica,81,Near Mint,English,,,,,,,,,Creature  - Human Assassin,{1}{B},Uncommon
 3,0,Thriving Grubs,Kaladesh,138,Near Mint,English,,,,,,,,,Creature  - Gremlin,{1}{R},Common
 2,0,Thriving Ibex,Kaladesh,31,Near Mint,English,,,,,,,,,Creature  - Goat,{3}{W},Common
 1,0,Thriving Rats,Kaladesh,102,Near Mint,English,,,,,,,,,Creature  - Rat,{1}{B},Common
@@ -4506,7 +4514,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Ultimate Price,Return to Ravnica,82,Near Mint,English,,,,,,,,,Instant,{1}{B},Uncommon
 6,0,Umara Entangler,Oath of the Gatewatch,65,Near Mint,English,,,,,,,,,Creature  - Merfolk Rogue Ally,{1}{U},Common
 2,0,Unbridled Growth,Aether Revolt,126,Near Mint,English,,,,,,,,,Enchantment  - Aura,{G},Common
-2,0,Unburden,Amonkhet,114,Near Mint,English,,,,,,,,,Sorcery,{1}{B}{B},Common
+3,0,Unburden,Amonkhet,114,Near Mint,English,,,,,,,,,Sorcery,{1}{B}{B},Common
 1,0,Uncaged Fury,Shadows over Innistrad,188,Near Mint,English,,,,,,,,,Instant,{2}{R},Common
 1,0,Uncle Istvan,Fourth Edition,49,Near Mint,English,,,,,,,,0,Creature  - Human,{1}{B}{B}{B},Uncommon
 2,0,Uncontrolled Infestation,Scourge,108,Near Mint,English,,,,,,,,,Enchantment  - Aura,{1}{R},Common
@@ -4704,6 +4712,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Walk the Plank,Ixalan,130,Near Mint,English,,,,,,,,,Sorcery,{B}{B},Uncommon
 1,0,Walker of the Grove,Morningtide,138,Near Mint,English,,,,,,,,,Creature  - Elemental,{6}{G}{G},Uncommon
 3,0,Walker of the Wastes,Oath of the Gatewatch,10,Near Mint,English,,,,,,,,,Creature  - Eldrazi,{4}{C},Uncommon
+1,0,Walking Corpse,Innistrad,126,Near Mint,English,,,,,,,,0,Creature  - Zombie,{1}{B},Common
 1,0,Walking Corpse,Magic 2015 Core Set,278,Near Mint,English,,,,,,,,,Creature  - Zombie,{1}{B},Common
 1,0,Wall of Air,Revised Edition,90,Near Mint,English,,,,,,,,0,Creature  - Wall,{1}{U}{U},Uncommon
 5,0,Wall of Air,Seventh Edition,111,Near Mint,English,,,,,,,,0,Creature  - Wall,{1}{U}{U},Uncommon
@@ -4718,8 +4727,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Wall of Pine Needles,Ice Age,162,Near Mint,English,,,,,,,,,Creature  - Plant Wall,{3}{G},Uncommon
 4,0,Wall of Resistance,Mirage,250,Near Mint,English,,,,,,,,,Creature  - Wall,{1}{W},Common
 3,0,Wall of Resurgence,Oath of the Gatewatch,39,Near Mint,English,,,,,,,,,Creature  - Wall,{2}{W},Uncommon
-1,0,Wall of Roots,Iconic Masters,190,Near Mint,English,foil,,,,,,,0,Creature  - Plant Wall,{1}{G},Common
 3,0,Wall of Roots,Iconic Masters,190,Near Mint,English,,,,,,,,,Creature  - Plant Wall,{1}{G},Common
+1,0,Wall of Roots,Iconic Masters,190,Near Mint,English,foil,,,,,,,0,Creature  - Plant Wall,{1}{G},Common
 1,0,Wall of Shields,Ice Age,322,Near Mint,English,,,,,,,,,Artifact Creature  - Wall,{3},Uncommon
 1,0,Wall of Spears,Eighth Edition,320,Near Mint,English,,,,,,,,,Artifact Creature  - Wall,{3},Uncommon
 1,0,Wall of Stone,Eighth Edition,232,Near Mint,English,,,,,,,,,Creature  - Wall,{1}{R}{R},Uncommon
@@ -4787,6 +4796,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Whirler Rogue,Magic Origins,83,Near Mint,English,,,,,,,,,Creature  - Human Rogue Artificer,{2}{U}{U},Uncommon
 5,0,Whirlwind Adept,Khans of Tarkir,63,Near Mint,English,,,,,,,,,Creature  - Djinn Monk,{4}{U},Common
 2,0,Whisk Away,Fate Reforged,57,Near Mint,English,,,,,,,,,Instant,{2}{U},Common
+1,0,Whispering Madness,Commander 2016,229,Near Mint,English,,,,,,,,,Sorcery,{2}{U}{B},Rare
 2,0,White Knight,Revised Edition,228,Near Mint,English,,,,,,,,0,Creature  - Human Knight,{W}{W},Uncommon
 1,0,Whitemane Lion,Eternal Masters,37,Near Mint,English,,,,,,,,,Creature  - Cat,{1}{W},Common
 2,0,Wicker Witch,Shadows over Innistrad,268,Near Mint,English,,,,,,,,,Artifact Creature  - Scarecrow,{3},Common
@@ -4813,8 +4823,8 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Wildsize,Iconic Masters,191,Near Mint,English,,,,,,,,,Instant,{2}{G},Common
 4,0,Wildwood Rebirth,Gatecrash,140,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
 2,0,Will of the Naga,Fate Reforged,58,Near Mint,English,,,,,,,,,Instant,{4}{U}{U},Common
-1,1,Will-Forged Golem,Magic 2015 Core Set,239,Near Mint,English,foil,,,,,,,0,Artifact Creature  - Golem,{6},Common
 5,0,Will-Forged Golem,Magic 2015 Core Set,239,Near Mint,English,,,,,,,,,Artifact Creature  - Golem,{6},Common
+1,1,Will-Forged Golem,Magic 2015 Core Set,239,Near Mint,English,foil,,,,,,,0,Artifact Creature  - Golem,{6},Common
 1,0,Will-o'-the-Wisp,Revised Edition,45,Near Mint,English,,,,,,,,0,Creature  - Spirit,{B},Rare
 1,0,Will-o'-the-Wisp,Fourth Edition,55,Near Mint,English,,,,,,,,0,Creature  - Spirit,{B},Rare
 2,0,Willbender,Duel Decks: Speed vs. Cunning,47,,,,,,,,,,,Creature  - Human Wizard,{1}{U},Uncommon
