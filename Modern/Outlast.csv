@@ -5,9 +5,9 @@ Count,Name,Type,Cost,Rarity,Section
 4,Ainok Bond-Kin,Creature  - Hound Soldier,{1}{W},Common,main
 1,"Ajani, Mentor of Heroes",Planeswalker  - Ajani,{3}{G}{W},MythicRare,main
 4,Blossoming Sands,Land,,Common,main
-4,Burst of Strength,Instant,{G},Common,main
+2,Burst of Strength,Instant,{G},Common,main
+2,Celestial Flare,Instant,{W}{W},Common,main
 1,Corpsejack Menace,Creature  - Fungus,{2}{B}{G},Uncommon,main
-1,Driven // Despair,Sorcery,{1}{G},Rare,main
 3,Forest,Basic Land  - Forest,,BasicLand,main
 1,Glaring Spotlight,Artifact,{1},Rare,main
 1,Herald of Anafenza,Creature  - Human Soldier,{W},Rare,main
@@ -18,6 +18,7 @@ Count,Name,Type,Cost,Rarity,Section
 3,Longshot Squad,Creature  - Hound Archer,{3}{G},Common,main
 3,Mer-Ek Nightblade,Creature  - Orc Assassin,{3}{B},Uncommon,main
 1,Merciless Eviction,Sorcery,{4}{W}{B},Rare,main
+1,Oath of Ajani,Legendary Enchantment,{G}{W},Rare,main
 4,Plains,Basic Land  - Plains,,BasicLand,main
 1,Sandsteppe Citadel,Land,,Uncommon,main
 4,Scoured Barrens,Land,,Common,main

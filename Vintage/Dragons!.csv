@@ -4,6 +4,7 @@ Count,Name,Type,Cost,Rarity,Section
 2,Brood Keeper,Creature  - Human Shaman,{3}{R},Uncommon,main
 1,Buried Ruin,Land,,Uncommon,main
 1,Catacomb Dragon,Creature  - Dragon,{4}{B}{B},Rare,main
+1,Crucible of the Spirit Dragon,Land,,Rare,main
 1,Dictate of Erebos,Enchantment,{3}{B}{B},Rare,main
 1,Dictate of the Twin Gods,Enchantment,{3}{R}{R},Rare,main
 2,Draconic Roar,Instant,{1}{R},Common,main
@@ -26,7 +27,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Star Compass,Artifact,{2},Common,main
 1,Sunbird's Invocation,Enchantment,{5}{R},Rare,main
 5,Swamp,Basic Land  - Swamp,,BasicLand,main
-4,Terramorphic Expanse,Land,,Common,main
+3,Terramorphic Expanse,Land,,Common,main
 1,Thran Dynamo,Artifact,{4},Uncommon,main
 1,Twinflame,Sorcery,{1}{R},Rare,main
 1,Utvara Hellkite,Creature  - Dragon,{6}{R}{R},MythicRare,main
