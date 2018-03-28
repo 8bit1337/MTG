@@ -24,13 +24,17 @@ def main(argv):
         typ='Land'
       else:
         typ=row['Type']
-      deck.append(typ+': '+row['Name'])
+        
+      if 'sideboard' not in row['Section']:
+        deck.append(typ+': '+row['Name'])
       i+=1
   
   file.close()
   
+  n=len(deck)
+  
   shuffle(deck)
-  for i in range (0,10):
+  for i in range (0,int(n/10)):
     for j in range (0, 10):
       print('   '+deck[10*i+j])
     print('   -----')
