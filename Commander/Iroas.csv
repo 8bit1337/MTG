@@ -1,79 +1,77 @@
 Count,Name,Type,Cost,Rarity,Section
-1,Accorder's Shield,Artifact  - Equipment,{0},Uncommon,main
-1,Aegis Angel,Creature  - Angel,{4}{W}{W},Rare,main
-1,Aegis of the Gods,Enchantment Creature  - Human Soldier,{1}{W},Rare,main
-1,Angel of Renewal,Creature  - Angel Ally,{5}{W},Uncommon,main
+1,Affa Protector,Creature  - Human Soldier Ally,{2}{W},Common,main
+1,Akoum Flameseeker,Creature  - Human Shaman Ally,{2}{R},Common,main
 1,Angelic Captain,Creature  - Angel Ally,{3}{R}{W},Rare,main
 1,Angelic Skirmisher,Creature  - Angel,{4}{W}{W},Rare,main
-1,Ash Zealot,Creature  - Human Warrior,{R}{R},Rare,main
 1,Aurelia's Fury,Instant,{X}{R}{W},MythicRare,main
-1,"Aurelia, the Warleader",Legendary Creature  - Angel,{2}{R}{R}{W}{W},MythicRare,main
 1,Auriok Champion,Creature  - Human Cleric,{W}{W},Rare,main
-1,Avatar of Hope,Creature  - Avatar,{6}{W}{W},Rare,main
-1,Blinding Angel,Creature  - Angel,{3}{W}{W},Rare,main
-1,Bonesplitter,Artifact  - Equipment,{1},Common,main
+1,Banefire,Sorcery,{X}{R},Rare,main
+1,Blood Sun,Enchantment,{2}{R},Rare,main
 1,Boros Charm,Instant,{R}{W},Uncommon,main
 1,Boros Guildgate,Land  - Gate,,Common,main
+1,Boros Keyrune,Artifact,{3},Uncommon,main
 1,Boros Reckoner,Creature  - Minotaur Wizard,{RW}{RW}{RW},Rare,main
+1,Boros Signet,Artifact,{2},Uncommon,main
 1,Captain's Claws,Artifact  - Equipment,{2},Rare,main
-1,Celestial Archon,Enchantment Creature  - Archon,{3}{W}{W},Rare,main
 1,Chariot of Victory,Artifact  - Equipment,{3},Uncommon,main
-1,Desperate Stand,Sorcery,{R}{W},Uncommon,main
+1,Cliffside Lookout,Creature  - Kor Scout Ally,{W},Common,main
 1,Dictate of the Twin Gods,Enchantment,{3}{R}{R},Rare,main
-1,Dragon Throne of Tarkir,Legendary Artifact  - Equipment,{4},Rare,main
+1,Divine Verdict,Instant,{3}{W},Common,main
 1,"Elesh Norn, Grand Cenobite",Legendary Creature  - Praetor,{5}{W}{W},MythicRare,main
-1,Embermaw Hellion,Creature  - Hellion,{3}{R}{R},Rare,main
-1,Emeria Angel,Creature  - Angel,{2}{W}{W},Rare,main
+1,Everdawn Champion,Creature  - Human Soldier,{1}{W}{W},Uncommon,main
 1,Evolving Wilds,Land,,Common,main
-1,Firemane Angel,Creature  - Angel,{3}{R}{W}{W},Rare,main
+1,Fireball,Sorcery,{X}{R},Uncommon,main
 1,Firemane Avenger,Creature  - Angel,{2}{R}{W},Rare,main
 1,Firemantle Mage,Creature  - Human Shaman Ally,{2}{R},Uncommon,main
 1,Fireshrieker,Artifact  - Equipment,{3},Uncommon,main
-1,Flameblade Angel,Creature  - Angel,{4}{R}{R},Rare,main
+1,Fissure,Instant,{3}{R}{R},Common,main
 1,Frontline Medic,Creature  - Human Cleric,{2}{W},Rare,main
 1,Gideon's Avenger,Creature  - Human Soldier,{1}{W}{W},Rare,main
+1,Goblin Freerunner,Creature  - Goblin Warrior Ally,{3}{R},Common,main
+1,Grand Abolisher,Creature - Human Cleric,{W}{W},Rare,main
 1,Great Furnace,Artifact Land,,Common,main
 1,Haunted Cloak,Artifact  - Equipment,{3},Uncommon,main
-1,Heart-Piercer Bow,Artifact  - Equipment,{2},Uncommon,main
-1,Hellkite Igniter,Creature - Dragon,{5}{R}{R},Rare,main
 1,Hot Soup,Artifact  - Equipment,{1},Uncommon,main
-1,Hundred-Handed One,Creature  - Giant,{2}{W}{W},Rare,main
 1,Intrepid Hero,Creature  - Human Soldier,{2}{W},Rare,main
 1,"Iroas, God of Victory",Legendary Enchantment Creature  - God,{2}{R}{W},MythicRare,main
-1,Kuldotha Phoenix,Creature  - Phoenix,{2}{R}{R}{R},Rare,main
+1,Kor Scythemaster,Creature  - Kor Soldier Ally,{2}{W},Common,main
+1,Kor Sky Climber,Creature  - Kor Soldier Ally,{2}{W},Common,main
 1,Legion Loyalist,Creature  - Goblin Soldier,{R},Rare,main
-1,Livewire Lash,Artifact  - Equipment,{2},Rare,main
 1,Lost Order of Jarkeld,Creature  - Human Knight,{2}{W}{W},Rare,main
-1,Loxodon Warhammer,Artifact  - Equipment,{3},Uncommon,main
-1,Luminate Primordial,Creature  - Avatar,{5}{W}{W},Rare,main
-1,Master of Pearls,Creature  - Human Monk,{1}{W},Rare,main
+1,Makindi Aeronaut,Creature  - Kor Scout Ally,{1}{W},Common,main
+1,Makindi Patrol,Creature  - Human Knight Ally,{2}{W},Common,main
 1,Moonsilver Spear,Artifact  - Equipment,{4},Rare,main
-12,Mountain,Basic Land  - Mountain,,BasicLand,main
+11,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Munda's Vanguard,Creature  - Kor Knight Ally,{4}{W},Rare,main
 1,Needle Spires,Land,,Rare,main
-1,Ogre Battledriver,Creature  - Ogre Warrior,{2}{R}{R},Rare,main
+1,"Neheb, the Eternal",Legendary Creature  - Zombie Minotaur Warrior,{3}{R}{R},MythicRare,main
+1,Northern Paladin,Creature  - Human Knight,{2}{W}{W},Rare,main
+1,Ondu War Cleric,Creature  - Human Cleric Ally,{1}{W},Common,main
+1,Order of the Sacred Torch,Creature  - Human Knight,{1}{W}{W},Rare,main
+1,Pillage,Sorcery,{1}{R}{R},Common,main
 18,Plains,Basic Land  - Plains,,BasicLand,main
 1,Prowler's Helm,Artifact  - Equipment,{2},Uncommon,main
+1,Puncturing Blow,Sorcery,{2}{R}{R},Common,main
+1,Quicksand,Land,,Uncommon,main
 1,Reckless Bushwhacker,Creature  - Goblin Warrior Ally,{2}{R},Uncommon,main
 1,Relief Captain,Creature  - Kor Knight Ally,{2}{W}{W},Uncommon,main
-1,Riot Gear,Artifact  - Equipment,{2},Common,main
-1,Shield of the Avatar,Artifact  - Equipment,{1},Rare,main
-1,Sigil of Valor,Artifact  - Equipment,{2},Uncommon,main
-1,Soul of Theros,Creature  - Avatar,{4}{W}{W},MythicRare,main
-1,Spirit of the Hearth,Creature  - Cat Spirit,{4}{W}{W},Rare,main
+1,Southern Paladin,Creature  - Human Knight,{2}{W}{W},Rare,main
+1,Spawnbinder Mage,Creature  - Human Wizard Ally,{3}{W},Common,main
+1,Spitting Earth,Sorcery,{1}{R},Common,main
 1,Stone Haven Outfitter,Creature  - Kor Artificer Ally,{1}{W},Rare,main
+1,Stone Quarry,Land,,Uncommon,main
 1,Stoneforge Acolyte,Creature  - Kor Artificer Ally,{W},Uncommon,main
 1,Stoneforge Masterwork,Artifact  - Equipment,{1},Rare,main
+1,Strip Mine,Land,,Uncommon,main
+1,Swiftfoot Boots,Artifact  - Equipment,{2},Uncommon,main
+1,Swords to Plowshares,Instant,{W},Uncommon,main
 1,Terramorphic Expanse,Land,,Common,main
 1,Trepanation Blade,Artifact  - Equipment,{3},Uncommon,main
-1,Vorrac Battlehorns,Artifact  - Equipment,{2},Common,main
-1,Vulshok Morningstar,Artifact  - Equipment,{2},Uncommon,main
 1,Weapons Trainer,Creature  - Human Soldier Ally,{R}{W},Uncommon,main
 1,Wind-Scarred Crag,Land,,Common,main
-1,"Yosei, the Morning Star",Legendary Creature  - Dragon Spirit,{4}{W}{W},Rare,main
-1,Northern Paladin,Creature  - Human Knight,{2}{W}{W},Rare,sideboard
-1,Order of the Sacred Torch,Creature  - Human Knight,{1}{W}{W},Rare,sideboard
-1,Southern Paladin,Creature  - Human Knight,{2}{W}{W},Rare,sideboard
+1,Zada's Commando,Creature  - Goblin Archer Ally,{1}{R},Common,main
+1,"Zada, Hedron Grinder",Legendary Creature  - Goblin Ally,{3}{R},Uncommon,main
+1,"Zetalpa, Primal Dawn",Legendary Creature  - Elder Dinosaur,{6}{W}{W},Rare,main
 
 
 

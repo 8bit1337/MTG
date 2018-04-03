@@ -1,18 +1,15 @@
 Count,Name,Type,Cost,Rarity,Section
-1,Abhorrent Overlord,Creature  - Demon,{5}{B}{B},Rare,main
 1,Apocalypse Demon,Creature  - Demon,{4}{B}{B},Rare,main
-1,Arguel's Blood Fast,Legendary Enchantment,{1}{B},Rare,main
-1,Barter in Blood,Sorcery,{2}{B}{B},Uncommon,main
 1,Bloodfell Caves,Land,,Common,main
 1,Bone Picker,Creature  - Bird,{3}{B},Uncommon,main
 1,Bone Splinters,Sorcery,{B},Common,main
+1,Burnt Offering,Instant,{B},Common,main
 1,Butcher of Malakir,Creature  - Vampire Warrior,{5}{B}{B},Rare,main
 1,"Chandra, Flamecaller",Planeswalker  - Chandra,{4}{R}{R},MythicRare,main
 1,Cinder Barrens,Land,,Common,main
-1,Corrupt,Sorcery,{5}{B},Uncommon,main
+1,Corpse Churn,Instant,{1}{B},Common,main
 1,Dakmor Lancer,Creature  - Human Knight,{4}{B}{B},Uncommon,main
 1,Dark Hatchling,Creature  - Horror,{4}{B}{B},Rare,main
-1,Dark Ritual,Instant,{B},Common,main
 1,Dead Drop,Sorcery,{9}{B},Uncommon,main
 1,Deathgaze Cockatrice,Creature  - Cockatrice,{2}{B}{B},Common,main
 1,Delirium,Instant,{1}{B}{R},Uncommon,main
@@ -23,17 +20,17 @@ Count,Name,Type,Cost,Rarity,Section
 1,Dire Fleet Ravager,Creature  - Orc Pirate Wizard,{3}{B}{B},MythicRare,main
 1,Doomfall,Sorcery,{2}{B},Uncommon,main
 1,Evolving Wilds,Land,,Common,main
-1,Fireball,Sorcery,{X}{R},Uncommon,main
 1,Frenzied Goblin,Creature  - Goblin Berserker,{R},Common,main
 1,Goblin Balloon Brigade,Creature  - Goblin Warrior,{R},Common,main
 1,Goblin Deathraiders,Creature  - Goblin Warrior,{B}{R},Common,main
 1,Goblin Grenade,Sorcery,{R},Uncommon,main
 1,Goblin King,Creature  - Goblin,{1}{R}{R},Rare,main
+1,Goblin Matron,Creature  - Goblin,{2}{R},Uncommon,main
 1,Goblin Rabblemaster,Creature  - Goblin Warrior,{2}{R},Rare,main
 1,Goblin Recruiter,Creature  - Goblin,{1}{R},Uncommon,main
 1,Goblin Soothsayer,Creature  - Goblin Shaman,{R},Uncommon,main
 1,Goblin Warchief,Creature  - Goblin,{1}{R}{R},Uncommon,main
-1,Goblinslide,Enchantment,{2}{R},Uncommon,main
+1,Grasp of Darkness,Instant,{B}{B},Uncommon,main
 1,Graveblade Marauder,Creature  - Human Warrior,{2}{B},Rare,main
 1,Greed,Enchantment,{3}{B},Rare,main
 1,"Grenzo, Dungeon Warden",Legendary Creature  - Goblin Rogue,{X}{B}{R},Rare,main
@@ -44,38 +41,43 @@ Count,Name,Type,Cost,Rarity,Section
 1,Keepsake Gorgon,Creature  - Gorgon,{3}{B}{B},Uncommon,main
 1,"Krenko, Mob Boss",Legendary Creature  - Goblin Warrior,{2}{R}{R},Rare,main
 1,Liliana Vess,Planeswalker  - Liliana,{3}{B}{B},MythicRare,main
+1,Mana Flare,Enchantment,{2}{R},Rare,main
 1,Mogg Raider,Creature  - Goblin,{R},Common,main
 1,Mortivore,Creature  - Lhurgoyf,{2}{B}{B},Rare,main
 10,Mountain,Basic Land  - Mountain,,BasicLand,main
-1,"Neheb, the Eternal",Legendary Creature  - Zombie Minotaur Warrior,{3}{R}{R},MythicRare,main
 1,Nighthowler,Enchantment Creature  - Horror,{1}{B}{B},Rare,main
 1,"Ob Nixilis, Unshackled",Legendary Creature  - Demon,{4}{B}{B},Rare,main
 1,Paragon of Open Graves,Creature  - Skeleton Warrior,{3}{B},Uncommon,main
 1,Patron of the Nezumi,Legendary Creature  - Spirit,{5}{B}{B},Rare,main
 1,Quicksand,Land,,Uncommon,main
 1,Rakdos Guildgate,Land  - Gate,,Common,main
+1,Rakdos Signet,Artifact,{2},Uncommon,main
 1,"Rakdos, Lord of Riots",Legendary Creature  - Demon,{B}{B}{R}{R},MythicRare,main
+1,Reckless Spite,Instant,{1}{B}{B},Uncommon,main
 1,Returned Centaur,Creature  - Zombie Centaur,{3}{B},Common,main
 1,Royal Assassin,Creature  - Human Assassin,{1}{B}{B},Rare,main
 1,Rummaging Goblin,Creature  - Goblin Rogue,{2}{R},Common,main
 1,Seer's Lantern,Artifact,{3},Common,main
 1,Sentinel Totem,Artifact,{1},Uncommon,main
 1,Shadows of the Past,Enchantment,{1}{B},Uncommon,main
+1,Sol Ring,Artifact,{1},Uncommon,main
 1,Strip Mine,Land,,Uncommon,main
-1,Sunset Pyramid,Artifact,{2},Uncommon,main
-17,Swamp,Basic Land  - Swamp,,BasicLand,main
-1,Sword-Point Diplomacy,Sorcery,{2}{B},Rare,main
+16,Swamp,Basic Land  - Swamp,,BasicLand,main
+1,Temple of the False God,Land,,Uncommon,main
 1,Terramorphic Expanse,Land,,Common,main
 1,Thespian's Stage,Land,,Rare,main
 1,Tyrant of Valakut,Creature  - Dragon,{5}{R}{R},Rare,main
+1,Ulcerate,Instant,{B},Uncommon,main
 1,Uncle Istvan,Creature  - Human,{1}{B}{B}{B},Special,main
 1,Vandalblast,Sorcery,{R},Uncommon,main
+1,Vona's Hunger,Instant,{2}{B},Rare,main
 1,Warped Landscape,Land,,Common,main
 1,Warren Pilferers,Creature  - Goblin Rogue,{4}{B},Common,main
 1,Witches' Eye,Artifact  - Equipment,{1},Uncommon,main
-1,Zuran Orb,Artifact,{0},Uncommon,main
+1,Withering Boon,Instant,{1}{B},Uncommon,main
 1,Active Volcano,Instant,{R},Common,sideboard
 1,Crystal Ball,Artifact,{3},Uncommon,sideboard
+1,Flashfires,Sorcery,{3}{R},Uncommon,sideboard
 1,Pyroblast,Instant,{R},Uncommon,sideboard
 1,Red Elemental Blast,Instant,{R},Uncommon,sideboard
 
