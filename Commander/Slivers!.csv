@@ -17,12 +17,9 @@ Count,Name,Type,Cost,Rarity,Section
 1,Diminish,Instant,{U},Common,main
 1,Disenchant,Instant,{1}{W},Common,main
 1,Dismal Backwater,Land,,Common,main
-1,Dissipate,Instant,{1}{U}{U},Uncommon,main
 1,Dissolve,Instant,{1}{U}{U},Common,main
-1,Dream Fracture,Instant,{1}{U}{U},Uncommon,main
 1,Essence Sliver,Creature  - Sliver,{3}{W},Special,main
 1,Evolving Wilds,Land,,Common,main
-1,Fade into Antiquity,Sorcery,{2}{G},Common,main
 1,Fate Forgotten,Instant,{2}{W},Common,main
 1,Fellwar Stone,Artifact,{2},Uncommon,main
 1,Field of Ruin,Land,,Uncommon,main
@@ -58,6 +55,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Quick Sliver,Creature  - Sliver,{1}{G},Common,main
 1,Quicksand,Land,,Uncommon,main
 1,Reality Shift,Instant,{1}{U},Uncommon,main
+1,Regrowth,Sorcery,{1}{G},Uncommon,main
 1,Rugged Highlands,Land,,Common,main
 1,Sentinel Sliver,Creature  - Sliver,{1}{W},Common,main
 1,Shifting Sliver,Creature  - Sliver,{3}{U},Uncommon,main
@@ -71,6 +69,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Spitting Sliver,Creature  - Sliver,{4}{B},Common,main
 1,Strip Mine,Land,,Uncommon,main
 2,Swamp,Basic Land  - Swamp,,BasicLand,main
+1,Swift Reckoning,Sorcery,{1}{W},Uncommon,main
 1,Swiftwater Cliffs,Land,,Common,main
 1,Swords to Plowshares,Instant,{W},Uncommon,main
 1,Synchronous Sliver,Creature  - Sliver,{4}{U},Common,main
@@ -83,6 +82,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Thorncaster Sliver,Creature  - Sliver,{4}{R},Rare,main
 1,Thornwood Falls,Land,,Common,main
 1,Tranquil Cove,Land,,Common,main
+1,Tranquility,Sorcery,{2}{G},Common,main
 1,Transguild Promenade,Land,,Common,main
 1,Treasure Cruise,Sorcery,{7}{U},Common,main
 1,Ugin's Insight,Sorcery,{3}{U}{U},Rare,main

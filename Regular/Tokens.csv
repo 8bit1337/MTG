@@ -1,27 +1,30 @@
 Count,Name,Type,Cost,Rarity,Section
+1,Abhorrent Overlord,Creature  - Demon,{5}{B}{B},Rare,main
 2,Anointed Procession,Enchantment,{3}{W},Rare,main
-4,Anointer Priest,Creature  - Human Cleric,{1}{W},Common,main
+3,Anointer Priest,Creature  - Human Cleric,{1}{W},Common,main
+1,"Athreos, God of Passage",Legendary Enchantment Creature  - God,{1}{W}{B},MythicRare,main
 4,Bloodflow Connoisseur,Creature  - Vampire,{2}{B},Common,main
 4,Bone Splinters,Sorcery,{B},Common,main
-2,Bontu the Glorified,Legendary Creature  - God,{2}{B},MythicRare,main
-2,Cartouche of Solidarity,Enchantment  - Aura Cartouche,{W},Common,main
-2,Celestial Flare,Instant,{W}{W},Common,main
-4,Countless Gears Renegade,Creature  - Dwarf Artificer,{1}{W},Common,main
-3,Cradle of the Accursed,Land  - Desert,,Common,main
-1,Doomed Dissenter,Creature  - Human,{1}{B},Common,main
-4,Forsaken Sanctuary,Land,,Uncommon,main
+1,Bontu the Glorified,Legendary Creature  - God,{2}{B},MythicRare,main
+2,Countless Gears Renegade,Creature  - Dwarf Artificer,{1}{W},Common,main
+1,Disenchant,Instant,{1}{W},Common,main
+2,Doomed Dissenter,Creature  - Human,{1}{B},Common,main
+1,Evangel of Heliod,Creature  - Human Cleric,{4}{W}{W},Uncommon,main
+4,Evolving Wilds,Land,,Common,main
+1,Fallen Angel,Creature  - Angel,{3}{B}{B},Uncommon,main
+2,Field of Ruin,Land,,Uncommon,main
 2,Gurmag Swiftwing,Creature  - Bat,{1}{B},Uncommon,main
 1,"Heliod, God of the Sun",Legendary Enchantment Creature  - God,{3}{W},MythicRare,main
-3,Indulgent Aristocrat,Creature  - Vampire,{B},Uncommon,main
-2,Isolated Chapel,Land,,Rare,main
-2,Oketra the True,Legendary Creature  - God,{3}{W},MythicRare,main
+1,Herald of Anafenza,Creature  - Human Soldier,{W},Rare,main
+1,Immolating Glare,Instant,{1}{W},Uncommon,main
+1,Kill Shot,Instant,{2}{W},Common,main
+1,Oketra the True,Legendary Creature  - God,{3}{W},MythicRare,main
 2,Oketra's Monument,Legendary Artifact,{3},Uncommon,main
 2,Pious Evangel,Creature  - Human Cleric,{2}{W},Uncommon,main
-6,Plains,Basic Land  - Plains,,BasicLand,main
-2,Sunscorched Desert,Land  - Desert,,Common,main
-6,Swamp,Basic Land  - Swamp,,BasicLand,main
-1,Caribou Range,Enchantment  - Aura,{2}{W}{W},Rare,sideboard
-1,Corpseweft,Enchantment,{2}{B},Rare,sideboard
+7,Plains,Basic Land  - Plains,,BasicLand,main
+4,Scoured Barrens,Land,,Common,main
+2,Steward of Solidarity,Creature  - Human Warrior,{1}{W},Uncommon,main
+7,Swamp,Basic Land  - Swamp,,BasicLand,main
 
 
 

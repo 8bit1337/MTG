@@ -7,24 +7,23 @@ Count,Name,Type,Cost,Rarity,Section
 1,Defiant Greatmaw,Creature  - Hippo,{2}{G},Uncommon,main
 4,Devoted Druid,Creature  - Elf Druid,{1}{G},Common,main
 1,Devour Flesh,Instant,{1}{B},Common,main
-1,Diabolic Tutor,Sorcery,{2}{B}{B},Uncommon,main
 4,Evolving Wilds,Land,,Common,main
+1,Fade into Antiquity,Sorcery,{2}{G},Common,main
 5,Forest,Basic Land  - Forest,,BasicLand,main
 2,Foul Orchard,Land,,Uncommon,main
+2,Golgari Keyrune,Artifact,{3},Uncommon,main
 2,"Hapatra, Vizier of Poisons",Legendary Creature  - Human Cleric,{B}{G},Rare,main
-1,Hero's Downfall,Instant,{1}{B}{B},Rare,main
 4,Jungle Hollow,Land,,Common,main
 2,Nest of Scarabs,Enchantment,{2}{B},Uncommon,main
 2,Noxious Hatchling,Creature  - Elemental,{3}{BG},Uncommon,main
 1,Phyrexian Hydra,Creature - Hydra,{3}{G}{G},Rare,main
+2,Plummet,Instant,{1}{G},Common,main
 4,Quillspike,Creature  - Beast,{2}{BG},Uncommon,main
-2,Regrowth,Sorcery,{1}{G},Uncommon,main
 2,Skinrender,Creature  - Zombie,{2}{B}{B},Uncommon,main
 2,Soulstinger,Creature  - Scorpion Demon,{3}{B},Common,main
 6,Swamp,Basic Land  - Swamp,,BasicLand,main
 2,Unknown Shores,Land,,Common,main
 2,Wickerbough Elder,Creature  - Treefolk Shaman,{3}{G},Common,main
-1,Worldly Tutor,Instant,{G},Uncommon,main
 1,Armorcraft Judge,Creature  - Elf Artificer,{3}{G},Uncommon,scratchpad
 
 

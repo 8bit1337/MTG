@@ -1,30 +1,30 @@
 Count,Name,Type,Cost,Rarity,Section
-1,Baloth Null,Creature  - Zombie Beast,{4}{B}{G},Uncommon,main
+1,Ainok Artillerist,Creature  - Hound Archer,{2}{G},Common,main
+1,Barrow Ghoul,Creature  - Zombie,{1}{B},Common,main
 1,Blight Mamba,Creature  - Snake,{1}{G},Common,main
 1,Bone Splinters,Sorcery,{B},Common,main
 1,Bontu the Glorified,Legendary Creature  - God,{2}{B},MythicRare,main
 1,Bower Passage,Enchantment,{1}{G},Uncommon,main
-1,Bramblecrush,Sorcery,{2}{G}{G},Uncommon,main
-1,Carrion Call,Instant,{3}{G},Uncommon,main
-1,Core Prowler,Artifact Creature - Horror,{4},Uncommon,main
 1,Corpse Churn,Instant,{1}{B},Common,main
 1,Creeping Mold,Sorcery,{2}{G}{G},Uncommon,main
 1,Cultivate,Sorcery,{2}{G},Common,main
-1,Cystbearer,Creature  - Beast,{2}{G},Common,main
 1,Deadeye Tracker,Creature  - Human Pirate,{B},Rare,main
 1,Deathrite Shaman,Creature  - Elf Shaman,{BG},Rare,main
-1,Desecrator Hag,Creature  - Hag,{2}{BG}{BG},Common,main
+1,Desecration Demon,Creature  - Demon,{2}{B}{B},Rare,main
 1,Desert Twister,Sorcery,{4}{G}{G},Uncommon,main
+1,Diabolic Tutor,Sorcery,{2}{B}{B},Uncommon,main
 1,Dire Fleet Interloper,Creature  - Human Pirate,{3}{B},Common,main
 1,Doomgape,Creature  - Elemental,{4}{BG}{BG}{BG},Rare,main
 1,Drooling Groodion,Creature  - Beast,{3}{B}{B}{G},Uncommon,main
+1,Dusk Urchins,Creature  - Ouphe,{2}{B},Rare,main
 1,Emperor's Vanguard,Creature  - Human Scout,{3}{G},Rare,main
 1,Evolving Wilds,Land,,Common,main
+1,Exemplar of Strength,Creature  - Human Warrior,{1}{G},Uncommon,main
 1,Explore,Sorcery,{1}{G},Common,main
 1,Fade into Antiquity,Sorcery,{2}{G},Common,main
 1,Fertile Ground,Enchantment  - Aura,{1}{G},Common,main
 1,Field of Ruin,Land,,Uncommon,main
-11,Forest,Basic Land  - Forest,,BasicLand,main
+17,Forest,Basic Land  - Forest,,BasicLand,main
 1,Foul Orchard,Land,,Uncommon,main
 1,Gift of Paradise,Enchantment  - Aura,{2}{G},Common,main
 1,Glistener Elf,Creature  - Elf Warrior,{G},Common,main
@@ -32,38 +32,37 @@ Count,Name,Type,Cost,Rarity,Section
 1,Golgari Keyrune,Artifact,{3},Uncommon,main
 1,Golgari Signet,Artifact,{2},Uncommon,main
 1,Grasp of Darkness,Instant,{B}{B},Uncommon,main
-1,Harvest Season,Sorcery,{2}{G},Rare,main
+1,Hero's Downfall,Instant,{1}{B}{B},Rare,main
 1,Hissing Quagmire,Land,,Rare,main
 1,Hour of Glory,Instant,{3}{B},Rare,main
-1,Ichorclaw Myr,Artifact Creature  - Myr,{2},Common,main
+1,Hungry Mist,Creature  - Elemental,{2}{G}{G},Common,main
 1,Ixalli's Diviner,Creature  - Human Druid,{1}{G},Common,main
 1,Jungle Hollow,Land,,Common,main
 1,Korozda Gorgon,Creature  - Gorgon,{3}{B}{G},Uncommon,main
 1,Korozda Guildmage,Creature - Elf Shaman,{B}{G},Uncommon,main
 1,Llanowar Elves,Creature  - Elf Druid,{G},Common,main
 1,Lurking Chupacabra,Creature  - Beast Horror,{3}{B},Uncommon,main
+1,Master of the Feast,Enchantment Creature  - Demon,{1}{B}{B},Rare,main
 1,Merfolk Branchwalker,Creature  - Merfolk Scout,{1}{G},Uncommon,main
-1,Necropede,Artifact Creature  - Insect,{2},Uncommon,main
 1,New Horizons,Enchantment  - Aura,{2}{G},Common,main
 1,Path of Discovery,Enchantment,{3}{G},Rare,main
 1,Pharika's Mender,Creature  - Gorgon,{3}{B}{G},Uncommon,main
 1,"Pharika, God of Affliction",Legendary Enchantment Creature  - God,{1}{B}{G},MythicRare,main
-1,Phyresis,Enchantment - Aura,{1}{B},Common,main
-1,Phyrexian Digester,Artifact Creature - Construct,{3},Common,main
 1,Plague Stinger,Creature  - Insect Horror,{1}{B},Common,main
 1,"Polukranos, World Eater",Legendary Creature - Hydra,{2}{G}{G},MythicRare,main
 1,Queen's Agent,Creature  - Vampire Scout,{5}{B},Common,main
 1,Quicksand,Land,,Uncommon,main
 1,Radiant Fountain,Land,,Common,main
 1,Rampant Growth,Sorcery,{1}{G},Common,main
+1,Regrowth,Sorcery,{1}{G},Uncommon,main
 1,Rot Wolf,Creature - Wolf,{2}{G},Common,main
-1,Scourge Servant,Creature - Zombie,{4}{B},Common,main
 1,Seekers' Squire,Creature  - Human Scout,{1}{B},Uncommon,main
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Soul of Innistrad,Creature  - Avatar,{4}{B}{B},MythicRare,main
-1,Spinebiter,Creature  - Beast,{4}{G}{G},Uncommon,main
+1,Spined Fluke,Creature  - Worm Horror,{2}{B},Uncommon,main
+1,Spirespine,Enchantment Creature  - Beast,{2}{G},Uncommon,main
 1,Strip Mine,Land,,Uncommon,main
-17,Swamp,Basic Land  - Swamp,,BasicLand,main
+11,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Tel-Jilad Fallen,Creature  - Elf Warrior,{2}{G}{G},Common,main
 1,Terramorphic Expanse,Land,,Common,main
 1,Tishana's Wayfinder,Creature  - Merfolk Scout,{2}{G},Common,main
@@ -73,6 +72,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Vona's Hunger,Instant,{2}{B},Rare,main
 1,Wild Growth,Enchantment  - Aura,{G},Common,main
 1,Wildgrowth Walker,Creature  - Elemental,{1}{G},Uncommon,main
+1,Worldly Tutor,Instant,{G},Uncommon,main
 1,Phyrexian Swarmlord,Creature  - Insect Horror,{4}{G}{G},Rare,sideboard
 
 
