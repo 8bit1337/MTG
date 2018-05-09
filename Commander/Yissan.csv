@@ -2,8 +2,10 @@ Count,Name,Type,Cost,Rarity,Section
 1,Acidic Slime,Creature  - Ooze,{3}{G}{G},Uncommon,main
 1,Appetite for the Unnatural,Instant,{2}{G},Common,main
 1,Arbor Elf,Creature  - Elf Druid,{G},Common,main
-1,Artisan of Kozilek,Creature  - Eldrazi,{9},Uncommon,main
+1,Archetype of Endurance,Enchantment Creature  - Boar,{6}{G}{G},Uncommon,main
 1,Back to Nature,Instant,{1}{G},Uncommon,main
+1,Bitterblade Warrior,Creature  - Jackal Warrior,{1}{G},Common,main
+1,Bitterbow Sharpshooters,Creature  - Jackal Archer,{4}{G},Common,main
 1,Blanchwood Armor,Enchantment  - Aura,{2}{G},Uncommon,main
 1,Bow of Nylea,Legendary Enchantment Artifact,{1}{G}{G},Rare,main
 1,Carnage Wurm,Creature  - Wurm,{6}{G},Uncommon,main
@@ -11,24 +13,25 @@ Count,Name,Type,Cost,Rarity,Section
 1,Cockatrice,Creature  - Cockatrice,{3}{G}{G},Special,main
 1,Creeping Mold,Sorcery,{2}{G}{G},Uncommon,main
 1,Crocanura,Creature  - Crocodile Frog,{2}{G},Common,main
+1,Crushing Canopy,Instant,{2}{G},Common,main
 1,Crystal Ball,Artifact,{3},Uncommon,main
+1,Cultivate,Sorcery,{2}{G},Common,main
 1,Daggerback Basilisk,Creature  - Basilisk,{2}{G},Common,main
 1,Deadly Recluse,Creature  - Spider,{1}{G},Common,main
 1,Desert Twister,Sorcery,{4}{G}{G},Uncommon,main
-1,Duskdale Wurm,Creature  - Wurm,{5}{G}{G},Common,main
 1,Elder Druid,Creature  - Elf Cleric Druid,{3}{G},Rare,main
 1,Eldrazi Devastator,Creature  - Eldrazi,{8},Common,main
-1,Elixir of Immortality,Artifact,{1},Uncommon,main
 1,Elvish Hunter,Creature  - Elf Archer,{1}{G},Common,main
 1,Elvish Mystic,Creature  - Elf Druid,{G},Common,main
 1,Elvish Pioneer,Creature  - Elf Druid,{G},Common,main
 1,Eternal Witness,Creature  - Human Shaman,{1}{G}{G},Uncommon,main
 1,Evolving Wilds,Land,,Common,main
-31,Forest,Basic Land  - Forest,,BasicLand,main
+29,Forest,Basic Land  - Forest,,BasicLand,main
 1,Gaea's Liege,Creature  - Avatar,{3}{G}{G}{G},Special,main
 1,Garruk's Horde,Creature  - Beast,{5}{G}{G},Rare,main
 1,Grasslands,Land,,Uncommon,main
 1,Gyre Sage,Creature  - Elf Druid,{1}{G},Rare,main
+1,Hidden Path,Enchantment,{2}{G}{G}{G}{G},Rare,main
 1,Hurricane,Sorcery,{X}{G},Rare,main
 1,Kalonian Twingrove,Creature  - Treefolk Warrior,{5}{G},Rare,main
 1,Karametra's Acolyte,Creature  - Human Druid,{3}{G},Uncommon,main
@@ -44,9 +47,11 @@ Count,Name,Type,Cost,Rarity,Section
 1,Pharika's Disciple,Creature  - Centaur Warrior,{3}{G},Common,main
 1,Pride of Lions,Creature  - Cat,{3}{G}{G},Uncommon,main
 1,Primeval Titan,Creature  - Giant,{4}{G}{G},MythicRare,main
+1,Radiant Fountain,Land,,Common,main
 1,Reclamation Sage,Creature  - Elf Shaman,{2}{G},Uncommon,main
 1,Regrowth,Sorcery,{1}{G},Uncommon,main
 1,Revive,Sorcery,{1}{G},Common,main
+1,Rhonas's Monument,Legendary Artifact,{3},Uncommon,main
 1,Rhox,Creature  - Rhino Beast,{4}{G}{G},Rare,main
 1,Sapseep Forest,Land  - Forest,,Uncommon,main
 1,Seeker of Skybreak,Creature  - Elf,{1}{G},Common,main
@@ -55,16 +60,13 @@ Count,Name,Type,Cost,Rarity,Section
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Soul of Zendikar,Creature  - Avatar,{4}{G}{G},MythicRare,main
 1,Stingerfling Spider,Creature  - Spider,{4}{G},Uncommon,main
-1,Strength of the Pack,Sorcery,{4}{G}{G},Uncommon,main
+1,Strip Mine,Land,,Uncommon,main
 1,Terramorphic Expanse,Land,,Common,main
-1,Thorn Elemental,Creature  - Elemental,{5}{G}{G},Rare,main
-1,Thrashing Mossdog,Creature  - Plant Hound,{3}{G},Common,main
+1,Thorn Elemental,Creature  - Elemental,{5}{G}{G},Uncommon,main
 1,Titania's Chosen,Creature  - Elf Archer,{2}{G},Uncommon,main
-1,Traveler's Amulet,Artifact,{1},Common,main
 1,Tribute to the Wild,Instant,{1}{G},Uncommon,main
 1,Venom,Enchantment  - Aura,{1}{G}{G},Common,main
 1,Vine Trellis,Creature  - Plant Wall,{1}{G},Common,main
-1,Voyaging Satyr,Creature  - Satyr Druid,{1}{G},Common,main
 1,Walker of the Grove,Creature  - Elemental,{6}{G}{G},Uncommon,main
 1,Wild Growth,Enchantment  - Aura,{G},Common,main
 1,"Yisan, the Wanderer Bard",Legendary Creature  - Human Rogue,{2}{G},Rare,main

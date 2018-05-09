@@ -8,21 +8,22 @@ Count,Name,Type,Cost,Rarity,Section
 2,Fathom Fleet Captain,Creature  - Human Pirate,{1}{B},Rare,main
 2,Fathom Fleet Cutthroat,Creature  - Human Pirate,{3}{B},Common,main
 2,Fell Flagship,Artifact  - Vehicle,{3},Rare,main
-3,Forest,Basic Land  - Forest,,BasicLand,main
+2,Forest,Basic Land  - Forest,,BasicLand,main
 5,Island,Basic Land  - Island,,BasicLand,main
 3,Kitesail Freebooter,Creature  - Human Pirate,{1}{B},Uncommon,main
 4,Opulent Palace,Land,,Uncommon,main
 2,Pirate Ship,Creature  - Human Pirate,{4}{U},Special,main
+2,Pirate's Cutlass,Artifact  - Equipment,{3},Common,main
 1,Pitiless Plunderer,Creature  - Human Pirate,{3}{B},Uncommon,main
 2,Prosperous Pirates,Creature  - Human Pirate,{4}{U},Common,main
 2,Prying Blade,Artifact  - Equipment,{1},Common,main
-1,Revel in Riches,Enchantment,{4}{B},Rare,main
 2,Sailor of Means,Creature  - Human Pirate,{2}{U},Common,main
 2,Shipwreck Looter,Creature  - Human Pirate,{1}{U},Common,main
 5,Swamp,Basic Land  - Swamp,,BasicLand,main
 3,Terramorphic Expanse,Land,,Common,main
 1,Treasure Map,Artifact,{2},Rare,main
 1,"Vraska, Relic Seeker",Legendary Planeswalker  - Vraska,{4}{B}{G},MythicRare,main
+1,Revel in Riches,Enchantment,{4}{B},Rare,sideboard
 
 
 
