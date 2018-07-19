@@ -9,8 +9,13 @@ from sys import argv as sys_argv
 from csv import DictReader
 from random import shuffle
 
+#For plotting the bar charts of possible land counts
+import numpy as np
+import matplotlib.pyplot as plt
+import plotly.plotly as py
+
 def main(argv):
-  file=open('Commander\Slivers!.csv', newline='')
+  file=open('Regular\Stasis.csv', newline='')
   allrows = DictReader(file)
   
   deck=[]
@@ -30,15 +35,26 @@ def main(argv):
       i+=1
   
   file.close()
+    
+  counts=np.zeros(8, dtype=int)
+  land=0
+  iterations=10000
+  for i in range(0,iterations):
+    shuffle(deck)
+    count=0
+    for c in range (0,7):
+      if deck[c][:4]=='Land':
+        count+=1
+    counts[count]+=1
+    land+=count
   
-  n=len(deck)
   
-  shuffle(deck)
-  for i in range (0,int(n/10)):
-    for j in range (0, 10):
-      print('   '+deck[10*i+j])
-    print('   -----')
-  print('')  
+  counts=counts/iterations
+  plt.bar(range(8), counts, .75, color="blue")
+  for i in range(8):
+    plt.text(i-.2, counts[i]+.002, "{0:.0%}".format(counts[i]))
+
+  plt.text(6.5, max(counts)-.002, 'Avg: ' + str(round(land/iterations,1)))
   
   
   return True
