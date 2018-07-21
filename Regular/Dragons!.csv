@@ -1,14 +1,12 @@
 Count,Name,Type,Cost,Rarity,Section
 2,Bladewing the Risen,Legendary Creature  - Zombie Dragon,{3}{B}{B}{R}{R},Uncommon,main
 4,Bloodfell Caves,Land,,Common,main
-2,Brood Keeper,Creature  - Human Shaman,{3}{R},Uncommon,main
-1,Buried Ruin,Land,,Uncommon,main
 1,Catacomb Dragon,Creature  - Dragon,{4}{B}{B},Rare,main
+4,Contract Killing,Sorcery,{3}{B}{B},Common,main
 1,Crucible of the Spirit Dragon,Land,,Rare,main
 1,Dictate of Erebos,Enchantment,{3}{B}{B},Rare,main
 1,Dictate of the Twin Gods,Enchantment,{3}{R}{R},Rare,main
-2,Draconic Roar,Instant,{1}{R},Common,main
-2,Dragon Egg,Creature  - Dragon,{2}{R},Common,main
+3,Dragon Egg,Creature  - Dragon,{2}{R},Uncommon,main
 1,Dragon Hatchling,Creature  - Dragon,{1}{R},Common,main
 1,Dragon Tempest,Enchantment,{1}{R},Uncommon,main
 4,Dragonlord's Servant,Creature  - Goblin Shaman,{1}{R},Common,main
@@ -16,21 +14,28 @@ Count,Name,Type,Cost,Rarity,Section
 2,Furnace Whelp,Creature  - Dragon,{2}{R}{R},Common,main
 2,Hoarding Dragon,Creature  - Dragon,{3}{R}{R},Uncommon,main
 1,Kolaghan Monument,Artifact,{3},Uncommon,main
-2,Lightning Bolt,Instant,{R},Uncommon,main
-9,Mountain,Basic Land  - Mountain,,BasicLand,main
+1,Mana Flare,Enchantment,{2}{R},Rare,main
+8,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Noxious Dragon,Creature  - Dragon,{4}{B}{B},Uncommon,main
+1,Pillar of Origins,Artifact,{2},Uncommon,main
 1,Rakdos Keyrune,Artifact,{3},Uncommon,main
-2,Shivan Dragon,Creature  - Dragon,{4}{R}{R},Rare,main
-1,Skyblinder Staff,Artifact  - Equipment,{1},Common,main
+1,Shivan Dragon,Creature  - Dragon,{4}{R}{R},Rare,main
+2,Skyblinder Staff,Artifact  - Equipment,{1},Common,main
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Spawn of Thraxes,Creature  - Dragon,{5}{R}{R},Rare,main
-1,Star Compass,Artifact,{2},Common,main
 1,Sunbird's Invocation,Enchantment,{5}{R},Rare,main
 5,Swamp,Basic Land  - Swamp,,BasicLand,main
-3,Terramorphic Expanse,Land,,Common,main
+2,Terramorphic Expanse,Land,,Common,main
 1,Thran Dynamo,Artifact,{4},Uncommon,main
+1,Thundermaw Hellkite,Creature  - Dragon,{3}{R}{R},MythicRare,main
 1,Twinflame,Sorcery,{1}{R},Rare,main
+1,Urza's Mine,Land  - Urza’s Mine,,Uncommon,main
+1,Urza's Power Plant,Land  - Urza’s Power-Plant,,Uncommon,main
+1,Urza's Tower,Land  - Urza’s Tower,,Uncommon,main
 1,Utvara Hellkite,Creature  - Dragon,{6}{R}{R},MythicRare,main
+2,Draconic Roar,Instant,{1}{R},Common,sideboard
+2,Lightning Bolt,Instant,{R},Uncommon,sideboard
+1,Star Compass,Artifact,{2},Common,sideboard
 
 
 

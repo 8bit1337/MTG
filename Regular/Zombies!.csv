@@ -7,7 +7,7 @@ Count,Name,Type,Cost,Rarity,Section
 2,Disenchant,Instant,{1}{W},Common,main
 1,Empty the Pits,Instant,{X}{X}{B}{B}{B}{B},MythicRare,main
 2,Evolving Wilds,Land,,Common,main
-4,Forsaken Sanctuary,Land,,Uncommon,main
+4,Forsaken Sanctuary,Land,,Common,main
 2,Gravedigger,Creature  - Zombie,{3}{B},Uncommon,main
 4,Lord of the Accursed,Creature  - Zombie,{2}{B},Uncommon,main
 1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,main

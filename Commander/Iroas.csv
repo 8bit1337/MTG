@@ -10,10 +10,10 @@ Count,Name,Type,Cost,Rarity,Section
 1,Bladed Pinions,Artifact  - Equipment,{2},Common,main
 1,Blood Sun,Enchantment,{2}{R},Rare,main
 1,Boros Charm,Instant,{R}{W},Uncommon,main
-1,Boros Garrison,Land,,Uncommon,main
+1,Boros Garrison,Land,,Common,main
 1,Boros Guildgate,Land  - Gate,,Common,main
 1,Boros Keyrune,Artifact,{3},Uncommon,main
-1,Boros Signet,Artifact,{2},Uncommon,main
+1,Boros Signet,Artifact,{2},Common,main
 1,Brave the Sands,Enchantment,{1}{W},Uncommon,main
 1,Captain Lannery Storm,Legendary Creature  - Human Pirate,{2}{R},Rare,main
 1,Captain's Claws,Artifact  - Equipment,{2},Rare,main
@@ -38,7 +38,6 @@ Count,Name,Type,Cost,Rarity,Section
 2,Goring Ceratops,Creature  - Dinosaur,{5}{W}{W},Rare,main
 1,Grand Abolisher,Creature - Human Cleric,{W}{W},Rare,main
 1,Helm of the Host,Legendary Artifact  - Equipment,{4},Rare,main
-1,Hold the Gates,Enchantment,{2}{W},Uncommon,main
 1,Honored Crop-Captain,Creature  - Human Warrior,{R}{W},Uncommon,main
 1,Immolating Glare,Instant,{1}{W},Uncommon,main
 1,Intrepid Hero,Creature  - Human Soldier,{2}{W},Rare,main
@@ -53,6 +52,7 @@ Count,Name,Type,Cost,Rarity,Section
 6,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Needle Spires,Land,,Rare,main
 1,Pacifism,Enchantment  - Aura,{1}{W},Common,main
+1,Path of Bravery,Enchantment,{2}{W},Rare,main
 1,Path to Exile,Instant,{W},Uncommon,main
 1,Pillage,Sorcery,{1}{R}{R},Common,main
 13,Plains,Basic Land  - Plains,,BasicLand,main
@@ -67,7 +67,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Spear of Heliod,Legendary Enchantment Artifact,{1}{W}{W},Rare,main
 1,Stone Haven Outfitter,Creature  - Kor Artificer Ally,{1}{W},Rare,main
-1,Stone Quarry,Land,,Uncommon,main
+1,Stone Quarry,Land,,Common,main
 1,Strip Mine,Land,,Uncommon,main
 1,Sun Titan,Creature  - Giant,{4}{W}{W},MythicRare,main
 1,Sunscorched Desert,Land  - Desert,,Common,main
