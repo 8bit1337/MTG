@@ -1,6 +1,7 @@
 Count,Name,Type,Cost,Rarity,Section
-4,Binding Mummy,Creature  - Zombie,{1}{W},Common,main
+2,Binding Mummy,Creature  - Zombie,{1}{W},Common,main
 1,Call to the Grave,Enchantment,{4}{B},Rare,main
+3,Carrion Crow,Creature  - Zombie Bird,{2}{B},Common,main
 2,Cradle of the Accursed,Land  - Desert,,Common,main
 2,Dark Ritual,Instant,{B},Common,main
 2,Disenchant,Instant,{1}{W},Common,main
@@ -9,10 +10,9 @@ Count,Name,Type,Cost,Rarity,Section
 4,Forsaken Sanctuary,Land,,Uncommon,main
 2,Gravedigger,Creature  - Zombie,{3}{B},Uncommon,main
 4,Lord of the Accursed,Creature  - Zombie,{2}{B},Uncommon,main
-2,Mummy Paramount,Creature  - Zombie,{1}{W},Common,main
+1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,main
 2,Noxious Ghoul,Creature  - Zombie,{3}{B}{B},Uncommon,main
-2,Orzhov Basilica,Land,,Uncommon,main
-3,Orzhov Guildgate,Land  - Gate,,Common,main
+4,Orzhov Guildgate,Land  - Gate,,Common,main
 4,Plains,Basic Land  - Plains,,BasicLand,main
 1,Radiant Destiny,Enchantment,{2}{W},Rare,main
 1,Rancid Rats,Creature  - Zombie Rat,{1}{B},Common,main
@@ -21,17 +21,9 @@ Count,Name,Type,Cost,Rarity,Section
 5,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Syphon Flesh,Sorcery,{4}{B},Uncommon,main
 4,Time to Reflect,Instant,{W},Uncommon,main
+1,"Urborg, Tomb of Yawgmoth",Legendary Land,,Rare,main
 4,Wayward Servant,Creature  - Zombie,{W}{B},Uncommon,main
 4,Zombie Master,Creature  - Zombie,{1}{B}{B},Rare,main
-1,End Hostilities,Sorcery,{3}{W}{W},Rare,sideboard
-2,Fan Bearer,Creature  - Zombie,{W},Common,sideboard
-1,Fleshbag Marauder,Creature  - Zombie Warrior,{2}{B},Uncommon,sideboard
-1,Merciless Eviction,Sorcery,{4}{W}{B},Rare,sideboard
-2,Mummy Paramount,Creature  - Zombie,{1}{W},Common,sideboard
-1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,sideboard
-1,Rise from the Grave,Sorcery,{4}{B},Uncommon,sideboard
-1,Skinrender,Creature  - Zombie,{2}{B}{B},Uncommon,sideboard
-1,Utter End,Instant,{2}{W}{B},Rare,sideboard
 
 
 
