@@ -12,10 +12,10 @@ from random import shuffle
 #For plotting the bar charts of possible land counts
 import numpy as np
 import matplotlib.pyplot as plt
-import plotly.plotly as py
 
 def main(argv):
-  file=open('Precon\Wade Into Battle.csv', newline='')
+#  file=open('Precon\Breed Lethality.csv', newline='')
+  file=open('Regular\Stasis.csv', newline='')
   allrows = DictReader(file)
   
   deck=[]
