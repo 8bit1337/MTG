@@ -15,18 +15,20 @@ import matplotlib.pyplot as plt
 import plotly.plotly as py
 
 def main(argv):
-  file=open('Regular\Stasis.csv', newline='')
+  file=open('Precon\Wade Into Battle.csv', newline='')
   allrows = DictReader(file)
   
   deck=[]
-  
+  lands=0
   for row in allrows:
     i=0
+    
     while i<int(row['Count']):
       if 'Creature' in row['Type']:
         typ='Creature'
       elif 'Land' in row['Type']:
         typ='Land'
+        lands+=1
       else:
         typ=row['Type']
         
@@ -54,7 +56,9 @@ def main(argv):
   for i in range(8):
     plt.text(i-.2, counts[i]+.002, "{0:.0%}".format(counts[i]))
 
-  plt.text(6.5, max(counts)-.002, 'Avg: ' + str(round(land/iterations,1)))
+  plt.text(6.5, max(counts)-.002, 'Land: ' + str(lands))
+  plt.text(6.5, max(counts)-.027, 'Avg: ' + str(round(land/iterations,1)))
+  
   
   
   return True
