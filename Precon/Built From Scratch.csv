@@ -1,0 +1,77 @@
+Count,Name,Type,Cost,Rarity,Section
+1,Arcane Lighthouse,Land,,Uncommon,main
+1,Beetleback Chief,Creature  - Goblin Warrior,{2}{R}{R},Uncommon,main
+1,Bitter Feud,Enchantment,{4}{R},Rare,main
+1,Blasphemous Act,Sorcery,{8}{R},Rare,main
+1,Bogardan Hellkite,Creature  - Dragon,{6}{R}{R},MythicRare,main
+1,"Bosh, Iron Golem",Legendary Artifact Creature  - Golem,{8},Rare,main
+1,Bottle Gnomes,Artifact Creature  - Gnome,{3},Uncommon,main
+1,Buried Ruin,Land,,Uncommon,main
+1,Caged Sun,Artifact,{6},Rare,main
+1,Cathodion,Artifact Creature  - Construct,{3},Uncommon,main
+1,Chaos Warp,Instant,{2}{R},Rare,main
+1,Commander's Sphere,Artifact,{3},Common,main
+1,"Daretti, Scrap Savant",Planeswalker  - Daretti,{3}{R},MythicRare,main
+1,Darksteel Citadel,Artifact Land,,Uncommon,main
+1,Dormant Volcano,Land,,Uncommon,main
+1,Dreamstone Hedron,Artifact,{6},Uncommon,main
+1,Dualcaster Mage,Creature  - Human Wizard,{1}{R}{R},Rare,main
+1,Epochrasite,Artifact Creature  - Construct,{2},Rare,main
+1,Everflowing Chalice,Artifact,{0},Uncommon,main
+1,Faithless Looting,Sorcery,{R},Common,main
+1,Feldon of the Third Path,Legendary Creature  - Human Artificer,{1}{R}{R},MythicRare,main
+1,Fire Diamond,Artifact,{2},Uncommon,main
+1,Flamekin Village,Land,,Rare,main
+1,Flametongue Kavu,Creature  - Kavu,{3}{R},Uncommon,main
+1,Forgotten Cave,Land,,Common,main
+1,Ghost Quarter,Land,,Uncommon,main
+1,Goblin Welder,Creature  - Goblin Artificer,{R},Rare,main
+1,Great Furnace,Artifact Land,,Common,main
+1,Hoard-Smelter Dragon,Creature  - Dragon,{4}{R}{R},Rare,main
+1,Ichor Wellspring,Artifact,{2},Common,main
+1,Impact Resonance,Instant,{1}{R},Rare,main
+1,Incite Rebellion,Sorcery,{4}{R}{R},Rare,main
+1,Ingot Chewer,Creature  - Elemental,{4}{R},Common,main
+1,Jalum Tome,Artifact,{3},Rare,main
+1,Junk Diver,Artifact Creature  - Bird,{3},Rare,main
+1,Liquimetal Coating,Artifact,{2},Uncommon,main
+1,Loreseeker's Stone,Artifact,{6},Uncommon,main
+1,Magmaquake,Instant,{X}{R}{R},Rare,main
+1,Mind Stone,Artifact,{2},Uncommon,main
+29,Mountain,Basic Land  - Mountain,,BasicLand,main
+1,Mycosynth Wellspring,Artifact,{2},Common,main
+1,Myr Battlesphere,Artifact Creature  - Myr Construct,{7},Rare,main
+1,Myr Retriever,Artifact Creature  - Myr,{2},Uncommon,main
+1,Myr Sire,Artifact Creature - Myr,{2},Common,main
+1,Palladium Myr,Artifact Creature  - Myr,{3},Uncommon,main
+1,Panic Spellbomb,Artifact,{1},Common,main
+1,Pentavus,Artifact Creature  - Construct,{7},Rare,main
+1,Phyrexia's Core,Land,,Uncommon,main
+1,Pilgrim's Eye,Artifact Creature  - Thopter,{3},Common,main
+1,Pristine Talisman,Artifact,{3},Common,main
+1,Reliquary Tower,Land,,Uncommon,main
+1,Ruby Medallion,Artifact,{2},Rare,main
+1,Scrap Mastery,Sorcery,{3}{R}{R},Rare,main
+1,Smoldering Crater,Land,,Common,main
+1,Sol Ring,Artifact,{1},Uncommon,main
+1,Solemn Simulacrum,Artifact Creature  - Golem,{4},Rare,main
+1,Spine of Ish Sah,Artifact,{7},Rare,main
+1,Spitebellows,Creature  - Elemental,{5}{R},Uncommon,main
+1,Starstorm,Instant,{X}{R}{R},Rare,main
+1,Steel Hellkite,Artifact Creature  - Dragon,{6},Rare,main
+1,Swiftfoot Boots,Artifact  - Equipment,{2},Uncommon,main
+1,Temple of the False God,Land,,Uncommon,main
+1,Trading Post,Artifact,{4},Rare,main
+1,Tuktuk the Explorer,Legendary Creature  - Goblin,{2}{R},Rare,main
+1,Tyrant's Familiar,Creature  - Dragon,{5}{R}{R},Rare,main
+1,Unstable Obelisk,Artifact,{3},Uncommon,main
+1,Volcanic Offering,Instant,{4}{R},Rare,main
+1,Warmonger Hellkite,Creature  - Dragon,{4}{R}{R},Rare,main
+1,Wayfarer's Bauble,Artifact,{1},Common,main
+1,Whipflare,Sorcery,{1}{R},Uncommon,main
+1,Word of Seizing,Instant,{3}{R}{R},Rare,main
+1,Wurmcoil Engine,Artifact Creature  - Wurm,{6},MythicRare,main
+
+
+
+
