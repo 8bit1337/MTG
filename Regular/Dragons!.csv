@@ -24,17 +24,16 @@ Count,Name,Type,Cost,Rarity,Section
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Spawn of Thraxes,Creature  - Dragon,{5}{R}{R},Rare,main
 1,Sunbird's Invocation,Enchantment,{5}{R},Rare,main
-5,Swamp,Basic Land  - Swamp,,BasicLand,main
-2,Terramorphic Expanse,Land,,Common,main
+4,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Thran Dynamo,Artifact,{4},Uncommon,main
 1,Thundermaw Hellkite,Creature  - Dragon,{3}{R}{R},MythicRare,main
 1,Twinflame,Sorcery,{1}{R},Rare,main
-1,Urza's Mine,Land  - Urza’s Mine,,Uncommon,main
-1,Urza's Power Plant,Land  - Urza’s Power-Plant,,Uncommon,main
-1,Urza's Tower,Land  - Urza’s Tower,,Uncommon,main
+1,Urza's Incubator,Artifact,{3},Rare,main
+2,Urza's Mine,Land  - Urza’s Mine,,Uncommon,main
+2,Urza's Power Plant,Land  - Urza’s Power-Plant,,Uncommon,main
+2,Urza's Tower,Land  - Urza’s Tower,,Uncommon,main
 1,Utvara Hellkite,Creature  - Dragon,{6}{R}{R},MythicRare,main
 2,Draconic Roar,Instant,{1}{R},Common,sideboard
-2,Lightning Bolt,Instant,{R},Uncommon,sideboard
 1,Star Compass,Artifact,{2},Common,sideboard
 
 
