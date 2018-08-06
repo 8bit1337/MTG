@@ -15,6 +15,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Harsh Scrutiny,Sorcery,{B},Uncommon,main
 3,Hypnotic Specter,Creature  - Specter,{1}{B}{B},Rare,main
 3,Island,Basic Land  - Island,,BasicLand,main
+1,Liliana Vess,Planeswalker  - Liliana,{3}{B}{B},MythicRare,main
 1,Liliana's Caress,Enchantment,{1}{B},Uncommon,main
 2,Liliana's Specter,Creature  - Specter,{1}{B}{B},Common,main
 1,Megrim,Enchantment,{2}{B},Uncommon,main
