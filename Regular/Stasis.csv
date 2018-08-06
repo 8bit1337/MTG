@@ -37,6 +37,7 @@ Count,Name,Type,Cost,Rarity,Section
 2,Zephyr Falcon,Creature  - Bird,{1}{U},Common,main
 1,Archangel,Creature  - Angel,{5}{W}{W},Uncommon,sideboard
 1,Ardent Militia,Creature  - Human Soldier,{4}{W},Uncommon,sideboard
+1,Dawnglare Invoker,Creature  - Kor Wizard,{2}{W},Common,sideboard
 1,Dragon Bell Monk,Creature  - Human Monk,{2}{W},Common,sideboard
 1,Eagle of the Watch,Creature  - Bird,{2}{W},Common,sideboard
 1,Ghostly Sentinel,Creature  - Kor Spirit,{4}{W},Common,sideboard

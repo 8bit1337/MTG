@@ -1,21 +1,24 @@
 Count,Name,Type,Cost,Rarity,Section
-4,Aether Poisoner,Creature  - Human Artificer,{1}{B},Common,main
+2,Aether Poisoner,Creature  - Human Artificer,{1}{B},Common,main
 2,Aether Swooper,Creature  - Vedalken Artificer,{1}{U},Common,main
-2,Aether Theorist,Creature  - Vedalken Rogue,{1}{U},Common,main
+1,Aether Theorist,Creature  - Vedalken Rogue,{1}{U},Common,main
 1,Aethersquall Ancient,Creature  - Leviathan,{5}{U}{U},Rare,main
+1,Aetherworks Marvel,Legendary Artifact,{4},MythicRare,main
 4,Cancel,Instant,{1}{U}{U},Common,main
 1,Chief Engineer,Creature  - Vedalken Artificer,{1}{U},Rare,main
 2,Confiscation Coup,Sorcery,{3}{U}{U},Rare,main
 2,Consulate Turret,Artifact,{3},Common,main
 1,Deadlock Trap,Artifact,{3},Rare,main
 2,Decoction Module,Artifact,{2},Uncommon,main
-2,Dimir Aqueduct,Land,,Common,main
+1,Demon of Dark Schemes,Creature  - Demon,{3}{B}{B}{B},MythicRare,main
+2,Dimir Aqueduct,Land,,Uncommon,main
 4,Dismal Backwater,Land,,Common,main
 2,Era of Innovation,Enchantment,{1}{U},Uncommon,main
 4,Evolving Wilds,Land,,Common,main
 1,Fabrication Module,Artifact,{3},Uncommon,main
-1,Glassblower's Puzzleknot,Artifact,{2},Common,main
-2,Glimmer of Genius,Instant,{3}{U},Uncommon,main
+1,Glimmer of Genius,Instant,{3}{U},Uncommon,main
+2,Glint-Sleeve Siphoner,Creature  - Human Rogue,{1}{B},Rare,main
+1,Gonti's Aether Heart,Legendary Artifact,{6},MythicRare,main
 2,Gonti's Machinations,Enchantment,{B},Uncommon,main
 9,Island,Basic Land  - Island,,BasicLand,main
 2,Janjeet Sentry,Creature  - Vedalken Soldier,{2}{U},Uncommon,main
@@ -27,12 +30,9 @@ Count,Name,Type,Cost,Rarity,Section
 1,Shielded Aether Thief,Creature  - Vedalken Rogue,{1}{U},Uncommon,main
 4,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Aether Meltdown,Enchantment  - Aura,{1}{U},Uncommon,sideboard
-1,Aetherworks Marvel,Legendary Artifact,{4},MythicRare,sideboard
-1,Demon of Dark Schemes,Creature  - Demon,{3}{B}{B}{B},MythicRare,sideboard
 1,Dynavolt Tower,Artifact,{3},Rare,sideboard
 1,Fabrication Module,Artifact,{3},Uncommon,sideboard
-2,Glint-Sleeve Siphoner,Creature  - Human Rogue,{1}{B},Rare,sideboard
-1,Gonti's Aether Heart,Legendary Artifact,{6},MythicRare,sideboard
+1,Glassblower's Puzzleknot,Artifact,{2},Common,sideboard
 1,Thriving Rats,Creature  - Rat,{1}{B},Common,sideboard
 1,Thriving Turtle,Creature  - Turtle,{U},Common,sideboard
 1,Weaponcraft Enthusiast,Creature  - Aetherborn Artificer,{2}{B},Uncommon,sideboard

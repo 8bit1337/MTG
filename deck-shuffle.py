@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 def main(argv):
 #  file=open('Precon\Breed Lethality.csv', newline='')
-  file=open('Regular\Dragons!.csv', newline='')
+  file=open('Regular\Zombies!.csv', newline='')
   allrows = DictReader(file)
   
   deck=[]
