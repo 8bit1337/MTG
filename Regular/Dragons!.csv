@@ -23,6 +23,7 @@ Count,Name,Type,Cost,Rarity,Section
 2,Skyblinder Staff,Artifact  - Equipment,{1},Common,main
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Spawn of Thraxes,Creature  - Dragon,{5}{R}{R},Rare,main
+1,Stone Calendar,Artifact,{5},Rare,main
 1,Sunbird's Invocation,Enchantment,{5}{R},Rare,main
 4,Swamp,Basic Land  - Swamp,,BasicLand,main
 1,Thran Dynamo,Artifact,{4},Uncommon,main

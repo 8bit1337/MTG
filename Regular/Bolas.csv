@@ -3,7 +3,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Blizzard Specter,Snow Creature  - Specter,{2}{U}{B},Uncommon,main
 3,Bloodfell Caves,Land,,Common,main
 1,Breathstealer's Crypt,Enchantment,{2}{U}{B},Rare,main
-1,Call to the Netherworld,Sorcery,{B},Common,main
+1,Chromatic Star,Artifact,{1},Uncommon,main
 3,Counterspell,Instant,{U}{U},Common,main
 1,Crypt of the Eternals,Land,,Uncommon,main
 1,Dark Intimations,Sorcery,{2}{U}{B}{R},Rare,main
@@ -11,6 +11,7 @@ Count,Name,Type,Cost,Rarity,Section
 2,Disciple of Phenax,Creature  - Human Cleric,{2}{B}{B},Common,main
 4,Dismal Backwater,Land,,Common,main
 1,Dream Salvage,Instant,{UB},Uncommon,main
+1,Gilded Lotus,Artifact,{5},Rare,main
 2,Grisly Spectacle,Instant,{2}{B}{B},Common,main
 1,Harsh Scrutiny,Sorcery,{B},Uncommon,main
 3,Hypnotic Specter,Creature  - Specter,{1}{B}{B},Rare,main
@@ -18,7 +19,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Liliana Vess,Planeswalker  - Liliana,{3}{B}{B},MythicRare,main
 1,Liliana's Caress,Enchantment,{1}{B},Uncommon,main
 2,Liliana's Specter,Creature  - Specter,{1}{B}{B},Common,main
-1,Megrim,Enchantment,{2}{B},Uncommon,main
 1,Miasmic Mummy,Creature  - Zombie Jackal,{1}{B},Common,main
 2,Mountain,Basic Land  - Mountain,,BasicLand,main
 1,Nicol Bolas,Legendary Creature  - Elder Dragon,{2}{U}{U}{B}{B}{R}{R},Rare,main
@@ -28,10 +28,11 @@ Count,Name,Type,Cost,Rarity,Section
 1,Scythe Specter,Creature  - Specter,{4}{B}{B},Rare,main
 1,Serum Raker,Creature - Drake,{2}{U}{U},Common,main
 1,Sibsig Icebreakers,Creature  - Zombie,{2}{B},Common,main
+1,Sol Ring,Artifact,{1},Uncommon,main
+1,Stone Calendar,Artifact,{5},Rare,main
 10,Swamp,Basic Land  - Swamp,,BasicLand,main
 2,Swiftwater Cliffs,Land,,Common,main
 1,The Eldest Reborn,Enchantment  - Saga,{4}{B},Uncommon,main
-1,The Rack,Artifact,{1},Special,main
 1,Thoughtrender Lamia,Enchantment Creature  - Lamia,{4}{B}{B},Uncommon,main
 1,Tolarian Sentinel,Creature  - Human Spellshaper,{3}{U},Common,main
 1,Torment of Scarabs,Enchantment  - Aura Curse,{3}{B},Uncommon,main
@@ -39,29 +40,10 @@ Count,Name,Type,Cost,Rarity,Section
 1,"Urgoros, the Empty One",Legendary Creature  - Specter,{4}{B}{B},Uncommon,main
 1,Waste Not,Enchantment,{1}{B},Rare,main
 2,Wasteland Scorpion,Creature  - Scorpion,{2}{B},Common,main
-1,Whispering Madness,Sorcery,{2}{U}{B},Rare,main
-1,Ashiok's Adept,Creature  - Human Wizard,{2}{B},Uncommon,sideboard
-1,Assassin's Strike,Sorcery,{4}{B}{B},Uncommon,sideboard
-1,Blast of Genius,Sorcery,{4}{U}{R},Uncommon,sideboard
-1,Compelling Argument,Sorcery,{1}{U},Common,sideboard
-1,Dark Deal,Sorcery,{2}{B},Uncommon,sideboard
-1,Disciple of Deceit,Creature  - Human Rogue,{U}{B},Uncommon,sideboard
-1,Library of Leng,Artifact,{1},Uncommon,sideboard
-2,Lightning Bolt,Instant,{R},Uncommon,sideboard
-2,Millstone,Artifact,{2},Uncommon,sideboard
-1,Mind Bomb,Sorcery,{U},Uncommon,sideboard
-1,Mind Ravel,Sorcery,{2}{B},Common,sideboard
-1,Mind Rot,Sorcery,{2}{B},Common,sideboard
-1,Monomania,Sorcery,{3}{B}{B},Rare,sideboard
-1,Razaketh's Rite,Sorcery,{3}{B}{B},Uncommon,sideboard
-1,Scarab Feast,Instant,{B},Common,sideboard
-1,Screeching Buzzard,Creature  - Bird,{3}{B},Common,sideboard
-1,Seer of the Last Tomorrow,Creature  - Naga Cleric,{2}{U},Common,sideboard
-1,Skull Rend,Sorcery,{3}{B}{R},Common,sideboard
-1,Tragic Lesson,Instant,{2}{U},Common,sideboard
-1,Waking Nightmare,Sorcery  - Arcane,{2}{B},Common,sideboard
-1,Windfall,Sorcery,{2}{U},Uncommon,sideboard
-1,Wrench Mind,Sorcery,{B}{B},Common,sideboard
+1,Call to the Netherworld,Sorcery,{B},Common,sideboard
+1,Megrim,Enchantment,{2}{B},Uncommon,sideboard
+1,The Rack,Artifact,{1},Special,sideboard
+1,Whispering Madness,Sorcery,{2}{U}{B},Rare,sideboard
 
 
 
