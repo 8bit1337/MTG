@@ -19,7 +19,7 @@ def main(argv):
   allrows = DictReader(file)
   
   deck=[]
-  lands=0
+  landcount=0
   for row in allrows:
     i=0
     
@@ -28,7 +28,7 @@ def main(argv):
         typ='Creature'
       elif 'Land' in row['Type']:
         typ='Land'
-        lands+=1
+        landcount+=1
       else:
         typ=row['Type']
         
@@ -37,27 +37,48 @@ def main(argv):
       i+=1
   
   file.close()
-    
-  counts=np.zeros(8, dtype=int)
+
   land=0
-  iterations=10000
+  iterations=20000
+  tarmana=5
+  opencount=np.zeros(8, dtype=int)
+  targetlands=np.zeros(8, dtype=int)
+
   for i in range(0,iterations):
     shuffle(deck)
     count=0
     for c in range (0,7):
       if deck[c][:4]=='Land':
         count+=1
-    counts[count]+=1
+    opencount[count]+=1
     land+=count
+    
+    draw=0
+    while count<tarmana:
+      c+=1
+      draw+=1
+      
+      if deck[c][:4]=='Land':
+        count+=1
+      
+    if draw>7:
+      draw=7
+    targetlands[draw]+=1
   
-  
-  counts=counts/iterations
-  plt.bar(range(8), counts, .75, color="blue")
-  for i in range(8):
-    plt.text(i-.2, counts[i]+.002, "{0:.0%}".format(counts[i]))
+  opencount=opencount/iterations
 
-  plt.text(6.5, max(counts)-.002, 'Land: ' + str(lands))
-  plt.text(6.5, max(counts)-.027, 'Avg: ' + str(round(land/iterations,1)))
+  #draw a graph of haw much mana we get in the first hand
+  plt.bar(range(len(opencount)), opencount, .75, color="blue", index=1)
+  for i in range(8):
+    plt.text(i-.2, opencount[i]+.002, "{0:.0%}".format(opencount[i]))
+
+  plt.text(6.5, max(opencount)-.002, 'Land: ' + str(landcount))
+  plt.text(6.5, max(opencount)-.027, 'Avg: ' + str(round(land/iterations,1)))
+  
+  #draw a graph of how long it takes to get to our target mana figure
+  plt.bar(range(len(targetlands)), targetlands, .75, color="red", index=2)
+  for i in range(len(targetlands)):
+    plt.text(i-.2, targetlands[i]+.002, "{0:.0%}".format(targetlands[i]))
   
   
   
