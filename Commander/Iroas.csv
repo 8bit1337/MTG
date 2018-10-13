@@ -43,11 +43,11 @@ Count,Name,Type,Cost,Rarity,Section
 1,Helm of the Host,Legendary Artifact  - Equipment,{4},Rare,main
 1,Herald of the Host,Creature  - Angel,{3}{W}{W},Uncommon,main
 1,Honored Crop-Captain,Creature  - Human Warrior,{R}{W},Uncommon,main
-1,Immolating Glare,Instant,{1}{W},Uncommon,main
 1,Inferno Titan,Creature  - Giant,{4}{R}{R},MythicRare,main
 1,Intrepid Hero,Creature  - Human Soldier,{2}{W},Rare,main
 1,"Iroas, God of Victory",Legendary Enchantment Creature  - God,{2}{R}{W},MythicRare,main
 1,Keening Apparition,Creature  - Spirit,{1}{W},Common,main
+1,Kill Shot,Instant,{2}{W},Common,main
 1,Kismet,Enchantment,{3}{W},Uncommon,main
 1,Legion Loyalist,Creature  - Goblin Soldier,{R},Rare,main
 1,Lightning Greaves,Artifact  - Equipment,{2},Uncommon,main
@@ -55,14 +55,14 @@ Count,Name,Type,Cost,Rarity,Section
 1,Magmatic Insight,Sorcery,{R},Uncommon,main
 1,Mass Calcify,Sorcery,{5}{W}{W},Rare,main
 1,Moonsilver Spear,Artifact  - Equipment,{4},Rare,main
-4,Mountain,Basic Land  - Mountain,,BasicLand,main
+4,Mountain,Basic Land  - Mountain,,Common,main
 1,Needle Spires,Land,,Rare,main
 1,Orim's Thunder,Instant,{2}{W},Common,main
 1,Pacifism,Enchantment  - Aura,{1}{W},Common,main
 1,Path of Bravery,Enchantment,{2}{W},Rare,main
 1,Path to Exile,Instant,{W},Uncommon,main
 1,Pillage,Sorcery,{1}{R}{R},Common,main
-8,Plains,Basic Land  - Plains,,BasicLand,main
+8,Plains,Basic Land  - Plains,,Common,main
 1,Quicksand,Land,,Uncommon,main
 1,Radiant Fountain,Land,,Common,main
 1,Ring of Thune,Artifact  - Equipment,{2},Uncommon,main
