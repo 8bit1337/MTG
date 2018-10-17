@@ -1,10 +1,8 @@
 Count,Name,Type,Cost,Rarity,Section
 1,Aberrant Researcher,Creature  - Human Insect,{3}{U},Uncommon,main
 1,Aetherize,Instant,{3}{U},Uncommon,main
-1,Annul,Instant,{U},Common,main
 1,Arcane Denial,Instant,{1}{U},Common,main
 1,Arcanis the Omnipotent,Legendary Creature  - Wizard,{3}{U}{U}{U},Rare,main
-1,Archaeomancer,Creature  - Human Wizard,{2}{U}{U},Common,main
 1,Befuddle,Instant,{2}{U},Common,main
 1,Bewilder,Instant,{2}{U},Common,main
 1,Bident of Thassa,Legendary Enchantment Artifact,{2}{U}{U},Rare,main
@@ -13,28 +11,30 @@ Count,Name,Type,Cost,Rarity,Section
 1,Clever Impersonator,Creature  - Shapeshifter,{2}{U}{U},MythicRare,main
 1,Clone,Creature  - Shapeshifter,{3}{U},Rare,main
 1,Codex Shredder,Artifact,{1},Uncommon,main
+1,Colossal Whale,Creature  - Whale,{5}{U}{U},Rare,main
+1,Confiscate,Enchantment  - Aura,{4}{U}{U},Uncommon,main
 1,Corrupted Conscience,Enchantment - Aura,{3}{U}{U},Uncommon,main
 1,Countermand,Instant,{2}{U}{U},Common,main
 1,Counterspell,Instant,{U}{U},Common,main
 1,Countervailing Winds,Instant,{2}{U},Common,main
 1,Cyclonic Rift,Instant,{1}{U},Rare,main
 1,Deepchannel Mentor,Creature  - Merfolk Rogue,{5}{U},Uncommon,main
+1,Deepfathom Skulker,Creature  - Eldrazi,{5}{U},Rare,main
 1,Desert of the Mindful,Land  - Desert,,Common,main
 1,Diminish,Instant,{U},Common,main
 1,Disdainful Stroke,Instant,{1}{U},Common,main
 1,Dispel,Instant,{U},Common,main
 1,Dissipate,Instant,{1}{U}{U},Uncommon,main
 1,Dissolve,Instant,{1}{U}{U},Common,main
-1,Dive Down,Instant,{U},Common,main
 1,Domestication,Enchantment  - Aura,{2}{U}{U},Rare,main
 1,Errant Ephemeron,Creature  - Illusion,{6}{U},Common,main
 1,Fathom Seer,Creature  - Illusion,{1}{U},Common,main
 1,Field of Ruin,Land,,Uncommon,main
-1,Fleeting Image,Creature  - Illusion,{2}{U},Rare,main
+1,Fleet Swallower,Creature  - Fish,{5}{U}{U},Rare,main
 1,Gush,Instant,{4}{U},Common,main
 1,Hover Barrier,Creature  - Illusion Wall,{2}{U},Uncommon,main
 1,Illusory Ambusher,Creature  - Cat Illusion,{4}{U},Uncommon,main
-1,Illusory Angel,Creature  - Angel Illusion,{2}{U},Uncommon,main
+1,Infinite Reflection,Enchantment  - Aura,{5}{U},Rare,main
 24,Island,Basic Land  - Island,,Common,main
 1,Jace's Mindseeker,Creature  - Fish Illusion,{4}{U}{U},Rare,main
 1,Jace's Phantasm,Creature  - Illusion,{U},Common,main
@@ -45,7 +45,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,"Jace, Ingenious Mind-Mage",Legendary Planeswalker  - Jace,{4}{U}{U},MythicRare,main
 1,"Jace, Memory Adept",Planeswalker  - Jace,{3}{U}{U},MythicRare,main
 1,"Jace, the Living Guildpact",Planeswalker  - Jace,{2}{U}{U},MythicRare,main
-1,Leyline Phantom,Creature  - Illusion,{4}{U},Common,main
+1,Kraken of the Straits,Creature  - Kraken,{5}{U}{U},Uncommon,main
 1,Lonely Sandbar,Land,,Common,main
 1,Memorial to Genius,Land,,Uncommon,main
 1,Mind Control,Enchantment  - Aura,{3}{U}{U},Uncommon,main
@@ -54,13 +54,14 @@ Count,Name,Type,Cost,Rarity,Section
 1,Prodigal Sorcerer,Creature  - Human Wizard,{2}{U},Uncommon,main
 1,Radiant Fountain,Land,,Common,main
 1,Riftwing Cloudskate,Creature  - Illusion,{3}{U}{U},Uncommon,main
+1,River's Rebuke,Sorcery,{4}{U}{U},Rare,main
 1,Scavenger Grounds,Land  - Desert,,Rare,main
-1,Shifting Loyalties,Sorcery,{5}{U},Uncommon,main
+1,Scourge of Fleets,Creature  - Kraken,{5}{U}{U},Rare,main
 1,Sphinx's Tutelage,Enchantment,{2}{U},Uncommon,main
+1,Stormtide Leviathan,Creature  - Leviathan,{5}{U}{U}{U},Rare,main
 1,Strip Mine,Land,,Uncommon,main
 1,Sunscorched Desert,Land  - Desert,,Common,main
 1,Svyelunite Temple,Land,,Uncommon,main
-1,Tandem Lookout,Creature  - Human Scout,{2}{U},Common,main
 1,Telepathy,Enchantment,{U},Uncommon,main
 1,Tempest Djinn,Creature  - Djinn,{U}{U}{U},Rare,main
 1,Temporal Trespass,Sorcery,{8}{U}{U}{U},MythicRare,main
@@ -73,7 +74,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Vizier of Tumbling Sands,Creature  - Human Cleric,{2}{U},Uncommon,main
 1,Void Stalker,Creature  - Elemental,{1}{U},Rare,main
 1,Wall of Air,Creature  - Wall,{1}{U}{U},Uncommon,main
-1,Wall of Deceit,Creature  - Wall,{1}{U},Uncommon,main
 1,Wonder,Creature  - Incarnation,{3}{U},Uncommon,main
 1,Zuran Spellcaster,Creature  - Human Wizard,{2}{U},Common,main
 1,Cadaver Imp,Creature  - Imp,{1}{B}{B},Common,sideboard
