@@ -4,35 +4,33 @@ Count,Name,Type,Cost,Rarity,Section
 1,Benefaction of Rhonas,Sorcery,{2}{G},Common,main
 1,Bitter Revelation,Sorcery,{3}{B},Common,main
 1,Bone Splinters,Sorcery,{B},Common,main
-1,Broken Bond,Sorcery,{1}{G},Common,main
 1,Cast Down,Instant,{1}{B},Uncommon,main
-1,Corpse Churn,Instant,{1}{B},Common,main
 1,Corpsejack Menace,Creature  - Fungus,{2}{B}{G},Rare,main
 1,Cradle of the Accursed,Land  - Desert,,Common,main
-1,Creeping Mold,Sorcery,{2}{G}{G},Uncommon,main
 1,Cultivate,Sorcery,{2}{G},Common,main
 1,Dark Bargain,Instant,{3}{B},Common,main
+1,Dark Dabbling,Instant,{2}{B},Common,main
 1,Deadeye Tracker,Creature  - Human Pirate,{B},Rare,main
 1,Deathrite Shaman,Creature  - Elf Shaman,{BG},Rare,main
 1,Desecration Demon,Creature  - Demon,{2}{B}{B},Rare,main
 1,Desert of the Glorified,Land  - Desert,,Common,main
 1,Desert Twister,Sorcery,{4}{G}{G},Uncommon,main
 1,Diabolic Tutor,Sorcery,{2}{B}{B},Uncommon,main
-1,Dismember,Instant,{1}{BP}{BP},Uncommon,main
 1,Doomgape,Creature  - Elemental,{4}{BG}{BG}{BG},Rare,main
 1,Drooling Groodion,Creature  - Beast,{3}{B}{B}{G},Uncommon,main
 1,Dusk Urchins,Creature  - Ouphe,{2}{B},Rare,main
+1,Eater of the Dead,Creature  - Horror,{4}{B},Uncommon,main
 1,Elixir of Immortality,Artifact,{1},Uncommon,main
 1,Emperor's Vanguard,Creature  - Human Scout,{3}{G},Rare,main
 1,Evolving Wilds,Land,,Common,main
 1,Exemplar of Strength,Creature  - Human Warrior,{1}{G},Uncommon,main
 1,Explore,Sorcery,{1}{G},Common,main
-1,Fade into Antiquity,Sorcery,{2}{G},Common,main
 1,Feldon's Cane,Artifact,{1},Special,main
 1,Fertile Ground,Enchantment  - Aura,{1}{G},Common,main
 1,Field of Ruin,Land,,Uncommon,main
 1,Final Parting,Sorcery,{3}{B}{B},Uncommon,main
 7,Forest,Basic Land  - Forest,,Common,main
+1,Fork in the Road,Sorcery,{1}{G},Common,main
 1,Foul Orchard,Land,,Common,main
 1,Gaea's Blessing,Sorcery,{1}{G},Uncommon,main
 1,Gift of Paradise,Enchantment  - Aura,{2}{G},Uncommon,main
@@ -40,23 +38,25 @@ Count,Name,Type,Cost,Rarity,Section
 1,Golgari Keyrune,Artifact,{3},Uncommon,main
 1,Golgari Rot Farm,Land,,Uncommon,main
 1,Golgari Signet,Artifact,{2},Common,main
-1,Grasp of Darkness,Instant,{B}{B},Uncommon,main
+1,Hero's Downfall,Instant,{1}{B}{B},Rare,main
 1,Hissing Quagmire,Land,,Rare,main
-1,Hour of Glory,Instant,{3}{B},Rare,main
 1,Hungry Mist,Creature  - Elemental,{2}{G}{G},Common,main
+1,Jadelight Ranger,Creature  - Merfolk Scout,{1}{G}{G},Rare,main
 1,"Josu Vess, Lich Knight",Legendary Creature  - Zombie Knight,{2}{B}{B},Rare,main
 1,Jungle Hollow,Land,,Common,main
+1,"Kokusho, the Evening Star",Legendary Creature  - Dragon Spirit,{4}{B}{B},Rare,main
 1,Korozda Guildmage,Creature - Elf Shaman,{B}{G},Uncommon,main
 1,Llanowar Elves,Creature  - Elf Druid,{G},Common,main
+1,Lure of Prey,Instant,{2}{G}{G},Rare,main
 1,Master of the Feast,Enchantment Creature  - Demon,{1}{B}{B},Rare,main
 1,Memorial to Unity,Land,,Uncommon,main
 1,Merfolk Branchwalker,Creature  - Merfolk Scout,{1}{G},Uncommon,main
+1,Multani's Decree,Sorcery,{3}{G},Common,main
 1,New Horizons,Enchantment  - Aura,{2}{G},Common,main
 1,Painted Bluffs,Land  - Desert,,Common,main
 1,Path of Discovery,Enchantment,{3}{G},Rare,main
 1,Pharika's Mender,Creature  - Gorgon,{3}{B}{G},Uncommon,main
 1,"Pharika, God of Affliction",Legendary Enchantment Creature  - God,{1}{B}{G},MythicRare,main
-1,Plague Stinger,Creature  - Insect Horror,{1}{B},Common,main
 1,"Polukranos, World Eater",Legendary Creature - Hydra,{2}{G}{G},MythicRare,main
 1,Quicksand,Land,,Uncommon,main
 1,Radiant Fountain,Land,,Common,main
@@ -73,13 +73,13 @@ Count,Name,Type,Cost,Rarity,Section
 1,The Mending of Dominaria,Enchantment  - Saga,{3}{G}{G},Rare,main
 1,Tishana's Wayfinder,Creature  - Merfolk Scout,{2}{G},Common,main
 1,"Torgaar, Famine Incarnate",Legendary Creature  - Avatar,{6}{B}{B},Rare,main
-1,Toxic Nim,Creature  - Zombie,{4}{B}{B},Common,main
 1,Tranquil Thicket,Land,,Common,main
 1,"Varolz, the Scar-Striped",Legendary Creature  - Troll Warrior,{1}{B}{G},Rare,main
-1,Vicious Offering,Instant,{1}{B},Common,main
 1,Vona's Hunger,Instant,{2}{B},Rare,main
+1,Walk the Plank,Sorcery,{B}{B},Uncommon,main
 1,Wild Growth,Enchantment  - Aura,{G},Common,main
 1,Wildgrowth Walker,Creature  - Elemental,{1}{G},Uncommon,main
+1,Wing Snare,Sorcery,{2}{G},Uncommon,main
 1,Woodland Cemetery,Land,,Rare,main
 1,Worldly Tutor,Instant,{G},Uncommon,main
 1,"Yargle, Glutton of Urborg",Legendary Creature  - Frog Spirit,{4}{B},Uncommon,main
