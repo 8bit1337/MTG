@@ -1,53 +1,52 @@
 Count,Name,Type,Cost,Rarity,Section
-2,Aether Tradewinds,Instant,{2}{U},Common,main
-1,Affa Protector,Creature  - Human Soldier Ally,{2}{W},Common,main
-1,Alabaster Kirin,Creature  - Kirin,{3}{W},Common,main
+4,Aether Tradewinds,Instant,{2}{U},Common,main
 2,Angelic Wall,Creature  - Wall,{1}{W},Common,main
 2,Bay Falcon,Creature  - Bird,{1}{U},Common,main
-1,Black Vise,Artifact,{1},Uncommon,main
-2,Boomerang,Instant,{U}{U},Common,main
 1,"Bruna, the Fading Light",Legendary Creature  - Angel Horror,{5}{W}{W},Rare,main
 1,Call the Gatewatch,Sorcery,{2}{W},Rare,main
 3,Counterspell,Instant,{U}{U},Common,main
-1,Disenchant,Instant,{1}{W},Common,main
+1,Dawnglare Invoker,Creature  - Kor Wizard,{2}{W},Common,main
 1,Diving Griffin,Creature  - Griffin,{1}{W}{W},Common,main
 2,"Djeru, With Eyes Open",Legendary Creature  - Human Warrior,{3}{W}{W},Rare,main
 1,Enlightened Tutor,Instant,{W},Rare,main
-4,Evolving Wilds,Land,,Common,main
 1,"Gisela, the Broken Blade",Legendary Creature  - Angel Horror,{2}{W}{W},MythicRare,main
 1,Griffin Sentinel,Creature  - Griffin,{2}{W},Common,main
 1,Hundred-Handed One,Creature  - Giant,{2}{W}{W},Rare,main
-9,Island,Basic Land  - Island,,BasicLand,main
-1,Jelenn Sphinx,Creature  - Sphinx,{3}{W}{U},Uncommon,main
-1,Kismet,Enchantment,{3}{W},Uncommon,main
+9,Island,Basic Land  - Island,,Common,main
+2,Kismet,Enchantment,{3}{W},Uncommon,main
 1,Nimbus Maze,Land,,Rare,main
-1,Oketra's Monument,Legendary Artifact,{3},Uncommon,main
-8,Plains,Basic Land  - Plains,,BasicLand,main
+10,Plains,Basic Land  - Plains,,Common,main
 3,Power Sink,Instant,{X}{U},Uncommon,main
-1,Recall,Sorcery,{X}{X}{U},Rare,main
-1,Serra Angel,Creature  - Angel,{3}{W}{W},Uncommon,main
+2,Recall,Sorcery,{X}{X}{U},Rare,main
+2,Serra Angel,Creature  - Angel,{3}{W}{W},Uncommon,main
+1,Soul of Theros,Creature  - Avatar,{4}{W}{W},MythicRare,main
 2,Stasis,Enchantment,{1}{U},Rare,main
 1,"Teferi, Hero of Dominaria",Legendary Planeswalker  - Teferi,{3}{W}{U},MythicRare,main
-1,Tempest Drake,Creature  - Drake,{1}{W}{U},Uncommon,main
-2,Topan Freeblade,Creature  - Human Soldier,{1}{W},Uncommon,main
-2,Tranquil Cove,Land,,Common,main
-1,Veteran Cavalier,Creature  - Human Knight,{W}{W},Common,main
-1,Wall of Deceit,Creature  - Wall,{1}{U},Uncommon,main
+3,Topan Freeblade,Creature  - Human Soldier,{1}{W},Uncommon,main
+4,Tranquil Cove,Land,,Common,main
 1,Warped Landscape,Land,,Common,main
 2,Zephyr Falcon,Creature  - Bird,{1}{U},Common,main
+1,Affa Protector,Creature  - Human Soldier Ally,{2}{W},Common,sideboard
+1,Alabaster Kirin,Creature  - Kirin,{3}{W},Common,sideboard
 1,Archangel,Creature  - Angel,{5}{W}{W},Uncommon,sideboard
 1,Ardent Militia,Creature  - Human Soldier,{4}{W},Uncommon,sideboard
-1,Dawnglare Invoker,Creature  - Kor Wizard,{2}{W},Common,sideboard
+2,Black Vise,Artifact,{1},Uncommon,sideboard
+2,Boomerang,Instant,{U}{U},Common,sideboard
+1,Disenchant,Instant,{1}{W},Common,sideboard
 1,Dragon Bell Monk,Creature  - Human Monk,{2}{W},Common,sideboard
 1,Eagle of the Watch,Creature  - Bird,{2}{W},Common,sideboard
 1,Ghostly Sentinel,Creature  - Kor Spirit,{4}{W},Common,sideboard
 1,Hussar Patrol,Creature  - Human Knight,{2}{W}{U},Common,sideboard
+1,Jelenn Sphinx,Creature  - Sphinx,{3}{W}{U},Uncommon,sideboard
 1,Luminate Primordial,Creature  - Avatar,{5}{W}{W},Rare,sideboard
+1,Oketra's Monument,Legendary Artifact,{3},Uncommon,sideboard
 1,Skyshroud Falcon,Creature  - Bird,{1}{W},Common,sideboard
-1,Soul of Theros,Creature  - Avatar,{4}{W}{W},MythicRare,sideboard
 1,Standing Troops,Creature  - Human Soldier,{2}{W},Common,sideboard
 1,Sun Sentinel,Creature  - Human Soldier,{1}{W},Common,sideboard
+1,Tempest Drake,Creature  - Drake,{1}{W}{U},Uncommon,sideboard
 1,Thraben Valiant,Creature  - Human Soldier,{1}{W},Common,sideboard
+1,Veteran Cavalier,Creature  - Human Knight,{W}{W},Common,sideboard
+1,Wall of Deceit,Creature  - Wall,{1}{U},Uncommon,sideboard
 1,"Zetalpa, Primal Dawn",Legendary Creature  - Elder Dinosaur,{6}{W}{W},Rare,sideboard
 
 
