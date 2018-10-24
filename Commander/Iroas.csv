@@ -48,7 +48,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,"Iroas, God of Victory",Legendary Enchantment Creature  - God,{2}{R}{W},MythicRare,main
 1,Keening Apparition,Creature  - Spirit,{1}{W},Common,main
 1,Kill Shot,Instant,{2}{W},Common,main
-1,Kismet,Enchantment,{3}{W},Uncommon,main
 1,Legion Loyalist,Creature  - Goblin Soldier,{R},Rare,main
 1,Lightning Greaves,Artifact  - Equipment,{2},Uncommon,main
 1,Lyra Dawnbringer,Legendary Creature  - Angel,{3}{W}{W},MythicRare,main
@@ -71,6 +70,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Ronin Cliffrider,Creature  - Human Samurai,{3}{R}{R},Uncommon,main
 1,Secluded Steppe,Land,,Common,main
 1,Seraph Sanctuary,Land,,Common,main
+1,Settle the Wreckage,Instant,{2}{W}{W},Rare,main
 1,Sol Ring,Artifact,{1},Uncommon,main
 1,Spear of Heliod,Legendary Enchantment Artifact,{1}{W}{W},Rare,main
 1,Stone Haven Outfitter,Creature  - Kor Artificer Ally,{1}{W},Rare,main
