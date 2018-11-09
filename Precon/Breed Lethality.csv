@@ -32,17 +32,17 @@ Count,Name,Type,Cost,Rarity,Section
 1,Fathom Mage,Creature  - Human Wizard,{2}{G}{U},Rare,main
 1,Fellwar Stone,Artifact,{2},Uncommon,main
 1,Festercreep,Creature  - Elemental,{1}{B},Common,main
-7,Forest,Basic Land  - Forest,,BasicLand,main
+7,Forest,Basic Land  - Forest,,Common,main
 1,Forgotten Ancient,Creature  - Elemental,{3}{G},Rare,main
 1,"Ghave, Guru of Spores",Legendary Creature  - Fungus Shaman,{2}{B}{G}{W},MythicRare,main
-1,Golgari Rot Farm,Land,,Uncommon,main
+1,Golgari Rot Farm,Land,,Common,main
 1,Golgari Signet,Artifact,{2},Common,main
 1,Grip of Phyresis,Instant,{2}{U},Uncommon,main
 1,Hardened Scales,Enchantment,{G},Rare,main
 1,"Ikra Shidiqi, the Usurper",Legendary Creature  - Naga Wizard,{3}{B}{G},MythicRare,main
 1,Inspiring Call,Instant,{2}{G},Uncommon,main
 1,"Ishai, Ojutai Dragonspeaker",Legendary Creature  - Bird Monk,{2}{W}{U},MythicRare,main
-4,Island,Basic Land  - Island,,BasicLand,main
+4,Island,Basic Land  - Island,,Common,main
 1,Juniper Order Ranger,Creature  - Human Knight,{3}{G}{W},Uncommon,main
 1,Kalonian Hydra,Creature  - Hydra,{3}{G}{G},MythicRare,main
 1,Languish,Sorcery,{2}{B}{B},Rare,main
@@ -58,7 +58,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Opulent Palace,Land,,Uncommon,main
 1,Orzhov Advokist,Creature  - Human Advisor,{2}{W},Uncommon,main
 1,Orzhov Signet,Artifact,{2},Common,main
-5,Plains,Basic Land  - Plains,,BasicLand,main
+5,Plains,Basic Land  - Plains,,Common,main
 1,Putrefy,Instant,{1}{B}{G},Uncommon,main
 1,Reveillark,Creature  - Elemental,{4}{W},Rare,main
 1,"Reyhan, Last of the Abzan",Legendary Creature  - Human Warrior,{1}{B}{G},Rare,main
@@ -71,7 +71,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Spitting Image,Sorcery,{4}{GU}{GU},Rare,main
 1,Sublime Exhalation,Sorcery,{6}{W},Rare,main
 1,Sungrass Prairie,Land,,Rare,main
-5,Swamp,Basic Land  - Swamp,,BasicLand,main
+5,Swamp,Basic Land  - Swamp,,Common,main
 1,Sylvan Reclamation,Instant,{3}{G}{W},Uncommon,main
 1,Temple of the False God,Land,,Uncommon,main
 1,Terramorphic Expanse,Land,,Common,main
@@ -82,6 +82,27 @@ Count,Name,Type,Cost,Rarity,Section
 1,Underground River,Land,,Rare,main
 1,Vorel of the Hull Clade,Legendary Creature  - Human Merfolk,{1}{G}{U},Rare,main
 1,Vulturous Zombie,Creature  - Plant Zombie,{3}{B}{G},Rare,main
+1,Altered Ego,Creature  - Shapeshifter,{X}{2}{G}{U},Rare,sideboard
+1,"Anafenza, the Foremost",Legendary Creature  - Human Soldier,{W}{B}{G},MythicRare,sideboard
+1,Anguished Unmaking,Instant,{1}{W}{B},Rare,sideboard
+1,Armorcraft Judge,Creature  - Elf Artificer,{3}{G},Uncommon,sideboard
+1,Bloodspore Thrinax,Creature  - Lizard,{2}{G}{G},Rare,sideboard
+1,Chasm Skulker,Creature  - Squid Horror,{2}{U},Rare,sideboard
+1,Contagion Engine,Artifact,{6},Rare,sideboard
+1,Counterspell,Instant,{U}{U},Common,sideboard
+1,Fertilid,Creature  - Elemental,{2}{G},Uncommon,sideboard
+1,Gyre Sage,Creature  - Elf Druid,{1}{G},Rare,sideboard
+1,Inexorable Tide,Enchantment,{3}{U}{U},Rare,sideboard
+1,Managorger Hydra,Creature  - Hydra,{2}{G},Rare,sideboard
+1,Prime Speaker Zegana,Legendary Creature  - Merfolk Wizard,{2}{G}{G}{U}{U},MythicRare,sideboard
+1,Retribution of the Ancients,Enchantment,{B},Rare,sideboard
+1,Spike Weaver,Creature  - Spike,{2}{G}{G},Rare,sideboard
+1,Utter End,Instant,{2}{W}{B},Rare,sideboard
+1,Vivid Creek,Land,,Uncommon,sideboard
+1,Vivid Grove,Land,,Uncommon,sideboard
+1,Vivid Marsh,Land,,Uncommon,sideboard
+1,Vivid Meadow,Land,,Uncommon,sideboard
+1,Zameck Guildmage,Creature  - Elf Wizard,{G}{U},Uncommon,sideboard
 
 
 

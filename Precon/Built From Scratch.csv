@@ -37,8 +37,8 @@ Count,Name,Type,Cost,Rarity,Section
 1,Liquimetal Coating,Artifact,{2},Uncommon,main
 1,Loreseeker's Stone,Artifact,{6},Uncommon,main
 1,Magmaquake,Instant,{X}{R}{R},Rare,main
-1,Mind Stone,Artifact,{2},Uncommon,main
-29,Mountain,Basic Land  - Mountain,,BasicLand,main
+1,Mind Stone,Artifact,{2},Common,main
+29,Mountain,Basic Land  - Mountain,,Common,main
 1,Mycosynth Wellspring,Artifact,{2},Common,main
 1,Myr Battlesphere,Artifact Creature  - Myr Construct,{7},Rare,main
 1,Myr Retriever,Artifact Creature  - Myr,{2},Uncommon,main

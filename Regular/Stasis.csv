@@ -26,28 +26,6 @@ Count,Name,Type,Cost,Rarity,Section
 4,Tranquil Cove,Land,,Common,main
 1,Warped Landscape,Land,,Common,main
 2,Zephyr Falcon,Creature  - Bird,{1}{U},Common,main
-1,Affa Protector,Creature  - Human Soldier Ally,{2}{W},Common,sideboard
-1,Alabaster Kirin,Creature  - Kirin,{3}{W},Common,sideboard
-1,Archangel,Creature  - Angel,{5}{W}{W},Uncommon,sideboard
-1,Ardent Militia,Creature  - Human Soldier,{4}{W},Uncommon,sideboard
-2,Black Vise,Artifact,{1},Uncommon,sideboard
-2,Boomerang,Instant,{U}{U},Common,sideboard
-1,Disenchant,Instant,{1}{W},Common,sideboard
-1,Dragon Bell Monk,Creature  - Human Monk,{2}{W},Common,sideboard
-1,Eagle of the Watch,Creature  - Bird,{2}{W},Common,sideboard
-1,Ghostly Sentinel,Creature  - Kor Spirit,{4}{W},Common,sideboard
-1,Hussar Patrol,Creature  - Human Knight,{2}{W}{U},Common,sideboard
-1,Jelenn Sphinx,Creature  - Sphinx,{3}{W}{U},Uncommon,sideboard
-1,Luminate Primordial,Creature  - Avatar,{5}{W}{W},Rare,sideboard
-1,Oketra's Monument,Legendary Artifact,{3},Uncommon,sideboard
-1,Skyshroud Falcon,Creature  - Bird,{1}{W},Common,sideboard
-1,Standing Troops,Creature  - Human Soldier,{2}{W},Common,sideboard
-1,Sun Sentinel,Creature  - Human Soldier,{1}{W},Common,sideboard
-1,Tempest Drake,Creature  - Drake,{1}{W}{U},Uncommon,sideboard
-1,Thraben Valiant,Creature  - Human Soldier,{1}{W},Common,sideboard
-1,Veteran Cavalier,Creature  - Human Knight,{W}{W},Common,sideboard
-1,Wall of Deceit,Creature  - Wall,{1}{U},Uncommon,sideboard
-1,"Zetalpa, Primal Dawn",Legendary Creature  - Elder Dinosaur,{6}{W}{W},Rare,sideboard
 
 
 

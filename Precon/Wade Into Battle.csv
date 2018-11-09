@@ -48,11 +48,11 @@ Count,Name,Type,Cost,Rarity,Section
 1,Magma Giant,Creature  - Giant,{5}{R}{R},Rare,main
 1,Magus of the Wheel,Creature  - Human Wizard,{2}{R},Rare,main
 1,Meteor Blast,Sorcery,{X}{R}{R}{R},Uncommon,main
-1,Mind Stone,Artifact,{2},Uncommon,main
-14,Mountain,Basic Land  - Mountain,,BasicLand,main
+1,Mind Stone,Artifact,{2},Common,main
+14,Mountain,Basic Land  - Mountain,,Common,main
 1,Oreskos Explorer,Creature  - Cat Scout,{1}{W},Uncommon,main
 1,Orim's Thunder,Instant,{2}{W},Common,main
-11,Plains,Basic Land  - Plains,,BasicLand,main
+11,Plains,Basic Land  - Plains,,Common,main
 1,Rite of the Raging Storm,Enchantment,{3}{R}{R},Uncommon,main
 1,Sandstone Oracle,Artifact Creature  - Sphinx,{7},Uncommon,main
 1,Secluded Steppe,Land,,Common,main

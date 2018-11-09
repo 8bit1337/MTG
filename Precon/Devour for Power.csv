@@ -19,12 +19,12 @@ Count,Name,Type,Cost,Rarity,Section
 1,Extractor Demon,Creature  - Demon,{4}{B}{B},Rare,main
 1,Fact or Fiction,Instant,{3}{U},Uncommon,main
 1,Fleshbag Marauder,Creature  - Zombie Warrior,{2}{B},Uncommon,main
-8,Forest,Basic Land  - Forest,,BasicLand,main
-1,Golgari Rot Farm,Land,,Uncommon,main
+8,Forest,Basic Land  - Forest,,Common,main
+1,Golgari Rot Farm,Land,,Common,main
 1,Golgari Signet,Artifact,{2},Common,main
 1,Grave Pact,Enchantment,{1}{B}{B}{B},Rare,main
 1,Gravedigger,Creature  - Zombie,{3}{B},Uncommon,main
-8,Island,Basic Land  - Island,,BasicLand,main
+8,Island,Basic Land  - Island,,Common,main
 1,Jwar Isle Refuge,Land,,Uncommon,main
 1,Lhurgoyf,Creature  - Lhurgoyf,{2}{G}{G},Rare,main
 1,Lightning Greaves,Artifact  - Equipment,{2},Uncommon,main
@@ -33,7 +33,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Memory Erosion,Enchantment,{1}{U}{U},Rare,main
 1,Minds Aglow,Sorcery,{U},Rare,main
 1,Mortivore,Creature  - Lhurgoyf,{2}{B}{B},Rare,main
-1,Mulldrifter,Creature  - Elemental,{4}{U},Common,main
+1,Mulldrifter,Creature  - Elemental,{4}{U},Uncommon,main
 1,Nezumi Graverobber,Creature  - Rat Rogue,{1}{B},Uncommon,main
 1,Oblivion Stone,Artifact,{3},Rare,main
 1,Patron of the Nezumi,Legendary Creature  - Spirit,{5}{B}{B},Rare,main
@@ -45,7 +45,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Sewer Nemesis,Creature  - Horror,{3}{B},Rare,main
 1,Shared Trauma,Sorcery,{B},Rare,main
 1,Sign in Blood,Sorcery,{B}{B},Common,main
-1,Simic Growth Chamber,Land,,Common,main
+1,Simic Growth Chamber,Land,,Uncommon,main
 1,Simic Signet,Artifact,{2},Common,main
 1,"Skullbriar, the Walking Grave",Legendary Creature  - Zombie Elemental,{B}{G},Rare,main
 1,Slipstream Eel,Creature  - Fish Beast,{5}{U}{U},Common,main
@@ -54,7 +54,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Spell Crumple,Instant,{1}{U}{U},Uncommon,main
 1,Stitch Together,Sorcery,{B}{B},Uncommon,main
 1,"Svogthos, the Restless Tomb",Land,,Uncommon,main
-11,Swamp,Basic Land  - Swamp,,BasicLand,main
+11,Swamp,Basic Land  - Swamp,,Common,main
 1,Syphon Flesh,Sorcery,{4}{B},Uncommon,main
 1,Syphon Mind,Sorcery,{3}{B},Common,main
 1,"Szadek, Lord of Secrets",Legendary Creature  - Vampire,{3}{U}{U}{B}{B},Rare,main

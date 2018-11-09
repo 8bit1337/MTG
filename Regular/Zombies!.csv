@@ -1,24 +1,22 @@
 Count,Name,Type,Cost,Rarity,Section
+2,Arrest,Enchantment  - Aura,{2}{W},Common,main
 2,Binding Mummy,Creature  - Zombie,{1}{W},Common,main
 1,Call to the Grave,Enchantment,{4}{B},Rare,main
 3,Carrion Crow,Creature  - Zombie Bird,{2}{B},Common,main
 2,Cradle of the Accursed,Land  - Desert,,Common,main
 2,Dark Ritual,Instant,{B},Common,main
-2,Disenchant,Instant,{1}{W},Common,main
 1,Empty the Pits,Instant,{X}{X}{B}{B}{B}{B},MythicRare,main
-2,Evolving Wilds,Land,,Common,main
-4,Forsaken Sanctuary,Land,,Common,main
+4,Forsaken Sanctuary,Land,,Uncommon,main
 2,Gravedigger,Creature  - Zombie,{3}{B},Uncommon,main
 4,Lord of the Accursed,Creature  - Zombie,{2}{B},Uncommon,main
 1,Necromancer's Stockpile,Enchantment,{1}{B},Rare,main
 2,Noxious Ghoul,Creature  - Zombie,{3}{B}{B},Uncommon,main
-4,Orzhov Guildgate,Land  - Gate,,Common,main
-4,Plains,Basic Land  - Plains,,BasicLand,main
+7,Plains,Basic Land  - Plains,,Common,main
 1,Radiant Destiny,Enchantment,{2}{W},Rare,main
 1,Rancid Rats,Creature  - Zombie Rat,{1}{B},Common,main
 1,Scoured Barrens,Land,,Common,main
 2,Sparring Mummy,Creature  - Zombie,{3}{W},Common,main
-5,Swamp,Basic Land  - Swamp,,BasicLand,main
+8,Swamp,Basic Land  - Swamp,,Common,main
 1,Syphon Flesh,Sorcery,{4}{B},Uncommon,main
 4,Time to Reflect,Instant,{W},Uncommon,main
 1,"Urborg, Tomb of Yawgmoth",Legendary Land,,Rare,main
