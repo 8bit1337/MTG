@@ -15,7 +15,6 @@ Count,Name,Type,Cost,Rarity,Section
 1,Corrupted Conscience,Enchantment - Aura,{3}{U}{U},Uncommon,main
 1,Countermand,Instant,{2}{U}{U},Common,main
 1,Counterspell,Instant,{U}{U},Common,main
-1,Countervailing Winds,Instant,{2}{U},Common,main
 1,Cyclonic Rift,Instant,{1}{U},Rare,main
 1,Deepchannel Mentor,Creature  - Merfolk Rogue,{5}{U},Uncommon,main
 1,Desert of the Mindful,Land  - Desert,,Common,main
@@ -50,8 +49,10 @@ Count,Name,Type,Cost,Rarity,Section
 1,"Nykthos, Shrine to Nyx",Legendary Land,,Rare,main
 1,Oath of Jace,Legendary Enchantment,{2}{U},Rare,main
 1,Ponder,Sorcery,{U},Common,main
+1,Power Sink,Instant,{X}{U},Uncommon,main
 1,Prodigal Sorcerer,Creature  - Human Wizard,{2}{U},Uncommon,main
 1,Radiant Fountain,Land,,Common,main
+1,Recall,Sorcery,{X}{X}{U},Rare,main
 1,Riftwing Cloudskate,Creature  - Illusion,{3}{U}{U},Uncommon,main
 1,River's Rebuke,Sorcery,{4}{U}{U},Rare,main
 1,Roiling Waters,Sorcery,{5}{U}{U},Uncommon,main
@@ -75,10 +76,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Void Stalker,Creature  - Elemental,{1}{U},Rare,main
 1,Wonder,Creature  - Incarnation,{3}{U},Uncommon,main
 1,Zuran Spellcaster,Creature  - Human Wizard,{2}{U},Common,main
-1,Blasted Landscape,Land,,Uncommon,sideboard
-1,Deepfathom Skulker,Creature  - Eldrazi,{5}{U},Rare,sideboard
-1,"Jace, Architect of Thought",Planeswalker  - Jace,{2}{U}{U},MythicRare,sideboard
-1,Wall of Air,Creature  - Wall,{1}{U}{U},Uncommon,sideboard
+1,Countervailing Winds,Instant,{2}{U},Common,sideboard
 
 
 
