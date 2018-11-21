@@ -1068,7 +1068,6 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Citadel Castellan,Magic Origins,213,Near Mint,English,,,,,,,,,Creature  - Human Knight,{1}{G}{W},Uncommon
 1,0,Citadel Siege,Commander Anthology Volume II,21,Near Mint,English,,,,,,,,,Enchantment,{2}{W}{W},Rare
 1,0,Citanul Woodreaders,Planar Chaos,125,Near Mint,English,,,,,,,,,Creature  - Human Druid,{2}{G},Common
-1,0,City's Blessing,Extras: Rivals of Ixalan,6,Near Mint,English,,,,,,,,,Token,,Common
 2,0,Civic Guildmage,Mirage,211,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{W},Common
 2,0,Civic Saber,Return to Ravnica,227,Near Mint,English,,,,,,,,,Artifact  - Equipment,{1},Uncommon
 1,0,Claim // Fame,Hour of Devastation,150,Near Mint,English,,,,,,,,,Sorcery,{B},Uncommon
@@ -2345,12 +2344,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Forerunner of the Legion,Rivals of Ixalan,9,Near Mint,English,,,,,,,,,Creature  - Vampire Knight,{2}{W},Uncommon
 3,0,Foresee,Magic 2011,54,Near Mint,English,,,,,,,,,Sorcery,{3}{U},Common
 1,0,Foreshadow,Visions,33,Near Mint,English,,,,,,,,,Instant,{1}{U},Uncommon
-9,0,Forest,Battlebond,254,Near Mint,English,,,,,,,,,Basic Land  - Forest,,BasicLand
-15,0,Forest,Commander Anthology Volume II,309,Near Mint,English,,,,,,,,,Basic Land  - Forest,,BasicLand
-31,1,Forest,Revised Edition,284,Near Mint,English,,,,,,,,0,Basic Land  - Forest,,BasicLand
-33,0,Forest,Ice Age,328,Near Mint,English,,,,,,,,0,Basic Land  - Forest,,BasicLand
-13,0,Forest,Battle for Zendikar,270,Near Mint,English,,,,,,,,0,Basic Land  - Forest,,BasicLand
-153,0,Forest,Core Set 2019,277,Near Mint,English,,,,,,,,0,Basic Land  - Forest,,BasicLand
+254,1,Forest,"",,Near Mint,English,,,,,,,,0,Basic Land  - Forest,,Common
 1,0,Forge Devil,Dark Ascension,91,Near Mint,English,,,,,,,,0,Creature  - Devil,{R},Common
 5,0,Forge Devil,Magic 2015 Core Set,140,Near Mint,English,,,,,,,,,Creature  - Devil,{R},Common
 2,0,Forgeborn Oreads,Journey into Nyx,98,Near Mint,English,,,,,,,,,Enchantment Creature  - Nymph,{2}{R}{R},Uncommon
@@ -3235,12 +3229,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Ironwright's Cleansing,Eldritch Moon,32,Near Mint,English,,,,,,,,,Sorcery,{2}{W},Common
 2,0,Irradiate,Mirrodin,67,Near Mint,English,,,,,,,,,Instant,{3}{B},Common
 1,0,"Ishai, Ojutai Dragonspeaker",Commander Anthology Volume II,12,Near Mint,English,,,,,,,,,Legendary Creature  - Bird Monk,{2}{W}{U},MythicRare
-6,0,Island,Battlebond,251,Near Mint,English,,,,,,,,,Basic Land  - Island,,BasicLand
-12,0,Island,Commander Anthology Volume II,290,Near Mint,English,,,,,,,,,Basic Land  - Island,,BasicLand
-30,0,Island,Revised Edition,287,Near Mint,English,,,,,,,,0,Basic Land  - Island,,BasicLand
-48,0,Island,Ice Age,334,Near Mint,English,,,,,,,,0,Basic Land  - Island,,BasicLand
-183,0,Island,Magic 2015 Core Set,256,Near Mint,English,,,,,,,,0,Basic Land  - Island,,BasicLand
-18,0,Island,Battle for Zendikar,255,Near Mint,English,,,,,,,,0,Basic Land  - Island,,BasicLand
+297,0,Island,"",,Near Mint,English,,,,,,,,0,Basic Land  - Island,,Common
 1,0,Island Fish Jasconius,Fourth Edition,78,Near Mint,English,,,,,,,,,Creature  - Fish,{4}{U}{U}{U},Rare
 5,0,Isolation Zone,Oath of the Gatewatch,22,Near Mint,English,,,,,,,,,Enchantment,{2}{W}{W},Common
 3,0,Isperia's Skywatch,Return to Ravnica,43,Near Mint,English,,,,,,,,,Creature  - Vedalken Knight,{5}{U},Common
@@ -4039,13 +4028,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 4,0,Moss Monster,Eighth Edition,267,Near Mint,English,,,,,,,,,Creature  - Elemental,{3}{G}{G},Common
 1,0,Mosstodon,Shards of Alara,139,Near Mint,English,,,,,,,,,Creature  - Plant Elephant,{4}{G},Common
 2,0,Mother Kangaroo,Unstable,116,Near Mint,English,,,,,,,,,Host Creature - Kangaroo,{4}{G},Common
-4,0,Mountain,Commander 2017,306,Near Mint,English,,,,,,,,,Basic Land  - Mountain,,BasicLand
-8,0,Mountain,Battlebond,253,Near Mint,English,,,,,,,,,Basic Land  - Mountain,,BasicLand
-43,0,Mountain,Commander Anthology Volume II,304,Near Mint,English,,,,,,,,,Basic Land  - Mountain,,BasicLand
-21,0,Mountain,Revised Edition,290,Near Mint,English,,,,,,,,0,Basic Land  - Mountain,,BasicLand
-24,0,Mountain,Ice Age,340,Near Mint,English,,,,,,,,0,Basic Land  - Mountain,,BasicLand
-139,0,Mountain,Magic 2015 Core Set,262,Near Mint,English,,,,,,,,0,Basic Land  - Mountain,,BasicLand
-16,0,Mountain,Battle for Zendikar,265,Near Mint,English,,,,,,,,0,Basic Land  - Mountain,,BasicLand
+255,0,Mountain,"",,Near Mint,English,,,,,,,,0,Basic Land  - Mountain,,Common
 1,0,Mountain Goat,Ice Age,203,Near Mint,English,,,,,,,,0,Creature  - Goat,{R},Common
 1,0,Mountain Titan,Ice Age,377,Near Mint,English,,,,,,,,,Creature  - Giant,{2}{B}{R},Rare
 1,0,Mournful Zombie,Apocalypse,43,Near Mint,English,,,,,,,,,Creature  - Zombie,{2}{B},Common
@@ -4601,13 +4584,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 2,0,Plague Stinger,Scars of Mirrodin,75,Near Mint,English,,,,,,,,,Creature  - Insect Horror,{1}{B},Common
 2,0,Plague Wind,Eighth Edition,155,Near Mint,English,,,,,,,,0,Sorcery,{7}{B}{B},Rare
 1,0,Plaguemaw Beast,Mirrodin Besieged,87,Near Mint,English,,,,,,,,,Creature - Beast,{3}{G}{G},Uncommon
-3,0,Plains,Commander 2017,296,Near Mint,English,,,,,,,,,Basic Land  - Plains,,BasicLand
-8,0,Plains,Battlebond,250,Near Mint,English,,,,,,,,,Basic Land  - Plains,,BasicLand
-16,0,Plains,Commander Anthology Volume II,280,Near Mint,English,,,,,,,,,Basic Land  - Plains,,BasicLand
-29,0,Plains,Revised Edition,293,,,,,,,,,,0,Basic Land  - Plains,,BasicLand
-24,0,Plains,Ice Age,343,Near Mint,English,,,,,,,,0,Basic Land  - Plains,,BasicLand
-12,0,Plains,Battle for Zendikar,250,Near Mint,English,,,,,,,,0,Basic Land  - Plains,,BasicLand
-169,0,Plains,Core Set 2019,261,Near Mint,English,,,,,,,,0,Basic Land  - Plains,,BasicLand
+261,0,Plains,"",,Near Mint,English,,,,,,,,0,Basic Land  - Plains,,Common
 1,0,Planar Outburst,Battle for Zendikar,42,Near Mint,English,,,,,,,,,Sorcery,{3}{W}{W},Rare
 1,0,Plated Crusher,Battlebond,207,Near Mint,English,,,,,,,,,Creature  - Beast,{4}{G}{G}{G},Uncommon
 3,0,Plated Seastrider,Scars of Mirrodin,38,Near Mint,English,,,,,,,,,Creature  - Beast,{U}{U},Common
@@ -5728,7 +5705,6 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Slith Bloodletter,Mirrodin,77,Near Mint,English,,,,,,,,,Creature  - Slith,{B}{B},Uncommon
 6,0,Slither Blade,Amonkhet,71,Near Mint,English,,,,,,,,,Creature  - Naga Rogue,{U},Common
 1,0,Slitherhead,Return to Ravnica,222,Near Mint,English,,,,,,,,,Creature  - Plant Zombie,{BG},Uncommon
-1,0,Sliver,Extras: Magic 2015 Core Set,1,Near Mint,English,,,,,,,,,Token,,Common
 1,0,Sliver Hive,Magic 2015 Core Set,247,Near Mint,English,,,,,,,,,Land,,Rare
 1,0,Sliver Hivelord,Magic 2015 Core Set,211,Near Mint,English,,,,,,,,,Legendary Creature  - Sliver,{W}{U}{B}{R}{G},MythicRare
 1,0,Sliver Overlord,Premium Deck Series: Slivers,24,Near Mint,English,,,,,,,,0,Legendary Creature  - Sliver Mutant,{W}{U}{B}{R}{G},MythicRare
@@ -6171,14 +6147,7 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,"Svogthos, the Restless Tomb",Commander Anthology Volume II,270,Near Mint,English,,,,,,,,,Land,,Uncommon
 4,0,Svyelunite Temple,Fallen Empires,187,Near Mint,English,,,,,,,,0,Land,,Uncommon
 3,0,Swaggering Corsair,Rivals of Ixalan,119,Near Mint,English,,,,,,,,,Creature  - Human Pirate,{2}{R},Common
-8,0,Swamp,Commander 2017,301,Near Mint,English,,,,,,,,,Basic Land  - Swamp,,BasicLand
-7,0,Swamp,Battlebond,252,Near Mint,English,,,,,,,,,Basic Land  - Swamp,,BasicLand
-16,0,Swamp,Commander Anthology Volume II,299,Near Mint,English,,,,,,,,,Basic Land  - Swamp,,BasicLand
-28,0,Swamp,Revised Edition,299,Near Mint,English,,,,,,,,0,Basic Land  - Swamp,,BasicLand
-36,1,Swamp,Ice Age,353,Near Mint,English,,,,,,,,0,Basic Land  - Swamp,,BasicLand
-14,0,Swamp,Battle for Zendikar,260,Near Mint,English,,,,,,,,0,Basic Land  - Swamp,,BasicLand
-1,0,Swamp,Ixalan,269,Near Mint,English,,,,,,,,,Basic Land  - Swamp,,BasicLand
-195,0,Swamp,Core Set 2019,269,Near Mint,English,,,,,,,,0,Basic Land  - Swamp,,BasicLand
+305,1,Swamp,"",,Near Mint,English,,,,,,,,0,Basic Land  - Swamp,,Common
 2,0,Swamp Mosquito,Alliances,30,Near Mint,English,,,,,,,,0,Creature  - Insect,{1}{B},Common
 1,0,Swan Song,Theros,65,Near Mint,English,,,,,,,,0,Instant,{U},Rare
 1,0,Swarm of Bloodflies,Battlebond,161,Near Mint,English,,,,,,,,,Creature  - Insect,{4}{B},Uncommon
@@ -6550,7 +6519,6 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,"Traxos, Scourge of Kroog",Dominaria,234,Near Mint,English,,,,,,,,,Legendary Artifact Creature  - Construct,{4},Rare
 1,0,Tread Mill,Unstable,208,Near Mint,English,,,,,,,,,Artifact - Contraption,,Common
 2,0,Tread Upon,Dragons of Tarkir,211,Near Mint,English,,,,,,,,,Instant,{1}{G},Common
-1,0,Treasure,Extras: Ixalan,7,Near Mint,English,,,,,,,,,Token,,Common
 1,0,Treasure Cruise,Commander 2016,101,Near Mint,English,,,,,,,,,Sorcery,{7}{U},Common
 1,0,Treasure Cruise,Commander Anthology Volume II,53,Near Mint,English,,,,,,,,,Sorcery,{7}{U},Common
 7,0,Treasure Cruise,Khans of Tarkir,59,Near Mint,English,,,,,,,,0,Sorcery,{7}{U},Common
@@ -7246,7 +7214,3 @@ Count,Tradelist Count,Name,Edition,Card Number,Condition,Language,Foil,Signed,Ar
 1,0,Zuran Spellcaster,Ice Age,111,Near Mint,English,,,,,,,,,Creature  - Human Wizard,{2}{U},Common
 1,0,Zurgo Bellstriker,Dragons of Tarkir,169,Near Mint,English,,,,,,,,,Legendary Creature  - Orc Warrior,{R},Rare
 1,0,Zurgo Helmsmasher,Duel Decks: Speed vs. Cunning,1,,,,,,,,,,0,Legendary Creature - Orc Warrior,{2}{R}{W}{B},MythicRare
-
-
-
-
