@@ -12,20 +12,23 @@ Count,Name,Type,Cost,Rarity,Section
 1,"Gisela, the Broken Blade",Legendary Creature  - Angel Horror,{2}{W}{W},MythicRare,main
 1,Griffin Sentinel,Creature  - Griffin,{2}{W},Common,main
 1,Hundred-Handed One,Creature  - Giant,{2}{W}{W},Rare,main
-9,Island,Basic Land  - Island,,Common,main
-2,Kismet,Enchantment,{3}{W},Uncommon,main
+10,Island,Basic Land  - Island,,Common,main
+1,Kismet,Enchantment,{3}{W},Uncommon,main
+1,Land Tax,Enchantment,{W},MythicRare,main
 1,Nimbus Maze,Land,,Rare,main
 10,Plains,Basic Land  - Plains,,Common,main
-3,Power Sink,Instant,{X}{U},Uncommon,main
-2,Recall,Sorcery,{X}{X}{U},Rare,main
+1,Recall,Sorcery,{X}{X}{U},Rare,main
 2,Serra Angel,Creature  - Angel,{3}{W}{W},Uncommon,main
 1,Soul of Theros,Creature  - Avatar,{4}{W}{W},MythicRare,main
 2,Stasis,Enchantment,{1}{U},Rare,main
 1,"Teferi, Hero of Dominaria",Legendary Planeswalker  - Teferi,{3}{W}{U},MythicRare,main
 3,Topan Freeblade,Creature  - Human Soldier,{1}{W},Uncommon,main
 4,Tranquil Cove,Land,,Common,main
-1,Warped Landscape,Land,,Common,main
 2,Zephyr Falcon,Creature  - Bird,{1}{U},Common,main
+1,Kismet,Enchantment,{3}{W},Uncommon,sideboard
+3,Power Sink,Instant,{X}{U},Uncommon,sideboard
+1,Recall,Sorcery,{X}{X}{U},Rare,sideboard
+1,Warped Landscape,Land,,Common,sideboard
 
 
 

@@ -10,13 +10,11 @@ Count,Name,Type,Cost,Rarity,Section
 1,Blinding Spray,Instant,{4}{U},Uncommon,main
 1,Clever Impersonator,Creature  - Shapeshifter,{2}{U}{U},MythicRare,main
 1,Clone,Creature  - Shapeshifter,{3}{U},Rare,main
-1,Codex Shredder,Artifact,{1},Uncommon,main
 1,Colossal Whale,Creature  - Whale,{5}{U}{U},Rare,main
 1,Confiscate,Enchantment  - Aura,{4}{U}{U},Uncommon,main
 1,Corrupted Conscience,Enchantment - Aura,{3}{U}{U},Uncommon,main
 1,Countermand,Instant,{2}{U}{U},Common,main
 1,Counterspell,Instant,{U}{U},Common,main
-1,Countervailing Winds,Instant,{2}{U},Common,main
 1,Cyclonic Rift,Instant,{1}{U},Rare,main
 1,Deepchannel Mentor,Creature  - Merfolk Rogue,{5}{U},Uncommon,main
 1,Desert of the Mindful,Land  - Desert,,Common,main
@@ -30,6 +28,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Fathom Seer,Creature  - Illusion,{1}{U},Common,main
 1,Field of Ruin,Land,,Uncommon,main
 1,Fleet Swallower,Creature  - Fish,{5}{U}{U},Rare,main
+1,Ghost Quarter,Land,,Uncommon,main
 1,Gush,Instant,{4}{U},Common,main
 1,Hover Barrier,Creature  - Illusion Wall,{2}{U},Uncommon,main
 1,Illusory Ambusher,Creature  - Cat Illusion,{4}{U},Uncommon,main
@@ -50,17 +49,19 @@ Count,Name,Type,Cost,Rarity,Section
 1,"Nykthos, Shrine to Nyx",Legendary Land,,Rare,main
 1,Oath of Jace,Legendary Enchantment,{2}{U},Rare,main
 1,Ponder,Sorcery,{U},Common,main
+1,Power Sink,Instant,{X}{U},Uncommon,main
 1,Prodigal Sorcerer,Creature  - Human Wizard,{2}{U},Uncommon,main
 1,Radiant Fountain,Land,,Common,main
+1,Recall,Sorcery,{X}{X}{U},Rare,main
 1,Riftwing Cloudskate,Creature  - Illusion,{3}{U}{U},Uncommon,main
 1,River's Rebuke,Sorcery,{4}{U}{U},Rare,main
 1,Roiling Waters,Sorcery,{5}{U}{U},Uncommon,main
 1,Scavenger Grounds,Land  - Desert,,Rare,main
 1,Scourge of Fleets,Creature  - Kraken,{5}{U}{U},Rare,main
+1,Sentinel Tower,Artifact,{4},Rare,main
 1,Simic Manipulator,Creature  - Mutant Wizard,{1}{U}{U},Rare,main
 1,Sphinx's Tutelage,Enchantment,{2}{U},Uncommon,main
 1,Stormtide Leviathan,Creature  - Leviathan,{5}{U}{U}{U},Rare,main
-1,Strip Mine,Land,,Uncommon,main
 1,Sunscorched Desert,Land  - Desert,,Common,main
 1,Telepathy,Enchantment,{U},Uncommon,main
 1,Tempest Djinn,Creature  - Djinn,{U}{U}{U},Rare,main
@@ -75,10 +76,7 @@ Count,Name,Type,Cost,Rarity,Section
 1,Void Stalker,Creature  - Elemental,{1}{U},Rare,main
 1,Wonder,Creature  - Incarnation,{3}{U},Uncommon,main
 1,Zuran Spellcaster,Creature  - Human Wizard,{2}{U},Common,main
-1,Blasted Landscape,Land,,Uncommon,sideboard
-1,Deepfathom Skulker,Creature  - Eldrazi,{5}{U},Rare,sideboard
-1,"Jace, Architect of Thought",Planeswalker  - Jace,{2}{U}{U},MythicRare,sideboard
-1,Wall of Air,Creature  - Wall,{1}{U}{U},Uncommon,sideboard
+1,Countervailing Winds,Instant,{2}{U},Common,sideboard
 
 
 
